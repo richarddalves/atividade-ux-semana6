@@ -1,0 +1,5746 @@
+[
+  {
+    "UP": "C1AA",
+    "FAZENDA": "SAGRADA FAMILIA (I)",
+    "AREA_HA": 72.484299,
+    "NÚCLEO": "CS1",
+    "x": -53.548162,
+    "y": -20.347363
+  },
+  {
+    "UP": "C1AB",
+    "FAZENDA": "CHACARA INVEJADO (I)",
+    "AREA_HA": 191.556034,
+    "NÚCLEO": "CS1",
+    "x": -53.697964,
+    "y": -20.472653
+  },
+  {
+    "UP": "C1AC",
+    "FAZENDA": "KLEBER (I)",
+    "AREA_HA": 282.150942,
+    "NÚCLEO": "CS1",
+    "x": -53.557801,
+    "y": -20.343833
+  },
+  {
+    "UP": "C1AD",
+    "FAZENDA": "ACAPU (I)",
+    "AREA_HA": 345.245698,
+    "NÚCLEO": "CS1",
+    "x": -53.763437,
+    "y": -20.100274
+  },
+  {
+    "UP": "C1AE",
+    "FAZENDA": "ESPINGARDA - MATEIRA (I)",
+    "AREA_HA": 636.906022,
+    "NÚCLEO": "CS1",
+    "x": -53.839955,
+    "y": -20.347236
+  },
+  {
+    "UP": "C1AF",
+    "FAZENDA": "BOM JARDIM (I)",
+    "AREA_HA": 689.636318,
+    "NÚCLEO": "CS1",
+    "x": -53.216439,
+    "y": -20.397572
+  },
+  {
+    "UP": "C1AG",
+    "FAZENDA": "ESPINGARDA II (I)",
+    "AREA_HA": 902.915206,
+    "NÚCLEO": "CS1",
+    "x": -53.531191,
+    "y": -20.333386
+  },
+  {
+    "UP": "C1AH",
+    "FAZENDA": "LEOPOLDINA (I)",
+    "AREA_HA": 1751.972828,
+    "NÚCLEO": "CS1",
+    "x": -53.676919,
+    "y": -20.190839
+  },
+  {
+    "UP": "C1AI",
+    "FAZENDA": "SANTA CLARA (I)",
+    "AREA_HA": 2250.899848,
+    "NÚCLEO": "CS1",
+    "x": -53.532169,
+    "y": -20.17497
+  },
+  {
+    "UP": "C1AJ",
+    "FAZENDA": "IPYTÁ (I)",
+    "AREA_HA": 2321.859669,
+    "NÚCLEO": "CS1",
+    "x": -53.719754,
+    "y": -20.114111
+  },
+  {
+    "UP": "C1AK",
+    "FAZENDA": "IPUÃ (I)",
+    "AREA_HA": 2414.215212,
+    "NÚCLEO": "CS1",
+    "x": -53.746911,
+    "y": -20.135378
+  },
+  {
+    "UP": "C1AL",
+    "FAZENDA": "SÃO MIGUEL (I)",
+    "AREA_HA": 2442.605033,
+    "NÚCLEO": "CS1",
+    "x": -53.687967,
+    "y": -20.155111
+  },
+  {
+    "UP": "C1AM",
+    "FAZENDA": "LCD (I)",
+    "AREA_HA": 2574.161792,
+    "NÚCLEO": "CS1",
+    "x": -53.674848,
+    "y": -20.229998
+  },
+  {
+    "UP": "C1AN",
+    "FAZENDA": "SÃO CARLOS (I)",
+    "AREA_HA": 4088.483114,
+    "NÚCLEO": "CS1",
+    "x": -53.629708,
+    "y": -20.184955
+  },
+  {
+    "UP": "C1AO",
+    "FAZENDA": "ESPINGARDA - MAMPEI (I)",
+    "AREA_HA": 5293.210404,
+    "NÚCLEO": "CS1",
+    "x": -53.655118,
+    "y": -20.388595
+  },
+  {
+    "UP": "C1AP",
+    "FAZENDA": "BOI PRETO (I)",
+    "AREA_HA": 17460.57606,
+    "NÚCLEO": "CS1",
+    "x": -53.567089,
+    "y": -20.442891
+  },
+  {
+    "UP": "C1AS",
+    "FAZENDA": "GUARANI (I)",
+    "AREA_HA": 2756.213646,
+    "NÚCLEO": "CS1",
+    "x": -53.573179,
+    "y": -20.040791
+  },
+  {
+    "UP": "C1AT",
+    "FAZENDA": "GRANOL -  MODELO I (I)",
+    "AREA_HA": 2616.615422,
+    "NÚCLEO": "CS1",
+    "x": -53.644462,
+    "y": -20.057486
+  },
+  {
+    "UP": "C1AU",
+    "FAZENDA": "RETIRO BELO HORIZONTE (I)",
+    "AREA_HA": 1256.332701,
+    "NÚCLEO": "CS1",
+    "x": -53.395751,
+    "y": -20.165526
+  },
+  {
+    "UP": "C1AV",
+    "FAZENDA": "AURORA (I)",
+    "AREA_HA": 845.419369,
+    "NÚCLEO": "CS1",
+    "x": -53.565128,
+    "y": -20.27931
+  },
+  {
+    "UP": "C1AW",
+    "FAZENDA": "RAINHA DA PAZ (I)",
+    "AREA_HA": 2005.619908,
+    "NÚCLEO": "CS1",
+    "x": -53.553941,
+    "y": -20.312304
+  },
+  {
+    "UP": "C1AX",
+    "FAZENDA": "LAGEADO (I)",
+    "AREA_HA": 1148.749816,
+    "NÚCLEO": "CS1",
+    "x": -53.521304,
+    "y": -20.379295
+  },
+  {
+    "UP": "C1AY",
+    "FAZENDA": "BOM PASTOR (I)",
+    "AREA_HA": 125.882307,
+    "NÚCLEO": "CS1",
+    "x": -53.543056,
+    "y": -20.392712
+  },
+  {
+    "UP": "C1AZ",
+    "FAZENDA": "LAGOA COMPRIDA (I)",
+    "AREA_HA": 1075.2468,
+    "NÚCLEO": "CS1",
+    "x": -53.223759,
+    "y": -20.428441
+  },
+  {
+    "UP": "C1BA",
+    "FAZENDA": "CAMPO LIMPO (I)",
+    "AREA_HA": 1931.160946,
+    "NÚCLEO": "CS1",
+    "x": -53.55698,
+    "y": -20.167133
+  },
+  {
+    "UP": "C1BB",
+    "FAZENDA": "CHACRINHAS BONANZA (I)",
+    "AREA_HA": 48.18207,
+    "NÚCLEO": "CS1",
+    "x": -53.698512,
+    "y": -20.492593
+  },
+  {
+    "UP": "C1BC",
+    "FAZENDA": "PENA ROJA (I)",
+    "AREA_HA": 6471.689525,
+    "NÚCLEO": "CS1",
+    "x": -53.650606,
+    "y": -19.950601
+  },
+  {
+    "UP": "C1BD",
+    "FAZENDA": "LALUVI (I)",
+    "AREA_HA": 633.563508,
+    "NÚCLEO": "CS1",
+    "x": -53.573343,
+    "y": -20.008953
+  },
+  {
+    "UP": "C1BG",
+    "FAZENDA": "ARARAS",
+    "AREA_HA": 1419.406038,
+    "NÚCLEO": "CS1",
+    "x": -53.482994,
+    "y": -20.147998
+  },
+  {
+    "UP": "C1BH",
+    "FAZENDA": "BELA VISTA",
+    "AREA_HA": 1387.710485,
+    "NÚCLEO": "CS1",
+    "x": -53.682403,
+    "y": -20.103683
+  },
+  {
+    "UP": "C1BI",
+    "FAZENDA": "SANTO ANTONIO",
+    "AREA_HA": 677.579857,
+    "NÚCLEO": "CS1",
+    "x": -53.221157,
+    "y": -20.383411
+  },
+  {
+    "UP": "C1BJ",
+    "FAZENDA": "SAO PEDRO",
+    "AREA_HA": 777.16774,
+    "NÚCLEO": "CS1",
+    "x": -53.16867,
+    "y": -20.388843
+  },
+  {
+    "UP": "C1BK",
+    "FAZENDA": "RECANTO PASSARA",
+    "AREA_HA": 136.585105,
+    "NÚCLEO": "CS1",
+    "x": -53.705748,
+    "y": -20.519448
+  },
+  {
+    "UP": "C1BL",
+    "FAZENDA": "FORTUNA",
+    "AREA_HA": 735.609018,
+    "NÚCLEO": "CS1",
+    "x": -53.702868,
+    "y": -20.091671
+  },
+  {
+    "UP": "C1BM",
+    "FAZENDA": "EMA  (F-H099 )",
+    "AREA_HA": 2606.849475,
+    "NÚCLEO": "CS1",
+    "x": -52.803863,
+    "y": -20.50918
+  },
+  {
+    "UP": "C1BN",
+    "FAZENDA": "MAJOR VICENTE  (F-H135 )",
+    "AREA_HA": 1037.294296,
+    "NÚCLEO": "CS1",
+    "x": -52.769995,
+    "y": -20.457761
+  },
+  {
+    "UP": "C1BO",
+    "FAZENDA": "ANA ROSA  (F-H011 )",
+    "AREA_HA": 1810.502302,
+    "NÚCLEO": "CS1",
+    "x": -52.680705,
+    "y": -20.142623
+  },
+  {
+    "UP": "C1BP",
+    "FAZENDA": "FORMOSO  (F-H098 )",
+    "AREA_HA": 3287.907204,
+    "NÚCLEO": "CS1",
+    "x": -53.077231,
+    "y": -20.422817
+  },
+  {
+    "UP": "C1BQ",
+    "FAZENDA": "SANTA CLARA  (F-H136 )",
+    "AREA_HA": 1537.283363,
+    "NÚCLEO": "CS1",
+    "x": -52.983778,
+    "y": -20.417678
+  },
+  {
+    "UP": "C1BR",
+    "FAZENDA": "FORMOSA  (F-H156 )",
+    "AREA_HA": 21902.65171,
+    "NÚCLEO": "CS1",
+    "x": -53.175342,
+    "y": -20.187358
+  },
+  {
+    "UP": "C1BV",
+    "FAZENDA": "VITÓRIA",
+    "AREA_HA": 353.552085,
+    "NÚCLEO": "CS1",
+    "x": -53.594424,
+    "y": -20.559333
+  },
+  {
+    "UP": "C1CA",
+    "FAZENDA": "RANCHO FUNDO",
+    "AREA_HA": 1310.930107,
+    "NÚCLEO": "CS1",
+    "x": -52.947675,
+    "y": -20.44532
+  },
+  {
+    "UP": "C1CB",
+    "FAZENDA": "SANTINA",
+    "AREA_HA": 1892.310349,
+    "NÚCLEO": "CS1",
+    "x": -53.670279,
+    "y": -20.073562
+  },
+  {
+    "UP": "C1CC",
+    "FAZENDA": "SANTO ANTÔNIO",
+    "AREA_HA": 2209.168917,
+    "NÚCLEO": "CS1",
+    "x": -53.815882,
+    "y": -19.99622
+  },
+  {
+    "UP": "C1CE",
+    "FAZENDA": "SÃO SEBASTIÃO",
+    "AREA_HA": 1492.062198,
+    "NÚCLEO": "CS1",
+    "x": -53.426346,
+    "y": -19.990593
+  },
+  {
+    "UP": "C1CF",
+    "FAZENDA": "VÓ CECÍLIA",
+    "AREA_HA": 340.144076,
+    "NÚCLEO": "CS1",
+    "x": -53.705359,
+    "y": -20.062258
+  },
+  {
+    "UP": "C1CG",
+    "FAZENDA": "OSWALDO CRUZ",
+    "AREA_HA": 1267.40347,
+    "NÚCLEO": "CS1",
+    "x": -53.367043,
+    "y": -19.99099
+  },
+  {
+    "UP": "C1CH",
+    "FAZENDA": "RECANTO DOS PÁSSAROS",
+    "AREA_HA": 150.722596,
+    "NÚCLEO": "CS1",
+    "x": -53.721038,
+    "y": -20.527839
+  },
+  {
+    "UP": "C1CI",
+    "FAZENDA": "CHAVE DE OURO",
+    "AREA_HA": 2824.994272,
+    "NÚCLEO": "CS1",
+    "x": -53.500284,
+    "y": -20.119187
+  },
+  {
+    "UP": "C1CJ",
+    "FAZENDA": "SETE MARIAS",
+    "AREA_HA": 1944.849069,
+    "NÚCLEO": "CS1",
+    "x": -53.732499,
+    "y": -20.397359
+  },
+  {
+    "UP": "C1CK",
+    "FAZENDA": "SANTO ANTONIO VI",
+    "AREA_HA": 1358.484661,
+    "NÚCLEO": "CS1",
+    "x": -53.520768,
+    "y": -20.525427
+  },
+  {
+    "UP": "C1CL",
+    "FAZENDA": "SOL NASCENTE",
+    "AREA_HA": 850.509429,
+    "NÚCLEO": "CS1",
+    "x": -53.598999,
+    "y": -20.514192
+  },
+  {
+    "UP": "C1CM",
+    "FAZENDA": "ONÇA PINTADA",
+    "AREA_HA": 4038.22658,
+    "NÚCLEO": "CS1",
+    "x": -53.918036,
+    "y": -19.744811
+  },
+  {
+    "UP": "C1CN",
+    "FAZENDA": "SANTA LUCIA II",
+    "AREA_HA": 608.723899,
+    "NÚCLEO": "CS1",
+    "x": -53.858274,
+    "y": -20.162776
+  },
+  {
+    "UP": "C1CO",
+    "FAZENDA": "NATIVA",
+    "AREA_HA": 425.27811,
+    "NÚCLEO": "CS1",
+    "x": -53.846192,
+    "y": -20.190316
+  },
+  {
+    "UP": "C1CP",
+    "FAZENDA": "MONTANA",
+    "AREA_HA": 6472.472098,
+    "NÚCLEO": "CS1",
+    "x": -53.527787,
+    "y": -19.93116
+  },
+  {
+    "UP": "C1CQ",
+    "FAZENDA": "VÓ MADALENA",
+    "AREA_HA": 230.953941,
+    "NÚCLEO": "CS1",
+    "x": -52.750112,
+    "y": -20.457527
+  },
+  {
+    "UP": "C1CR",
+    "FAZENDA": "TRÊS MARRECAS",
+    "AREA_HA": 972.820691,
+    "NÚCLEO": "CS1",
+    "x": -53.696787,
+    "y": -20.262685
+  },
+  {
+    "UP": "C1CS",
+    "FAZENDA": "TOCA DA ONÇA",
+    "AREA_HA": 435.65622,
+    "NÚCLEO": "CS1",
+    "x": -53.819058,
+    "y": -20.067283
+  },
+  {
+    "UP": "C1CT",
+    "FAZENDA": "LIMÃO",
+    "AREA_HA": 1086.756354,
+    "NÚCLEO": "CS1",
+    "x": -53.863555,
+    "y": -19.864788
+  },
+  {
+    "UP": "C1CU",
+    "FAZENDA": "RANCHO FUNDO III",
+    "AREA_HA": 405.105023,
+    "NÚCLEO": "CS1",
+    "x": -53.432369,
+    "y": -19.897351
+  },
+  {
+    "UP": "C1CV",
+    "FAZENDA": "2R",
+    "AREA_HA": 84.017391,
+    "NÚCLEO": "CS1",
+    "x": -53.510499,
+    "y": -20.509722
+  },
+  {
+    "UP": "C1CW",
+    "FAZENDA": "SANTA ROSA VI",
+    "AREA_HA": 841.277745,
+    "NÚCLEO": "CS1",
+    "x": -53.547357,
+    "y": -20.548348
+  },
+  {
+    "UP": "C1CX",
+    "FAZENDA": "BARREIRO",
+    "AREA_HA": 1788.569748,
+    "NÚCLEO": "CS1",
+    "x": -53.845814,
+    "y": -19.892976
+  },
+  {
+    "UP": "C1CY",
+    "FAZENDA": "ARROZ QUEIMADO",
+    "AREA_HA": 659.494419,
+    "NÚCLEO": "CS1",
+    "x": -53.622196,
+    "y": -20.030297
+  },
+  {
+    "UP": "C1CZ",
+    "FAZENDA": "BURITI IV",
+    "AREA_HA": 1039.955719,
+    "NÚCLEO": "CS1",
+    "x": -53.534658,
+    "y": -20.26122
+  },
+  {
+    "UP": "C1DA",
+    "FAZENDA": "LAGEADO II",
+    "AREA_HA": 957.841475,
+    "NÚCLEO": "CS1",
+    "x": -53.246782,
+    "y": -20.360153
+  },
+  {
+    "UP": "C1DB",
+    "FAZENDA": "BONANZA",
+    "AREA_HA": 3649.172438,
+    "NÚCLEO": "CS1",
+    "x": -53.421847,
+    "y": -20.34187
+  },
+  {
+    "UP": "C1DE",
+    "FAZENDA": "ALTO MANTENA",
+    "AREA_HA": 940.100899,
+    "NÚCLEO": "CS1",
+    "x": -53.600942,
+    "y": -20.375913
+  },
+  {
+    "UP": "C1DF",
+    "FAZENDA": "SÍTIO SANTO ANTÔNIO II",
+    "AREA_HA": 64.026127,
+    "NÚCLEO": "CS1",
+    "x": -53.704653,
+    "y": -20.508762
+  },
+  {
+    "UP": "C1DG",
+    "FAZENDA": "MARACATU",
+    "AREA_HA": 2404.458989,
+    "NÚCLEO": "CS1",
+    "x": -53.803335,
+    "y": -20.105654
+  },
+  {
+    "UP": "C1DH",
+    "FAZENDA": "LAJEADO II",
+    "AREA_HA": 2353.328724,
+    "NÚCLEO": "CS1",
+    "x": -53.331043,
+    "y": -20.149464
+  },
+  {
+    "UP": "C1DI",
+    "FAZENDA": "SANTA REGINA",
+    "AREA_HA": 1469.584071,
+    "NÚCLEO": "CS1",
+    "x": -53.76598,
+    "y": -19.995176
+  },
+  {
+    "UP": "C1DK",
+    "FAZENDA": "JAIC I",
+    "AREA_HA": 876.311815,
+    "NÚCLEO": "CS1",
+    "x": -53.535004,
+    "y": -19.99679
+  },
+  {
+    "UP": "C1DL",
+    "FAZENDA": "SANTA MARIA X",
+    "AREA_HA": 1071.082573,
+    "NÚCLEO": "CS1",
+    "x": -53.602563,
+    "y": -19.964858
+  },
+  {
+    "UP": "C1DM",
+    "FAZENDA": "SANTA MARTA",
+    "AREA_HA": 484.104886,
+    "NÚCLEO": "CS1",
+    "x": -53.015764,
+    "y": -20.770418
+  },
+  {
+    "UP": "C1DN",
+    "FAZENDA": "SÃO JUDAS TADEU II",
+    "AREA_HA": 741.049463,
+    "NÚCLEO": "CS1",
+    "x": -52.735177,
+    "y": -20.462562
+  },
+  {
+    "UP": "C1DO",
+    "FAZENDA": "CABECEIRA COMPRIDA-NOSSA SRA FATIMA",
+    "AREA_HA": 4746.242117,
+    "NÚCLEO": "CS1",
+    "x": -53.392932,
+    "y": -20.086867
+  },
+  {
+    "UP": "C1DP",
+    "FAZENDA": "OLIVEIRA - IFI",
+    "AREA_HA": 1238.710378,
+    "NÚCLEO": "CS1",
+    "x": -52.878926,
+    "y": -20.149682
+  },
+  {
+    "UP": "C1DQ",
+    "FAZENDA": "JACARÉ",
+    "AREA_HA": 774.772414,
+    "NÚCLEO": "CS1",
+    "x": -52.854313,
+    "y": -20.213601
+  },
+  {
+    "UP": "C1DR",
+    "FAZENDA": "SÍTIO LILASES",
+    "AREA_HA": 77.346048,
+    "NÚCLEO": "CS1",
+    "x": -53.730426,
+    "y": -20.519448
+  },
+  {
+    "UP": "C1DS",
+    "FAZENDA": "BARRA DO LOBO E FERREIROS",
+    "AREA_HA": 1012.058872,
+    "NÚCLEO": "CS1",
+    "x": -52.86364,
+    "y": -20.523138
+  },
+  {
+    "UP": "C1DT",
+    "FAZENDA": "VÓ NADIR",
+    "AREA_HA": 2252.975964,
+    "NÚCLEO": "CS1",
+    "x": -53.384014,
+    "y": -20.436123
+  },
+  {
+    "UP": "C1DU",
+    "FAZENDA": "DOIS IRMÃOS II",
+    "AREA_HA": 502.07445,
+    "NÚCLEO": "CS1",
+    "x": -53.792464,
+    "y": -19.938615
+  },
+  {
+    "UP": "C1DV",
+    "FAZENDA": "SANTA CLARA III",
+    "AREA_HA": 382.548112,
+    "NÚCLEO": "CS1",
+    "x": -53.892039,
+    "y": -20.22885
+  },
+  {
+    "UP": "C1DW",
+    "FAZENDA": "LA AGUADA",
+    "AREA_HA": 2409.95348,
+    "NÚCLEO": "CS1",
+    "x": -53.631354,
+    "y": -19.672709
+  },
+  {
+    "UP": "C1DX",
+    "FAZENDA": "TODOS OS SANTOS",
+    "AREA_HA": 2512.685072,
+    "NÚCLEO": "CS1",
+    "x": -53.706945,
+    "y": -19.810173
+  },
+  {
+    "UP": "C1DY",
+    "FAZENDA": "BOA AGUADA",
+    "AREA_HA": 5457.197342,
+    "NÚCLEO": "CS1",
+    "x": -53.258793,
+    "y": -20.312371
+  },
+  {
+    "UP": "C1DZ",
+    "FAZENDA": "BARRADO LOBO E FERREIROS II",
+    "AREA_HA": 1012.046155,
+    "NÚCLEO": "CS1",
+    "x": -52.8601,
+    "y": -20.503094
+  },
+  {
+    "UP": "C1EA",
+    "FAZENDA": "LARANJAL",
+    "AREA_HA": 828.561926,
+    "NÚCLEO": "CS1",
+    "x": -53.079994,
+    "y": -20.35851
+  },
+  {
+    "UP": "C1EB",
+    "FAZENDA": "TUCANO",
+    "AREA_HA": 3774.954475,
+    "NÚCLEO": "CS1",
+    "x": -53.550339,
+    "y": -20.084094
+  },
+  {
+    "UP": "C1EC",
+    "FAZENDA": "INVEJANDO",
+    "AREA_HA": 12.715409,
+    "NÚCLEO": "CS1",
+    "x": -53.701268,
+    "y": -20.489654
+  },
+  {
+    "UP": "C1ED",
+    "FAZENDA": "ARATACA",
+    "AREA_HA": 2469.998897,
+    "NÚCLEO": "CS1",
+    "x": -53.984356,
+    "y": -20.127483
+  },
+  {
+    "UP": "C1EE",
+    "FAZENDA": "2R GLEBA 03",
+    "AREA_HA": 96.810303,
+    "NÚCLEO": "CS1",
+    "x": -53.537995,
+    "y": -20.524871
+  },
+  {
+    "UP": "C1EF",
+    "FAZENDA": "FLÓRIDA",
+    "AREA_HA": 1583.231832,
+    "NÚCLEO": "CS1",
+    "x": -53.598999,
+    "y": -20.014851
+  },
+  {
+    "UP": "C1EG",
+    "FAZENDA": "2R GLEBA 01",
+    "AREA_HA": 153.125244,
+    "NÚCLEO": "CS1",
+    "x": -53.495154,
+    "y": -20.514007
+  },
+  {
+    "UP": "C1EH",
+    "FAZENDA": "LARANJAL II",
+    "AREA_HA": 1785.659708,
+    "NÚCLEO": "CS1",
+    "x": -53.094171,
+    "y": -20.383416
+  },
+  {
+    "UP": "C1EI",
+    "FAZENDA": "SÃO JOÃO V",
+    "AREA_HA": 6506.928674,
+    "NÚCLEO": "CS1",
+    "x": -53.377795,
+    "y": -19.618289
+  },
+  {
+    "UP": "C1EJ",
+    "FAZENDA": "NIRVANA",
+    "AREA_HA": 25.050351,
+    "NÚCLEO": "CS1",
+    "x": -53.700406,
+    "y": -20.500834
+  },
+  {
+    "UP": "C1EK",
+    "FAZENDA": "FUTURA GLEBA  A",
+    "AREA_HA": 618.202918,
+    "NÚCLEO": "CS1",
+    "x": -53.352712,
+    "y": -20.060056
+  },
+  {
+    "UP": "C1EL",
+    "FAZENDA": "ARARAS II",
+    "AREA_HA": 232.215719,
+    "NÚCLEO": "CS1",
+    "x": -53.522762,
+    "y": -20.052089
+  },
+  {
+    "UP": "C1EM",
+    "FAZENDA": "SERENATA",
+    "AREA_HA": 1496.136732,
+    "NÚCLEO": "CS1",
+    "x": -53.60295,
+    "y": -19.803517
+  },
+  {
+    "UP": "C1EN",
+    "FAZENDA": "SANTA ANA",
+    "AREA_HA": 1000.794102,
+    "NÚCLEO": "CS1",
+    "x": -53.385316,
+    "y": -19.931742
+  },
+  {
+    "UP": "C1EO",
+    "FAZENDA": "CÓRREGO DO BRAÇO",
+    "AREA_HA": 2158.223303,
+    "NÚCLEO": "CS1",
+    "x": -53.830578,
+    "y": -19.73174
+  },
+  {
+    "UP": "C1EP",
+    "FAZENDA": "SANTA ROSA DO ALEGRIA",
+    "AREA_HA": 755.24251,
+    "NÚCLEO": "CS1",
+    "x": -53.831747,
+    "y": -20.299521
+  },
+  {
+    "UP": "C1EQ",
+    "FAZENDA": "TARUMÃ II",
+    "AREA_HA": 1287.26547,
+    "NÚCLEO": "CS1",
+    "x": -53.57807,
+    "y": -20.11276
+  },
+  {
+    "UP": "C1ER",
+    "FAZENDA": "SABATACHE",
+    "AREA_HA": 3914.7553,
+    "NÚCLEO": "CS1",
+    "x": -53.227073,
+    "y": -20.100984
+  },
+  {
+    "UP": "C1ES",
+    "FAZENDA": "LAGOA COMPRIDA II",
+    "AREA_HA": 922.98285,
+    "NÚCLEO": "CS1",
+    "x": -53.207068,
+    "y": -20.449138
+  },
+  {
+    "UP": "C1ET",
+    "FAZENDA": "JATAÍ",
+    "AREA_HA": 678.472942,
+    "NÚCLEO": "CS1",
+    "x": -53.131656,
+    "y": -20.38232
+  },
+  {
+    "UP": "C1EU",
+    "FAZENDA": "NELORE",
+    "AREA_HA": 2723.059578,
+    "NÚCLEO": "CS1",
+    "x": -53.570509,
+    "y": -20.14282
+  },
+  {
+    "UP": "C1EV",
+    "FAZENDA": "SOL NASCENTE II",
+    "AREA_HA": 111.070691,
+    "NÚCLEO": "CS1",
+    "x": -53.474134,
+    "y": -19.999895
+  },
+  {
+    "UP": "C1EW",
+    "FAZENDA": "GUAVIRA II",
+    "AREA_HA": 105.152141,
+    "NÚCLEO": "CS1",
+    "x": -53.521812,
+    "y": -20.033884
+  },
+  {
+    "UP": "C1EX",
+    "FAZENDA": "SERIEMA II",
+    "AREA_HA": 312.094891,
+    "NÚCLEO": "CS1",
+    "x": -53.884376,
+    "y": -20.129506
+  },
+  {
+    "UP": "C1EY",
+    "FAZENDA": "RIO PARDO",
+    "AREA_HA": 115.292142,
+    "NÚCLEO": "CS1",
+    "x": -53.623152,
+    "y": -20.496524
+  },
+  {
+    "UP": "C1EZ",
+    "FAZENDA": "CLODASIL",
+    "AREA_HA": 6353.267533,
+    "NÚCLEO": "CS1",
+    "x": -53.666765,
+    "y": -19.827288
+  },
+  {
+    "UP": "C1GB",
+    "FAZENDA": "COLÔNIA BARRINHA GERAL",
+    "AREA_HA": 81.679977,
+    "NÚCLEO": "CS1",
+    "x": -53.707004,
+    "y": -20.498865
+  },
+  {
+    "UP": "C1GC",
+    "FAZENDA": "RECREIO",
+    "AREA_HA": 3289.679561,
+    "NÚCLEO": "CS1",
+    "x": -53.87585,
+    "y": -20.254931
+  },
+  {
+    "UP": "C1GD",
+    "FAZENDA": "ESPIRITO SANTO",
+    "AREA_HA": 107.356235,
+    "NÚCLEO": "CS1",
+    "x": -53.522076,
+    "y": -20.03994
+  },
+  {
+    "UP": "C1GE",
+    "FAZENDA": "CAR29",
+    "AREA_HA": 205.623275,
+    "NÚCLEO": "CS1",
+    "x": -53.719753,
+    "y": -20.424498
+  },
+  {
+    "UP": "C1GF",
+    "FAZENDA": "ÁGUA VERDE",
+    "AREA_HA": 315.357805,
+    "NÚCLEO": "CS1",
+    "x": -53.740871,
+    "y": -20.293308
+  },
+  {
+    "UP": "C1GG",
+    "FAZENDA": "TODOS OS SANTOS II",
+    "AREA_HA": 772.314836,
+    "NÚCLEO": "CS1",
+    "x": -53.739002,
+    "y": -19.839214
+  },
+  {
+    "UP": "C1GH",
+    "FAZENDA": "PRIMAVERA IV",
+    "AREA_HA": 610.759126,
+    "NÚCLEO": "CS1",
+    "x": -53.128531,
+    "y": -20.45461
+  },
+  {
+    "UP": "C1GI",
+    "FAZENDA": "VARGEÃO",
+    "AREA_HA": 598.487021,
+    "NÚCLEO": "CS1",
+    "x": -53.567717,
+    "y": -20.546117
+  },
+  {
+    "UP": "C1GJ",
+    "FAZENDA": "CÓRREGO DO BUGRE",
+    "AREA_HA": 1013.129285,
+    "NÚCLEO": "CS1",
+    "x": -53.689823,
+    "y": -20.367115
+  },
+  {
+    "UP": "C1GK",
+    "FAZENDA": "VÓ CECÍLIA II",
+    "AREA_HA": 796.536327,
+    "NÚCLEO": "CS1",
+    "x": -53.737857,
+    "y": -20.082897
+  },
+  {
+    "UP": "C1GM",
+    "FAZENDA": "GOAÇU",
+    "AREA_HA": 2970.567535,
+    "NÚCLEO": "CS1",
+    "x": -53.344786,
+    "y": -20.033087
+  },
+  {
+    "UP": "C1GN",
+    "FAZENDA": "JARDIM",
+    "AREA_HA": 291.200821,
+    "NÚCLEO": "CS1",
+    "x": -53.891557,
+    "y": -20.305446
+  },
+  {
+    "UP": "C1GO",
+    "FAZENDA": "RIATA",
+    "AREA_HA": 423.475675,
+    "NÚCLEO": "CS1",
+    "x": -53.870336,
+    "y": -20.286437
+  },
+  {
+    "UP": "C1GP",
+    "FAZENDA": "SANTA ROSA VII",
+    "AREA_HA": 1537.672857,
+    "NÚCLEO": "CS1",
+    "x": -53.861155,
+    "y": -20.319355
+  },
+  {
+    "UP": "C1GQ",
+    "FAZENDA": "IRMÃO DA ESTRADA",
+    "AREA_HA": 136.786913,
+    "NÚCLEO": "CS1",
+    "x": -53.511479,
+    "y": -20.07658
+  },
+  {
+    "UP": "C1GR",
+    "FAZENDA": "SD PECUÁRIA",
+    "AREA_HA": 236.67445,
+    "NÚCLEO": "CS1",
+    "x": -53.509083,
+    "y": -20.033692
+  },
+  {
+    "UP": "C1GS",
+    "FAZENDA": "ARARAS III",
+    "AREA_HA": 347.955269,
+    "NÚCLEO": "CS1",
+    "x": -53.518033,
+    "y": -20.061442
+  },
+  {
+    "UP": "C1GT",
+    "FAZENDA": "MARIANA II",
+    "AREA_HA": 280.249064,
+    "NÚCLEO": "CS1",
+    "x": -53.499686,
+    "y": -20.056789
+  },
+  {
+    "UP": "C1GU",
+    "FAZENDA": "ARARAS IV",
+    "AREA_HA": 116.731409,
+    "NÚCLEO": "CS1",
+    "x": -53.506384,
+    "y": -20.047702
+  },
+  {
+    "UP": "C1GV",
+    "FAZENDA": "ARARAS V",
+    "AREA_HA": 156.754796,
+    "NÚCLEO": "CS1",
+    "x": -53.495274,
+    "y": -20.040422
+  },
+  {
+    "UP": "C1GW",
+    "FAZENDA": "COQUEIRO",
+    "AREA_HA": 1454.997969,
+    "NÚCLEO": "CS1",
+    "x": -53.619598,
+    "y": -20.323471
+  },
+  {
+    "UP": "C1GX",
+    "FAZENDA": "JARDIM II",
+    "AREA_HA": 507.882016,
+    "NÚCLEO": "CS1",
+    "x": -53.407356,
+    "y": -20.384567
+  },
+  {
+    "UP": "C1GY",
+    "FAZENDA": "FAXINAL",
+    "AREA_HA": 4665.583875,
+    "NÚCLEO": "CS1",
+    "x": -52.599063,
+    "y": -20.169772
+  },
+  {
+    "UP": "C1GZ",
+    "FAZENDA": "SANTO ONOFRE",
+    "AREA_HA": 1055.268275,
+    "NÚCLEO": "CS1",
+    "x": -53.415726,
+    "y": -20.180263
+  },
+  {
+    "UP": "C1JA",
+    "FAZENDA": "SANTA TEREZA II",
+    "AREA_HA": 712.15706,
+    "NÚCLEO": "CS1",
+    "x": -53.471569,
+    "y": -20.395027
+  },
+  {
+    "UP": "C1JB",
+    "FAZENDA": "BOM SUCESSO II",
+    "AREA_HA": 1606.745212,
+    "NÚCLEO": "CS1",
+    "x": -53.79757,
+    "y": -20.145109
+  },
+  {
+    "UP": "C1JC",
+    "FAZENDA": "SÃO JORGE II",
+    "AREA_HA": 442.950826,
+    "NÚCLEO": "CS1",
+    "x": -53.501143,
+    "y": -20.078128
+  },
+  {
+    "UP": "C1JD",
+    "FAZENDA": "CÓRREGO DO BUGRE II",
+    "AREA_HA": 1585.004452,
+    "NÚCLEO": "CS1",
+    "x": -53.722633,
+    "y": -20.361333
+  },
+  {
+    "UP": "C1JF",
+    "FAZENDA": "GUARANI II",
+    "AREA_HA": 2312.286613,
+    "NÚCLEO": "CS1",
+    "x": -52.870946,
+    "y": -20.183346
+  },
+  {
+    "UP": "C1JG",
+    "FAZENDA": "EUROPA",
+    "AREA_HA": 3329.468381,
+    "NÚCLEO": "CS1",
+    "x": -53.945091,
+    "y": -20.137227
+  },
+  {
+    "UP": "C1JH",
+    "FAZENDA": "NOSSA SENHORA APARECIDA IX",
+    "AREA_HA": 779.376669,
+    "NÚCLEO": "CS1",
+    "x": -52.896222,
+    "y": -20.119303
+  },
+  {
+    "UP": "C1JI",
+    "FAZENDA": "UNIÃO II",
+    "AREA_HA": 4702.752541,
+    "NÚCLEO": "CS1",
+    "x": -52.757666,
+    "y": -20.528034
+  },
+  {
+    "UP": "C1JJ",
+    "FAZENDA": "CONQUISTA IV",
+    "AREA_HA": 961.545717,
+    "NÚCLEO": "CS1",
+    "x": -53.144551,
+    "y": -20.474615
+  },
+  {
+    "UP": "C1JK",
+    "FAZENDA": "CABECEIRA FUNDA",
+    "AREA_HA": 2168.506691,
+    "NÚCLEO": "CS1",
+    "x": -53.45356,
+    "y": -20.147571
+  },
+  {
+    "UP": "C1JM",
+    "FAZENDA": "ITACURU",
+    "AREA_HA": 2654.126131,
+    "NÚCLEO": "CS1",
+    "x": -53.966254,
+    "y": -20.062524
+  },
+  {
+    "UP": "C1JN",
+    "FAZENDA": "VERDE MAR II",
+    "AREA_HA": 9604.574407,
+    "NÚCLEO": "CS1",
+    "x": -53.439947,
+    "y": -20.046804
+  },
+  {
+    "UP": "C1JP",
+    "FAZENDA": "ITAPORÃ",
+    "AREA_HA": 4845.603304,
+    "NÚCLEO": "CS1",
+    "x": -53.916878,
+    "y": -20.067916
+  },
+  {
+    "UP": "C1JQ",
+    "FAZENDA": "SANTO ANTÔNIO DO MONTE ALEGRE",
+    "AREA_HA": 3490.47657,
+    "NÚCLEO": "CS1",
+    "x": -52.539274,
+    "y": -20.174181
+  },
+  {
+    "UP": "C1JR",
+    "FAZENDA": "VERDE MAR",
+    "AREA_HA": 7790.035998,
+    "NÚCLEO": "CS1",
+    "x": -52.832515,
+    "y": -20.149782
+  },
+  {
+    "UP": "C1JT",
+    "FAZENDA": "RECANTO DAS EMAS",
+    "AREA_HA": 252.97564,
+    "NÚCLEO": "CS1",
+    "x": -53.936595,
+    "y": -20.305088
+  },
+  {
+    "UP": "C1JU",
+    "FAZENDA": "ANA PAULA",
+    "AREA_HA": 1038.793432,
+    "NÚCLEO": "CS1",
+    "x": -53.050359,
+    "y": -20.480125
+  },
+  {
+    "UP": "C1JV",
+    "FAZENDA": "NOSSA SENHORA DE FÁTIMA II",
+    "AREA_HA": 1301.12846,
+    "NÚCLEO": "CS1",
+    "x": -53.682531,
+    "y": -19.976886
+  },
+  {
+    "UP": "C1JW",
+    "FAZENDA": "SANTÍSSIMA TRINDADE",
+    "AREA_HA": 209.35531,
+    "NÚCLEO": "CS1",
+    "x": -53.530412,
+    "y": -20.070779
+  },
+  {
+    "UP": "C1JX",
+    "FAZENDA": "RECANTO DAS EMAS II",
+    "AREA_HA": 663.166054,
+    "NÚCLEO": "CS1",
+    "x": -53.954085,
+    "y": -20.296255
+  },
+  {
+    "UP": "C1JY",
+    "FAZENDA": "CAR30",
+    "AREA_HA": 1498.711433,
+    "NÚCLEO": "CS1",
+    "x": -53.98361,
+    "y": -20.174842
+  },
+  {
+    "UP": "C1JZ",
+    "FAZENDA": "CAR25",
+    "AREA_HA": 558.38161,
+    "NÚCLEO": "CS1",
+    "x": -53.980326,
+    "y": -20.224137
+  },
+  {
+    "UP": "C1KB",
+    "FAZENDA": "SANTA LUCIA III",
+    "AREA_HA": 1833.0624,
+    "NÚCLEO": "CS1",
+    "x": -53.697876,
+    "y": -20.429619
+  },
+  {
+    "UP": "C1KC",
+    "FAZENDA": "SÃO BENTO IV",
+    "AREA_HA": 455.510525,
+    "NÚCLEO": "CS1",
+    "x": -53.625611,
+    "y": -20.412843
+  },
+  {
+    "UP": "C1KD",
+    "FAZENDA": "BOM JESUS DO RIO PARDO",
+    "AREA_HA": 1495.472729,
+    "NÚCLEO": "CS1",
+    "x": -53.811933,
+    "y": -20.329603
+  },
+  {
+    "UP": "C1KE",
+    "FAZENDA": "GUAVIRA II",
+    "AREA_HA": 28.673937,
+    "NÚCLEO": "CS1",
+    "x": -53.507789,
+    "y": -20.04288
+  },
+  {
+    "UP": "C1KF",
+    "FAZENDA": "FAZENDA ARARAS - AREA 2A",
+    "AREA_HA": 29.679399,
+    "NÚCLEO": "CS1",
+    "x": -53.499454,
+    "y": -20.045473
+  },
+  {
+    "UP": "C2AA",
+    "FAZENDA": "INEC II (I)",
+    "AREA_HA": 810.607534,
+    "NÚCLEO": "CS2",
+    "x": -53.821785,
+    "y": -20.657719
+  },
+  {
+    "UP": "C2AB",
+    "FAZENDA": "DOIS MARTELOS (I)",
+    "AREA_HA": 1595.103173,
+    "NÚCLEO": "CS2",
+    "x": -53.790879,
+    "y": -20.580759
+  },
+  {
+    "UP": "C2AC",
+    "FAZENDA": "FSW (I)",
+    "AREA_HA": 2462.225528,
+    "NÚCLEO": "CS2",
+    "x": -53.730394,
+    "y": -20.64381
+  },
+  {
+    "UP": "C2CD",
+    "FAZENDA": "ANDRAMIL I (I)",
+    "AREA_HA": 427.223888,
+    "NÚCLEO": "CS2",
+    "x": -53.763516,
+    "y": -20.610732
+  },
+  {
+    "UP": "C2CE",
+    "FAZENDA": "ANDRAMIL II (I)",
+    "AREA_HA": 2278.717072,
+    "NÚCLEO": "CS2",
+    "x": -53.809584,
+    "y": -20.620336
+  },
+  {
+    "UP": "C2CF",
+    "FAZENDA": "CASSUNUNGA (I)",
+    "AREA_HA": 9819.777306,
+    "NÚCLEO": "CS2",
+    "x": -53.894206,
+    "y": -20.556102
+  },
+  {
+    "UP": "C2CH",
+    "FAZENDA": "NOVA DA MATA (I)",
+    "AREA_HA": 6474.241274,
+    "NÚCLEO": "CS2",
+    "x": -53.858826,
+    "y": -20.468771
+  },
+  {
+    "UP": "C2CJ",
+    "FAZENDA": "SANTA LUZIA (I)",
+    "AREA_HA": 2638.712376,
+    "NÚCLEO": "CS2",
+    "x": -53.431769,
+    "y": -20.67556
+  },
+  {
+    "UP": "C2CK",
+    "FAZENDA": "PONTE ALTA (I)",
+    "AREA_HA": 10478.36304,
+    "NÚCLEO": "CS2",
+    "x": -53.963975,
+    "y": -20.899687
+  },
+  {
+    "UP": "C2CL",
+    "FAZENDA": "MUTUM",
+    "AREA_HA": 50744.02651,
+    "NÚCLEO": "CS2",
+    "x": -53.11934,
+    "y": -20.532306
+  },
+  {
+    "UP": "C2CM",
+    "FAZENDA": "NOSSA SENHORA APARECIDA",
+    "AREA_HA": 2588.260346,
+    "NÚCLEO": "CS2",
+    "x": -53.497368,
+    "y": -20.678818
+  },
+  {
+    "UP": "C2CN",
+    "FAZENDA": "BURITI",
+    "AREA_HA": 3669.253146,
+    "NÚCLEO": "CS2",
+    "x": -54.016829,
+    "y": -20.544922
+  },
+  {
+    "UP": "C2CO",
+    "FAZENDA": "PARAÍSO",
+    "AREA_HA": 606.175023,
+    "NÚCLEO": "CS2",
+    "x": -53.689744,
+    "y": -20.5869
+  },
+  {
+    "UP": "C2CP",
+    "FAZENDA": "DA MATA",
+    "AREA_HA": 3485.88904,
+    "NÚCLEO": "CS2",
+    "x": -53.892542,
+    "y": -20.504581
+  },
+  {
+    "UP": "C2CQ",
+    "FAZENDA": "SÃO GUILHERME  (F-H183 )",
+    "AREA_HA": 18090.27143,
+    "NÚCLEO": "CS2",
+    "x": -53.462723,
+    "y": -20.573482
+  },
+  {
+    "UP": "C2CR",
+    "FAZENDA": "NOVA DO MIMOSO",
+    "AREA_HA": 833.483905,
+    "NÚCLEO": "CS2",
+    "x": -53.433299,
+    "y": -20.721963
+  },
+  {
+    "UP": "C2CS",
+    "FAZENDA": "SACRAMENTO",
+    "AREA_HA": 3144.244742,
+    "NÚCLEO": "CS2",
+    "x": -53.317085,
+    "y": -20.692989
+  },
+  {
+    "UP": "C2CT",
+    "FAZENDA": "LAGOA BONITA",
+    "AREA_HA": 1474.296243,
+    "NÚCLEO": "CS2",
+    "x": -53.992602,
+    "y": -20.579661
+  },
+  {
+    "UP": "C2CU",
+    "FAZENDA": "SAVANA",
+    "AREA_HA": 1412.788283,
+    "NÚCLEO": "CS2",
+    "x": -53.767034,
+    "y": -21.336538
+  },
+  {
+    "UP": "C2CV",
+    "FAZENDA": "CASA GRANDE",
+    "AREA_HA": 1122.433597,
+    "NÚCLEO": "CS2",
+    "x": -53.923717,
+    "y": -21.212118
+  },
+  {
+    "UP": "C2CW",
+    "FAZENDA": "ITAMOARA",
+    "AREA_HA": 4190.254944,
+    "NÚCLEO": "CS2",
+    "x": -53.867344,
+    "y": -21.21659
+  },
+  {
+    "UP": "C2CX",
+    "FAZENDA": "NHU VERA",
+    "AREA_HA": 2696.430452,
+    "NÚCLEO": "CS2",
+    "x": -53.818384,
+    "y": -21.217664
+  },
+  {
+    "UP": "C2CY",
+    "FAZENDA": "VARJÃO DO LONTRA",
+    "AREA_HA": 1258.705209,
+    "NÚCLEO": "CS2",
+    "x": -53.720267,
+    "y": -21.157532
+  },
+  {
+    "UP": "C2CZ",
+    "FAZENDA": "SÃO JOSÉ II",
+    "AREA_HA": 14.974456,
+    "NÚCLEO": "CS2",
+    "x": -53.831319,
+    "y": -20.544265
+  },
+  {
+    "UP": "C2DA",
+    "FAZENDA": "CARACU",
+    "AREA_HA": 971.456259,
+    "NÚCLEO": "CS2",
+    "x": -53.4685,
+    "y": -20.507612
+  },
+  {
+    "UP": "C2DB",
+    "FAZENDA": "NOVA DOS MORROS",
+    "AREA_HA": 1065.789346,
+    "NÚCLEO": "CS2",
+    "x": -54.105423,
+    "y": -20.670798
+  },
+  {
+    "UP": "C2DC",
+    "FAZENDA": "ESTRELA",
+    "AREA_HA": 3926.516361,
+    "NÚCLEO": "CS2",
+    "x": -53.848833,
+    "y": -21.081057
+  },
+  {
+    "UP": "C2DD",
+    "FAZENDA": "SAO JOSE VI",
+    "AREA_HA": 1552.081135,
+    "NÚCLEO": "CS2",
+    "x": -53.396146,
+    "y": -20.731924
+  },
+  {
+    "UP": "C2DE",
+    "FAZENDA": "LUZ DO SOL",
+    "AREA_HA": 139.39636,
+    "NÚCLEO": "CS2",
+    "x": -53.733637,
+    "y": -20.534603
+  },
+  {
+    "UP": "C2DF",
+    "FAZENDA": "VIVEIRO DE MUDAS MS",
+    "AREA_HA": 30.270655,
+    "NÚCLEO": "CS2",
+    "x": -54.539515,
+    "y": -20.617423
+  },
+  {
+    "UP": "C2DI",
+    "FAZENDA": "MANOEL PIRES",
+    "AREA_HA": 2650.463467,
+    "NÚCLEO": "CS2",
+    "x": -53.275517,
+    "y": -20.416643
+  },
+  {
+    "UP": "C2DL",
+    "FAZENDA": "SAO DONATO",
+    "AREA_HA": 2370.638782,
+    "NÚCLEO": "CS2",
+    "x": -53.467482,
+    "y": -21.180629
+  },
+  {
+    "UP": "C2DM",
+    "FAZENDA": "MIMOSO - GLEBA C",
+    "AREA_HA": 3100.044927,
+    "NÚCLEO": "CS2",
+    "x": -53.611701,
+    "y": -20.812926
+  },
+  {
+    "UP": "C2DN",
+    "FAZENDA": "SAO RAFAEL",
+    "AREA_HA": 785.22424,
+    "NÚCLEO": "CS2",
+    "x": -53.517599,
+    "y": -20.846677
+  },
+  {
+    "UP": "C2DO",
+    "FAZENDA": "SANTO ANTONIO III",
+    "AREA_HA": 1563.270184,
+    "NÚCLEO": "CS2",
+    "x": -53.463855,
+    "y": -21.209617
+  },
+  {
+    "UP": "C2DP",
+    "FAZENDA": "SÃO JOSÉ FABER",
+    "AREA_HA": 730.445179,
+    "NÚCLEO": "CS2",
+    "x": -53.774996,
+    "y": -20.559988
+  },
+  {
+    "UP": "C2DQ",
+    "FAZENDA": "SÃO JOSÉ MARCOS",
+    "AREA_HA": 991.436076,
+    "NÚCLEO": "CS2",
+    "x": -53.806239,
+    "y": -20.548095
+  },
+  {
+    "UP": "C2DR",
+    "FAZENDA": "SANTA MARIA VII",
+    "AREA_HA": 1502.37545,
+    "NÚCLEO": "CS2",
+    "x": -53.802513,
+    "y": -20.535206
+  },
+  {
+    "UP": "C2DS",
+    "FAZENDA": "SANTA MARIA VIII",
+    "AREA_HA": 1299.862571,
+    "NÚCLEO": "CS2",
+    "x": -53.761542,
+    "y": -20.534111
+  },
+  {
+    "UP": "C2DT",
+    "FAZENDA": "LAGOINHA",
+    "AREA_HA": 387.687359,
+    "NÚCLEO": "CS2",
+    "x": -53.425143,
+    "y": -20.782469
+  },
+  {
+    "UP": "C2DU",
+    "FAZENDA": "SANTA FÉ",
+    "AREA_HA": 783.351166,
+    "NÚCLEO": "CS2",
+    "x": -53.6725,
+    "y": -21.055024
+  },
+  {
+    "UP": "C2DV",
+    "FAZENDA": "BELA VISTA I",
+    "AREA_HA": 1919.672156,
+    "NÚCLEO": "CS2",
+    "x": -53.406055,
+    "y": -20.76086
+  },
+  {
+    "UP": "C2DX",
+    "FAZENDA": "C.R.A II",
+    "AREA_HA": 1250.504558,
+    "NÚCLEO": "CS2",
+    "x": -53.989984,
+    "y": -20.667543
+  },
+  {
+    "UP": "C2DY",
+    "FAZENDA": "SANTA TEREZA",
+    "AREA_HA": 1371.697684,
+    "NÚCLEO": "CS2",
+    "x": -53.797248,
+    "y": -21.089835
+  },
+  {
+    "UP": "C2DZ",
+    "FAZENDA": "PARAÍSO DO CÉU",
+    "AREA_HA": 1203.234072,
+    "NÚCLEO": "CS2",
+    "x": -53.442532,
+    "y": -20.789308
+  },
+  {
+    "UP": "C2EA",
+    "FAZENDA": "RANCHO FUNDO II",
+    "AREA_HA": 1393.198758,
+    "NÚCLEO": "CS2",
+    "x": -54.072283,
+    "y": -20.60404
+  },
+  {
+    "UP": "C2EB",
+    "FAZENDA": "OURO VERDE II",
+    "AREA_HA": 1585.128981,
+    "NÚCLEO": "CS2",
+    "x": -53.388706,
+    "y": -20.70812
+  },
+  {
+    "UP": "C2ED",
+    "FAZENDA": "FORTALEZA",
+    "AREA_HA": 1866.216148,
+    "NÚCLEO": "CS2",
+    "x": -53.465445,
+    "y": -20.827642
+  },
+  {
+    "UP": "C2EE",
+    "FAZENDA": "IMPERADOR",
+    "AREA_HA": 519.103618,
+    "NÚCLEO": "CS2",
+    "x": -54.226118,
+    "y": -20.494337
+  },
+  {
+    "UP": "C2EF",
+    "FAZENDA": "MILAGRE DE JESUS",
+    "AREA_HA": 2203.715398,
+    "NÚCLEO": "CS2",
+    "x": -53.201324,
+    "y": -20.55468
+  },
+  {
+    "UP": "C2EG",
+    "FAZENDA": "ONÇA PARDA",
+    "AREA_HA": 5387.102595,
+    "NÚCLEO": "CS2",
+    "x": -53.851083,
+    "y": -20.757859
+  },
+  {
+    "UP": "C2EH",
+    "FAZENDA": "COLINA II",
+    "AREA_HA": 6687.740077,
+    "NÚCLEO": "CS2",
+    "x": -53.221,
+    "y": -20.70468
+  },
+  {
+    "UP": "C2EJ",
+    "FAZENDA": "VO MATHEUS",
+    "AREA_HA": 1589.817252,
+    "NÚCLEO": "CS2",
+    "x": -53.836788,
+    "y": -20.879894
+  },
+  {
+    "UP": "C2EK",
+    "FAZENDA": "MODELO",
+    "AREA_HA": 6976.871945,
+    "NÚCLEO": "CS2",
+    "x": -53.100814,
+    "y": -20.867441
+  },
+  {
+    "UP": "C2EL",
+    "FAZENDA": "SANTA  ADÉLIA III",
+    "AREA_HA": 1643.784288,
+    "NÚCLEO": "CS2",
+    "x": -53.995986,
+    "y": -20.627647
+  },
+  {
+    "UP": "C2EM",
+    "FAZENDA": "C.R.A I",
+    "AREA_HA": 1277.894678,
+    "NÚCLEO": "CS2",
+    "x": -54.031798,
+    "y": -20.591474
+  },
+  {
+    "UP": "C2EN",
+    "FAZENDA": "ESTRELA DA MATA",
+    "AREA_HA": 921.968722,
+    "NÚCLEO": "CS2",
+    "x": -53.944901,
+    "y": -20.504892
+  },
+  {
+    "UP": "C2EP",
+    "FAZENDA": "TREVO",
+    "AREA_HA": 320.559269,
+    "NÚCLEO": "CS2",
+    "x": -54.015922,
+    "y": -20.515595
+  },
+  {
+    "UP": "C2EQ",
+    "FAZENDA": "JAIC III",
+    "AREA_HA": 1164.694823,
+    "NÚCLEO": "CS2",
+    "x": -53.496178,
+    "y": -20.784194
+  },
+  {
+    "UP": "C2ER",
+    "FAZENDA": "PARAÍSO DO SUL",
+    "AREA_HA": 305.331998,
+    "NÚCLEO": "CS2",
+    "x": -53.744231,
+    "y": -20.535875
+  },
+  {
+    "UP": "C2ES",
+    "FAZENDA": "SÃO FÉLIX",
+    "AREA_HA": 2504.299576,
+    "NÚCLEO": "CS2",
+    "x": -53.731262,
+    "y": -20.606668
+  },
+  {
+    "UP": "C2ET",
+    "FAZENDA": "NOVA DO MIMOSO II",
+    "AREA_HA": 184.323665,
+    "NÚCLEO": "CS2",
+    "x": -53.444052,
+    "y": -20.725493
+  },
+  {
+    "UP": "C2EU",
+    "FAZENDA": "COPACABANA",
+    "AREA_HA": 1134.590826,
+    "NÚCLEO": "CS2",
+    "x": -53.751949,
+    "y": -20.81447
+  },
+  {
+    "UP": "C2EV",
+    "FAZENDA": "BELA IDEIA",
+    "AREA_HA": 633.129865,
+    "NÚCLEO": "CS2",
+    "x": -54.217032,
+    "y": -20.937637
+  },
+  {
+    "UP": "C2EW",
+    "FAZENDA": "ASA BRANCA",
+    "AREA_HA": 719.316517,
+    "NÚCLEO": "CS2",
+    "x": -53.147917,
+    "y": -20.825086
+  },
+  {
+    "UP": "C2EX",
+    "FAZENDA": "CAMPO ROXO",
+    "AREA_HA": 685.026856,
+    "NÚCLEO": "CS2",
+    "x": -54.180734,
+    "y": -20.648573
+  },
+  {
+    "UP": "C2EY",
+    "FAZENDA": "SÃO JOÃO DA RITA",
+    "AREA_HA": 723.575864,
+    "NÚCLEO": "CS2",
+    "x": -53.810239,
+    "y": -20.836001
+  },
+  {
+    "UP": "C2EZ",
+    "FAZENDA": "GUAVIRA",
+    "AREA_HA": 330.597117,
+    "NÚCLEO": "CS2",
+    "x": -53.36424,
+    "y": -21.297138
+  },
+  {
+    "UP": "C2GA",
+    "FAZENDA": "NOVA QUERÊNCIA",
+    "AREA_HA": 907.176424,
+    "NÚCLEO": "CS2",
+    "x": -53.948986,
+    "y": -20.627453
+  },
+  {
+    "UP": "C2GB",
+    "FAZENDA": "BOA VISTA II",
+    "AREA_HA": 492.506343,
+    "NÚCLEO": "CS2",
+    "x": -54.215551,
+    "y": -20.963745
+  },
+  {
+    "UP": "C2GC",
+    "FAZENDA": "FIGUEIRA II",
+    "AREA_HA": 1413.512283,
+    "NÚCLEO": "CS2",
+    "x": -54.213973,
+    "y": null
+  },
+  {
+    "UP": "C2GD",
+    "FAZENDA": "SANTO ANTONIO VII",
+    "AREA_HA": 1198.944225,
+    "NÚCLEO": "CS2",
+    "x": -53.500248,
+    "y": -21.245198
+  },
+  {
+    "UP": "C2GE",
+    "FAZENDA": "PALANQUE",
+    "AREA_HA": 2482.818622,
+    "NÚCLEO": "CS2",
+    "x": -54.042605,
+    "y": -20.928693
+  },
+  {
+    "UP": "C2GF",
+    "FAZENDA": "SÃO CARLOS II",
+    "AREA_HA": 761.800992,
+    "NÚCLEO": "CS2",
+    "x": -53.833796,
+    "y": -20.609927
+  },
+  {
+    "UP": "C2GG",
+    "FAZENDA": "FAVEIRO",
+    "AREA_HA": 1198.278365,
+    "NÚCLEO": "CS2",
+    "x": -53.351082,
+    "y": -20.728888
+  },
+  {
+    "UP": "C2GH",
+    "FAZENDA": "GARIMPO",
+    "AREA_HA": 1706.700751,
+    "NÚCLEO": "CS2",
+    "x": -53.775753,
+    "y": -20.82132
+  },
+  {
+    "UP": "C2GI",
+    "FAZENDA": "NOSSA SENHORA APARECIDA VIII",
+    "AREA_HA": 748.337391,
+    "NÚCLEO": "CS2",
+    "x": -53.109643,
+    "y": -21.014245
+  },
+  {
+    "UP": "C2GJ",
+    "FAZENDA": "ALVORADA V",
+    "AREA_HA": 1154.370253,
+    "NÚCLEO": "CS2",
+    "x": -53.396692,
+    "y": -20.49649
+  },
+  {
+    "UP": "C2GK",
+    "FAZENDA": "JANAINA",
+    "AREA_HA": 386.166239,
+    "NÚCLEO": "CS2",
+    "x": -53.977295,
+    "y": -20.713468
+  },
+  {
+    "UP": "C2GL",
+    "FAZENDA": "PORTO ALEGRE",
+    "AREA_HA": 6252.99489,
+    "NÚCLEO": "CS2",
+    "x": -54.062555,
+    "y": -20.520342
+  },
+  {
+    "UP": "C2GM",
+    "FAZENDA": "UNIÃO DAS ÁGUAS",
+    "AREA_HA": 643.650122,
+    "NÚCLEO": "CS2",
+    "x": -54.189068,
+    "y": -20.688589
+  },
+  {
+    "UP": "C2GO",
+    "FAZENDA": "SERIEMA",
+    "AREA_HA": 792.675309,
+    "NÚCLEO": "CS2",
+    "x": -54.11943,
+    "y": -20.463986
+  },
+  {
+    "UP": "C2GP",
+    "FAZENDA": "MD",
+    "AREA_HA": 1202.116499,
+    "NÚCLEO": "CS2",
+    "x": -53.697896,
+    "y": -20.660028
+  },
+  {
+    "UP": "C2GQ",
+    "FAZENDA": "GARIMPO II",
+    "AREA_HA": 1670.98991,
+    "NÚCLEO": "CS2",
+    "x": -53.804852,
+    "y": -20.804585
+  },
+  {
+    "UP": "C2GR",
+    "FAZENDA": "RECÔNCAVO",
+    "AREA_HA": 1105.264422,
+    "NÚCLEO": "CS2",
+    "x": -53.900277,
+    "y": -20.668453
+  },
+  {
+    "UP": "C2GS",
+    "FAZENDA": "SÃO FÉLIX II",
+    "AREA_HA": 872.599093,
+    "NÚCLEO": "CS2",
+    "x": -53.973893,
+    "y": -20.647483
+  },
+  {
+    "UP": "C2GT",
+    "FAZENDA": "DOIS MENINOS",
+    "AREA_HA": 195.458459,
+    "NÚCLEO": "CS2",
+    "x": -53.929222,
+    "y": -20.758538
+  },
+  {
+    "UP": "C2GU",
+    "FAZENDA": "VITÓRIA II",
+    "AREA_HA": 470.694294,
+    "NÚCLEO": "CS2",
+    "x": -53.672559,
+    "y": -20.580557
+  },
+  {
+    "UP": "C2GV",
+    "FAZENDA": "SANTA ADELAIDE I E II",
+    "AREA_HA": 481.651659,
+    "NÚCLEO": "CS2",
+    "x": -53.457113,
+    "y": -20.693779
+  },
+  {
+    "UP": "C2GW",
+    "FAZENDA": "SACRAMENTO II",
+    "AREA_HA": 1123.065873,
+    "NÚCLEO": "CS2",
+    "x": -53.264138,
+    "y": -20.68692
+  },
+  {
+    "UP": "C2GX",
+    "FAZENDA": "SANTA ANGÉLICA II",
+    "AREA_HA": 301.235403,
+    "NÚCLEO": "CS2",
+    "x": -53.899448,
+    "y": -20.746862
+  },
+  {
+    "UP": "C2GZ",
+    "FAZENDA": "JACUBA",
+    "AREA_HA": 722.837006,
+    "NÚCLEO": "CS2",
+    "x": -53.846107,
+    "y": -20.630691
+  },
+  {
+    "UP": "C2HA",
+    "FAZENDA": "SÃO MANOEL",
+    "AREA_HA": 7287.418362,
+    "NÚCLEO": "CS2",
+    "x": -53.199402,
+    "y": -20.770573
+  },
+  {
+    "UP": "C2HB",
+    "FAZENDA": "SANTA MARIA XI",
+    "AREA_HA": 2038.109877,
+    "NÚCLEO": "CS2",
+    "x": -53.796233,
+    "y": -20.499412
+  },
+  {
+    "UP": "C2HC",
+    "FAZENDA": "MINERAL",
+    "AREA_HA": 234.684788,
+    "NÚCLEO": "CS2",
+    "x": -54.154949,
+    "y": -20.587561
+  },
+  {
+    "UP": "C2HD",
+    "FAZENDA": "QUATRO IRMÃOS II",
+    "AREA_HA": 8249.633286,
+    "NÚCLEO": "CS2",
+    "x": -53.974132,
+    "y": -20.814796
+  },
+  {
+    "UP": "C2HE",
+    "FAZENDA": "SANTA BÁRBARA",
+    "AREA_HA": 308.347873,
+    "NÚCLEO": "CS2",
+    "x": -53.474921,
+    "y": -20.671193
+  },
+  {
+    "UP": "C2HF",
+    "FAZENDA": "SÃO FÉLIX III",
+    "AREA_HA": 1528.299964,
+    "NÚCLEO": "CS2",
+    "x": -53.909777,
+    "y": -20.616861
+  },
+  {
+    "UP": "C2HG",
+    "FAZENDA": "SÃO JOSÉ DO PONTAL",
+    "AREA_HA": 374.899226,
+    "NÚCLEO": "CS2",
+    "x": -53.639272,
+    "y": -20.655367
+  },
+  {
+    "UP": "C2HH",
+    "FAZENDA": "SÃO PAULO",
+    "AREA_HA": 191.955472,
+    "NÚCLEO": "CS2",
+    "x": -53.353448,
+    "y": -20.850014
+  },
+  {
+    "UP": "C2HI",
+    "FAZENDA": "SANTA ADELIA DO RIO PARDO",
+    "AREA_HA": 1147.702719,
+    "NÚCLEO": "CS2",
+    "x": -53.419307,
+    "y": -20.621713
+  },
+  {
+    "UP": "C2HJ",
+    "FAZENDA": "CAIMAN",
+    "AREA_HA": 517.709383,
+    "NÚCLEO": "CS2",
+    "x": -53.834605,
+    "y": -20.459462
+  },
+  {
+    "UP": "C2HK",
+    "FAZENDA": "SÃO FÉLIX IV",
+    "AREA_HA": 646.352853,
+    "NÚCLEO": "CS2",
+    "x": -53.940635,
+    "y": -20.661299
+  },
+  {
+    "UP": "C2HL",
+    "FAZENDA": "MD II",
+    "AREA_HA": 75.886763,
+    "NÚCLEO": "CS2",
+    "x": -53.709437,
+    "y": -20.660569
+  },
+  {
+    "UP": "C2HM",
+    "FAZENDA": "RECÔNCAVO II",
+    "AREA_HA": 199.174114,
+    "NÚCLEO": "CS2",
+    "x": -53.880533,
+    "y": -20.665438
+  },
+  {
+    "UP": "C2HN",
+    "FAZENDA": "ROSA BRANCA",
+    "AREA_HA": 82.315507,
+    "NÚCLEO": "CS2",
+    "x": -53.890481,
+    "y": -20.821125
+  },
+  {
+    "UP": "C2HO",
+    "FAZENDA": "SANTA RITA",
+    "AREA_HA": 998.587755,
+    "NÚCLEO": "CS2",
+    "x": -53.877371,
+    "y": -20.838846
+  },
+  {
+    "UP": "C2HP",
+    "FAZENDA": "PANTANO",
+    "AREA_HA": 18977.99198,
+    "NÚCLEO": "CS2",
+    "x": -53.803168,
+    "y": -20.972476
+  },
+  {
+    "UP": "C2HU",
+    "FAZENDA": "TERRA NOVA",
+    "AREA_HA": 416.445704,
+    "NÚCLEO": "CS2",
+    "x": -53.608057,
+    "y": -20.844648
+  },
+  {
+    "UP": "C2HV",
+    "FAZENDA": "DOIS MENINOS II",
+    "AREA_HA": 244.903386,
+    "NÚCLEO": "CS2",
+    "x": -53.927058,
+    "y": -20.745468
+  },
+  {
+    "UP": "C2HW",
+    "FAZENDA": "GAIVOTA",
+    "AREA_HA": 469.814981,
+    "NÚCLEO": "CS2",
+    "x": -53.621744,
+    "y": -20.850446
+  },
+  {
+    "UP": "C2HY",
+    "FAZENDA": "ITAPUÃ",
+    "AREA_HA": 364.633116,
+    "NÚCLEO": "CS2",
+    "x": -53.592857,
+    "y": -20.83363
+  },
+  {
+    "UP": "C2HZ",
+    "FAZENDA": "FÊNIX",
+    "AREA_HA": 1746.933519,
+    "NÚCLEO": "CS2",
+    "x": -53.59542,
+    "y": -20.889058
+  },
+  {
+    "UP": "C2IA",
+    "FAZENDA": "CÓRREGO LIMPO",
+    "AREA_HA": 189.636578,
+    "NÚCLEO": "CS2",
+    "x": -53.485768,
+    "y": -20.514972
+  },
+  {
+    "UP": "C2IB",
+    "FAZENDA": "SILVANIA",
+    "AREA_HA": 296.975026,
+    "NÚCLEO": "CS2",
+    "x": -53.813103,
+    "y": -20.68874
+  },
+  {
+    "UP": "C3AA",
+    "FAZENDA": "SANTA MONICA (I)",
+    "AREA_HA": 1491.974945,
+    "NÚCLEO": "CS3",
+    "x": -54.003636,
+    "y": -20.298312
+  },
+  {
+    "UP": "C3AB",
+    "FAZENDA": "MOYA (I)",
+    "AREA_HA": 193.778447,
+    "NÚCLEO": "CS3",
+    "x": -54.294734,
+    "y": -20.245819
+  },
+  {
+    "UP": "C3AC",
+    "FAZENDA": "RETIRO DA CACHOEIRINHA",
+    "AREA_HA": 1293.855416,
+    "NÚCLEO": "CS3",
+    "x": -54.114061,
+    "y": -20.277666
+  },
+  {
+    "UP": "C3AD",
+    "FAZENDA": "CAMPO VERDE",
+    "AREA_HA": 703.756534,
+    "NÚCLEO": "CS3",
+    "x": -54.120022,
+    "y": -20.361425
+  },
+  {
+    "UP": "C3AE",
+    "FAZENDA": "HARMONIA",
+    "AREA_HA": 1059.76123,
+    "NÚCLEO": "CS3",
+    "x": -54.272904,
+    "y": -20.32617
+  },
+  {
+    "UP": "C3AF",
+    "FAZENDA": "PERDIZES II",
+    "AREA_HA": 531.277832,
+    "NÚCLEO": "CS3",
+    "x": -54.160821,
+    "y": -20.419723
+  },
+  {
+    "UP": "C3AG",
+    "FAZENDA": "ALEGRIA",
+    "AREA_HA": 1878.058159,
+    "NÚCLEO": "CS3",
+    "x": -54.09151,
+    "y": -20.241214
+  },
+  {
+    "UP": "C3AH",
+    "FAZENDA": "RESERVA ARATACA",
+    "AREA_HA": 388.752303,
+    "NÚCLEO": "CS3",
+    "x": -57.289504,
+    "y": -18.314732
+  },
+  {
+    "UP": "T1A0",
+    "FAZENDA": "BARRA DO MOEDA  (F-H001 )",
+    "AREA_HA": 5399.871586,
+    "NÚCLEO": "MS1",
+    "x": -51.801366,
+    "y": -21.014967
+  },
+  {
+    "UP": "T1A1",
+    "FAZENDA": "PRIMAVERA III  (F-H244 )",
+    "AREA_HA": 306.697286,
+    "NÚCLEO": "MS1",
+    "x": -51.956405,
+    "y": -21.012531
+  },
+  {
+    "UP": "T1A2",
+    "FAZENDA": "SOBERANO  (F-H152 )",
+    "AREA_HA": 848.324701,
+    "NÚCLEO": "MS1",
+    "x": -52.042617,
+    "y": -21.009981
+  },
+  {
+    "UP": "T1A3",
+    "FAZENDA": "BURITI III  (F-H216 )",
+    "AREA_HA": 994.516071,
+    "NÚCLEO": "MS1",
+    "x": -51.921937,
+    "y": -21.002568
+  },
+  {
+    "UP": "T1A4",
+    "FAZENDA": "SÃO MIGUEL  (F-H047 )",
+    "AREA_HA": 643.443114,
+    "NÚCLEO": "MS1",
+    "x": -51.978195,
+    "y": -21.000749
+  },
+  {
+    "UP": "T1A5",
+    "FAZENDA": "RIO VERDE - TAQUARUSSU  (F-H066 )",
+    "AREA_HA": 294.533762,
+    "NÚCLEO": "MS1",
+    "x": -51.966646,
+    "y": -20.994853
+  },
+  {
+    "UP": "T1A6",
+    "FAZENDA": "JUSSARA  (F-H031 )",
+    "AREA_HA": 768.753771,
+    "NÚCLEO": "MS1",
+    "x": -52.004752,
+    "y": -20.993812
+  },
+  {
+    "UP": "T1A7",
+    "FAZENDA": "SÃO BENTO  (F-H056 )",
+    "AREA_HA": 593.39877,
+    "NÚCLEO": "MS1",
+    "x": -52.035878,
+    "y": -20.986075
+  },
+  {
+    "UP": "T1A8",
+    "FAZENDA": "SANTA MARIA II  (F-H036 )",
+    "AREA_HA": 281.239519,
+    "NÚCLEO": "MS1",
+    "x": -51.964253,
+    "y": -20.990278
+  },
+  {
+    "UP": "T1A9",
+    "FAZENDA": "ITUANA  (F-H030 )",
+    "AREA_HA": 643.239602,
+    "NÚCLEO": "MS1",
+    "x": -51.887944,
+    "y": -20.989059
+  },
+  {
+    "UP": "T1AA",
+    "FAZENDA": "FAVEIRO DO RIO VERDE I  (F-H259 )",
+    "AREA_HA": 651.191232,
+    "NÚCLEO": "MS1",
+    "x": -51.959882,
+    "y": -21.129237
+  },
+  {
+    "UP": "T1AB",
+    "FAZENDA": "SÃO BENTO II  (F-H206 )",
+    "AREA_HA": 499.416163,
+    "NÚCLEO": "MS1",
+    "x": -51.965617,
+    "y": -21.108836
+  },
+  {
+    "UP": "T1AC",
+    "FAZENDA": "CABECEIRAS  (F-H057 )",
+    "AREA_HA": 260.910271,
+    "NÚCLEO": "MS1",
+    "x": -51.949233,
+    "y": -21.107148
+  },
+  {
+    "UP": "T1AD",
+    "FAZENDA": "FAVEIRO II  (F-H143 )",
+    "AREA_HA": 552.186214,
+    "NÚCLEO": "MS1",
+    "x": -51.928551,
+    "y": -21.100436
+  },
+  {
+    "UP": "T1AE",
+    "FAZENDA": "MALU DO RIO VERDE  (F-H187 )",
+    "AREA_HA": 1496.266122,
+    "NÚCLEO": "MS1",
+    "x": -51.989184,
+    "y": -21.097649
+  },
+  {
+    "UP": "T1AF",
+    "FAZENDA": "SANTA LUZIA  (F-H004 )",
+    "AREA_HA": 3685.882879,
+    "NÚCLEO": "MS1",
+    "x": -51.892123,
+    "y": -21.087526
+  },
+  {
+    "UP": "T1AG",
+    "FAZENDA": "DRACENA  (F-H054 )",
+    "AREA_HA": 271.407303,
+    "NÚCLEO": "MS1",
+    "x": -51.951837,
+    "y": -21.08574
+  },
+  {
+    "UP": "T1AH",
+    "FAZENDA": "RANCHO ALEGRE  (F-H061 )",
+    "AREA_HA": 360.13561,
+    "NÚCLEO": "MS1",
+    "x": -52.008511,
+    "y": -21.078819
+  },
+  {
+    "UP": "T1AI",
+    "FAZENDA": "AGUA LIMPA III  (F-H233 )",
+    "AREA_HA": 4349.425037,
+    "NÚCLEO": "MS1",
+    "x": -51.84973,
+    "y": -21.077107
+  },
+  {
+    "UP": "T1AJ",
+    "FAZENDA": "NOSSA SENHORA DE LOURDES  (F-H020 )",
+    "AREA_HA": 963.390176,
+    "NÚCLEO": "MS1",
+    "x": -51.981581,
+    "y": -21.072306
+  },
+  {
+    "UP": "T1AK",
+    "FAZENDA": "ANA CLAUDIA  (F-H179 )",
+    "AREA_HA": 359.919926,
+    "NÚCLEO": "MS1",
+    "x": -51.959029,
+    "y": -21.07066
+  },
+  {
+    "UP": "T1AL",
+    "FAZENDA": "ESTRELA D ÁLVA  (F-H151 )",
+    "AREA_HA": 301.92787,
+    "NÚCLEO": "MS1",
+    "x": -51.940315,
+    "y": -21.061109
+  },
+  {
+    "UP": "T1AM",
+    "FAZENDA": "NASCENTE DO CARACOL  (F-H046 )",
+    "AREA_HA": 626.789044,
+    "NÚCLEO": "MS1",
+    "x": -51.988516,
+    "y": -21.052294
+  },
+  {
+    "UP": "T1AN",
+    "FAZENDA": "SÃO JOÃO BATISTA  (F-H225 )",
+    "AREA_HA": 554.751181,
+    "NÚCLEO": "MS1",
+    "x": -51.907367,
+    "y": -21.048549
+  },
+  {
+    "UP": "T1AO",
+    "FAZENDA": "JUINAUBIRA  (F-H035 )",
+    "AREA_HA": 774.362099,
+    "NÚCLEO": "MS1",
+    "x": -52.004414,
+    "y": -21.044458
+  },
+  {
+    "UP": "T1AP",
+    "FAZENDA": "PRIMAVERA II  (F-H163 )",
+    "AREA_HA": 250.66004,
+    "NÚCLEO": "MS1",
+    "x": -51.919656,
+    "y": -21.043213
+  },
+  {
+    "UP": "T1AQ",
+    "FAZENDA": "CAMBAUVA  (F-H044 )",
+    "AREA_HA": 485.38524,
+    "NÚCLEO": "MS1",
+    "x": -51.925702,
+    "y": -21.037662
+  },
+  {
+    "UP": "T1AR",
+    "FAZENDA": "OURO VERDE  (F-H153 )",
+    "AREA_HA": 555.025721,
+    "NÚCLEO": "MS1",
+    "x": -51.965202,
+    "y": -21.028856
+  },
+  {
+    "UP": "T1AT",
+    "FAZENDA": "QUATRO A  (F-H050 )",
+    "AREA_HA": 407.825452,
+    "NÚCLEO": "MS1",
+    "x": -51.928922,
+    "y": -21.027119
+  },
+  {
+    "UP": "T1AU",
+    "FAZENDA": "ALMEIDA  (F-H033 )",
+    "AREA_HA": 931.564599,
+    "NÚCLEO": "MS1",
+    "x": -52.026465,
+    "y": -21.029416
+  },
+  {
+    "UP": "T1AV",
+    "FAZENDA": "ALTO ALEGRE  (F-H238 )",
+    "AREA_HA": 141.777931,
+    "NÚCLEO": "MS1",
+    "x": -51.950891,
+    "y": -21.023552
+  },
+  {
+    "UP": "T1AW",
+    "FAZENDA": "MARCELINHO  (F-H150 )",
+    "AREA_HA": 181.029218,
+    "NÚCLEO": "MS1",
+    "x": -52.053139,
+    "y": -21.021105
+  },
+  {
+    "UP": "T1AX",
+    "FAZENDA": "LAGO AZUL  (F-H192 )",
+    "AREA_HA": 234.260431,
+    "NÚCLEO": "MS1",
+    "x": -51.897126,
+    "y": -21.020639
+  },
+  {
+    "UP": "T1AY",
+    "FAZENDA": "LIMOEIRO  (F-H090 )",
+    "AREA_HA": 1144.451109,
+    "NÚCLEO": "MS1",
+    "x": -52.121363,
+    "y": -21.020006
+  },
+  {
+    "UP": "T1AZ",
+    "FAZENDA": "TAQUARUSSU  (F-H055 )",
+    "AREA_HA": 148.490722,
+    "NÚCLEO": "MS1",
+    "x": -52.008698,
+    "y": -21.016963
+  },
+  {
+    "UP": "T1B0",
+    "FAZENDA": "SABIA  (F-H185 )",
+    "AREA_HA": 148.352353,
+    "NÚCLEO": "MS1",
+    "x": -51.967597,
+    "y": -20.917564
+  },
+  {
+    "UP": "T1B1",
+    "FAZENDA": "SANTA PAULA  (F-H186 )",
+    "AREA_HA": 150.179113,
+    "NÚCLEO": "MS1",
+    "x": -51.969888,
+    "y": -20.916246
+  },
+  {
+    "UP": "T1B2",
+    "FAZENDA": "PALMITO  (F-H002 )",
+    "AREA_HA": 2057.126923,
+    "NÚCLEO": "MS1",
+    "x": -51.779458,
+    "y": -20.924908
+  },
+  {
+    "UP": "T1B3",
+    "FAZENDA": "BURITI  (F-H003 )",
+    "AREA_HA": 4035.496148,
+    "NÚCLEO": "MS1",
+    "x": -51.853467,
+    "y": -20.911777
+  },
+  {
+    "UP": "T1B4",
+    "FAZENDA": "TARUMÂ  (F-H079 )",
+    "AREA_HA": 1796.333272,
+    "NÚCLEO": "MS1",
+    "x": -51.734809,
+    "y": -20.904302
+  },
+  {
+    "UP": "T1B5",
+    "FAZENDA": "ESTRADÃO  (F-H005 )",
+    "AREA_HA": 6018.857998,
+    "NÚCLEO": "MS1",
+    "x": -51.930952,
+    "y": -20.942152
+  },
+  {
+    "UP": "T1B7",
+    "FAZENDA": "SÃO JOAQUIM  (F-H195 )",
+    "AREA_HA": 267.300063,
+    "NÚCLEO": "MS1",
+    "x": -51.693792,
+    "y": -20.894228
+  },
+  {
+    "UP": "T1B8",
+    "FAZENDA": "CASA BRANCA  (F-H018 )",
+    "AREA_HA": 532.511782,
+    "NÚCLEO": "MS1",
+    "x": -51.745817,
+    "y": -20.883184
+  },
+  {
+    "UP": "T1B9",
+    "FAZENDA": "MIDI  (F-H043 )",
+    "AREA_HA": 156.618604,
+    "NÚCLEO": "MS1",
+    "x": -51.990486,
+    "y": -20.880947
+  },
+  {
+    "UP": "T1BA",
+    "FAZENDA": "SANTA DOLORES  (F-H034 )",
+    "AREA_HA": 364.611532,
+    "NÚCLEO": "MS1",
+    "x": -51.907877,
+    "y": -20.987102
+  },
+  {
+    "UP": "T1BB",
+    "FAZENDA": "SANTA FELICIDADE  (F-H019 )",
+    "AREA_HA": 536.130596,
+    "NÚCLEO": "MS1",
+    "x": -51.961963,
+    "y": -20.983462
+  },
+  {
+    "UP": "T1BC",
+    "FAZENDA": "UNIÃO  (F-H017 )",
+    "AREA_HA": 72.539165,
+    "NÚCLEO": "MS1",
+    "x": -51.901728,
+    "y": -20.980932
+  },
+  {
+    "UP": "T1BD",
+    "FAZENDA": "BOA ESPERANÇA  (F-H182 )",
+    "AREA_HA": 668.52431,
+    "NÚCLEO": "MS1",
+    "x": -52.003739,
+    "y": -20.977702
+  },
+  {
+    "UP": "T1BE",
+    "FAZENDA": "CARCARA  (F-H063 )",
+    "AREA_HA": 358.824892,
+    "NÚCLEO": "MS1",
+    "x": -51.950664,
+    "y": -20.975964
+  },
+  {
+    "UP": "T1BF",
+    "FAZENDA": "SANTO EGIDIO  (F-H039 )",
+    "AREA_HA": 265.447784,
+    "NÚCLEO": "MS1",
+    "x": -51.924272,
+    "y": -20.975934
+  },
+  {
+    "UP": "T1BG",
+    "FAZENDA": "NOSSA SENHORA APARECIDA  (F-H040 )",
+    "AREA_HA": 194.896699,
+    "NÚCLEO": "MS1",
+    "x": -51.950029,
+    "y": -20.968792
+  },
+  {
+    "UP": "T1BH",
+    "FAZENDA": "SÃO LUIZ  (F-H042 )",
+    "AREA_HA": 129.301413,
+    "NÚCLEO": "MS1",
+    "x": -51.961358,
+    "y": -20.968163
+  },
+  {
+    "UP": "T1BI",
+    "FAZENDA": "URISSANGA  (F-H059 )",
+    "AREA_HA": 119.351788,
+    "NÚCLEO": "MS1",
+    "x": -52.072626,
+    "y": -20.965499
+  },
+  {
+    "UP": "T1BJ",
+    "FAZENDA": "ESPERANÇA  (F-H015 )",
+    "AREA_HA": 174.616154,
+    "NÚCLEO": "MS1",
+    "x": -51.850477,
+    "y": -20.963165
+  },
+  {
+    "UP": "T1BK",
+    "FAZENDA": "DOBRÃO  (F-H029 )",
+    "AREA_HA": 2628.040935,
+    "NÚCLEO": "MS1",
+    "x": -51.773233,
+    "y": -20.961811
+  },
+  {
+    "UP": "T1BL",
+    "FAZENDA": "FABIANA  (F-H060 )",
+    "AREA_HA": 123.642281,
+    "NÚCLEO": "MS1",
+    "x": -52.067115,
+    "y": -20.962655
+  },
+  {
+    "UP": "T1BM",
+    "FAZENDA": "ESPERANÇA II  (F-H025 )",
+    "AREA_HA": 305.599367,
+    "NÚCLEO": "MS1",
+    "x": -51.860326,
+    "y": -20.96227
+  },
+  {
+    "UP": "T1BN",
+    "FAZENDA": "NOVE DE JULHO  (F-H052 )",
+    "AREA_HA": 353.071471,
+    "NÚCLEO": "MS1",
+    "x": -51.867098,
+    "y": -20.96091
+  },
+  {
+    "UP": "T1BO",
+    "FAZENDA": "MORADA DO SOL  (F-H105 )",
+    "AREA_HA": 1148.125846,
+    "NÚCLEO": "MS1",
+    "x": -52.05338,
+    "y": -20.954811
+  },
+  {
+    "UP": "T1BP",
+    "FAZENDA": "OGASAWARA  (F-H038 )",
+    "AREA_HA": 754.80906,
+    "NÚCLEO": "MS1",
+    "x": -51.90345,
+    "y": -20.951679
+  },
+  {
+    "UP": "T1BQ",
+    "FAZENDA": "SAO SEBASTIAO GLEBA F  (F-H285 )",
+    "AREA_HA": 116.629473,
+    "NÚCLEO": "MS1",
+    "x": -51.758974,
+    "y": -20.950241
+  },
+  {
+    "UP": "T1BR",
+    "FAZENDA": "SAO SEBASTIAO GLEBA E  (F-H284 )",
+    "AREA_HA": 176.639509,
+    "NÚCLEO": "MS1",
+    "x": -51.731963,
+    "y": -20.942366
+  },
+  {
+    "UP": "T1BS",
+    "FAZENDA": "SANTA HELENA  (F-H051 )",
+    "AREA_HA": 350.92926,
+    "NÚCLEO": "MS1",
+    "x": -51.76626,
+    "y": -20.941088
+  },
+  {
+    "UP": "T1BT",
+    "FAZENDA": "SANTA MARIA VI  (F-H241 )",
+    "AREA_HA": 306.315303,
+    "NÚCLEO": "MS1",
+    "x": -52.013068,
+    "y": -20.939081
+  },
+  {
+    "UP": "T1BU",
+    "FAZENDA": "ARETE  (F-H297 )",
+    "AREA_HA": 611.391487,
+    "NÚCLEO": "MS1",
+    "x": -52.05167,
+    "y": -20.937785
+  },
+  {
+    "UP": "T1BV",
+    "FAZENDA": "SANTA MARIA  (F-H032 )",
+    "AREA_HA": 358.313802,
+    "NÚCLEO": "MS1",
+    "x": -51.96307,
+    "y": -20.933652
+  },
+  {
+    "UP": "T1BW",
+    "FAZENDA": "VÓ GIORGINA  (F-H026 )",
+    "AREA_HA": 135.202588,
+    "NÚCLEO": "MS1",
+    "x": -51.825311,
+    "y": -20.928275
+  },
+  {
+    "UP": "T1BX",
+    "FAZENDA": "TRADIÇÃO  (F-H091 )",
+    "AREA_HA": 363.853783,
+    "NÚCLEO": "MS1",
+    "x": -51.761535,
+    "y": -20.920502
+  },
+  {
+    "UP": "T1BY",
+    "FAZENDA": "VÓ GERALDA  (F-H016 )",
+    "AREA_HA": 214.785625,
+    "NÚCLEO": "MS1",
+    "x": -51.816773,
+    "y": -20.920114
+  },
+  {
+    "UP": "T1BZ",
+    "FAZENDA": "ESPIR SALOMÃO  (F-H037 )",
+    "AREA_HA": 554.822856,
+    "NÚCLEO": "MS1",
+    "x": -51.959156,
+    "y": -20.917609
+  },
+  {
+    "UP": "T1CA",
+    "FAZENDA": "SANTA ANGELA  (F-H027 )",
+    "AREA_HA": 2921.198244,
+    "NÚCLEO": "MS1",
+    "x": -51.794251,
+    "y": -20.880399
+  },
+  {
+    "UP": "T1CB",
+    "FAZENDA": "ALVORADA  (F-H058 )",
+    "AREA_HA": 148.830144,
+    "NÚCLEO": "MS1",
+    "x": -52.001654,
+    "y": -20.877949
+  },
+  {
+    "UP": "T1CC",
+    "FAZENDA": "SANTA ÂNGELA II  (F-H170 )",
+    "AREA_HA": 882.730868,
+    "NÚCLEO": "MS1",
+    "x": -51.75671,
+    "y": -20.869964
+  },
+  {
+    "UP": "T1CD",
+    "FAZENDA": "SANTA ROSA  (F-H119 )",
+    "AREA_HA": 504.140741,
+    "NÚCLEO": "MS1",
+    "x": -51.728847,
+    "y": -20.865649
+  },
+  {
+    "UP": "T1CE",
+    "FAZENDA": "SÃO JOÃO III  (F-H210 )",
+    "AREA_HA": 446.583956,
+    "NÚCLEO": "MS1",
+    "x": -51.891472,
+    "y": -20.855623
+  },
+  {
+    "UP": "T1CF",
+    "FAZENDA": "LAGUNA  (F-H109 )",
+    "AREA_HA": 569.028945,
+    "NÚCLEO": "MS1",
+    "x": -51.723135,
+    "y": -20.850365
+  },
+  {
+    "UP": "T1CG",
+    "FAZENDA": "PALMITO MIURA  (F-H028 )",
+    "AREA_HA": 2470.457193,
+    "NÚCLEO": "MS1",
+    "x": -51.928867,
+    "y": -20.837746
+  },
+  {
+    "UP": "T1CH",
+    "FAZENDA": "RENASCER  (F-H218 )",
+    "AREA_HA": 226.328341,
+    "NÚCLEO": "MS1",
+    "x": -51.876973,
+    "y": -20.819939
+  },
+  {
+    "UP": "T1CI",
+    "FAZENDA": "BARRA DO CERVO  (F-H303 )",
+    "AREA_HA": 166.236723,
+    "NÚCLEO": "MS1",
+    "x": -51.905572,
+    "y": -20.818911
+  },
+  {
+    "UP": "T1CJ",
+    "FAZENDA": "SÍTIO CAMPO ALEGRE  (F-H161 )",
+    "AREA_HA": 123.715175,
+    "NÚCLEO": "MS1",
+    "x": -51.871828,
+    "y": -20.809644
+  },
+  {
+    "UP": "T1CK",
+    "FAZENDA": "BRINCO DE OURO  (F-H118 )",
+    "AREA_HA": 495.933476,
+    "NÚCLEO": "MS1",
+    "x": -51.949469,
+    "y": -20.802467
+  },
+  {
+    "UP": "T1CL",
+    "FAZENDA": "SARAMANDAIA  (F-H208 )",
+    "AREA_HA": 453.94643,
+    "NÚCLEO": "MS1",
+    "x": -51.936253,
+    "y": -20.798526
+  },
+  {
+    "UP": "T1CM",
+    "FAZENDA": "BOM SUCESSO  (F-H253 )",
+    "AREA_HA": 220.34021,
+    "NÚCLEO": "MS1",
+    "x": -52.020883,
+    "y": -20.792477
+  },
+  {
+    "UP": "T1CN",
+    "FAZENDA": "PARAISO III  (F-H249 )",
+    "AREA_HA": 259.01975,
+    "NÚCLEO": "MS1",
+    "x": -51.863947,
+    "y": -20.792038
+  },
+  {
+    "UP": "T1CO",
+    "FAZENDA": "SÃO BENTO III  (F-H305 )",
+    "AREA_HA": 593.398741,
+    "NÚCLEO": "MS1",
+    "x": -52.038411,
+    "y": -20.994824
+  },
+  {
+    "UP": "T1CP",
+    "FAZENDA": "ESPERANÇA II",
+    "AREA_HA": 1.388975,
+    "NÚCLEO": "MS1",
+    "x": -51.844001,
+    "y": -20.962823
+  },
+  {
+    "UP": "T1CQ",
+    "FAZENDA": "SÃO MIGUEL III",
+    "AREA_HA": 128.891899,
+    "NÚCLEO": "MS1",
+    "x": -51.956365,
+    "y": -21.003737
+  },
+  {
+    "UP": "T1CR",
+    "FAZENDA": "SÃO SEBASTIÃO G.A",
+    "AREA_HA": 176.892628,
+    "NÚCLEO": "MS1",
+    "x": -51.746403,
+    "y": -20.952153
+  },
+  {
+    "UP": "T1CS",
+    "FAZENDA": "SÍTIO SANTO ANTÔNIO",
+    "AREA_HA": 118.231029,
+    "NÚCLEO": "MS1",
+    "x": -51.874718,
+    "y": -20.829686
+  },
+  {
+    "UP": "T1CT",
+    "FAZENDA": "TAQUARUSSU II",
+    "AREA_HA": 245.477278,
+    "NÚCLEO": "MS1",
+    "x": -51.995472,
+    "y": -21.017787
+  },
+  {
+    "UP": "T1CU",
+    "FAZENDA": "NOSSA SENHORA DE FÁTIMA",
+    "AREA_HA": 313.124474,
+    "NÚCLEO": "MS1",
+    "x": -51.843897,
+    "y": -20.949813
+  },
+  {
+    "UP": "T1CV",
+    "FAZENDA": "TAQUARUSSU III",
+    "AREA_HA": 218.253235,
+    "NÚCLEO": "MS1",
+    "x": -52.003332,
+    "y": -21.009199
+  },
+  {
+    "UP": "T1CX",
+    "FAZENDA": "SÃO JOÃO JY",
+    "AREA_HA": 249.494295,
+    "NÚCLEO": "MS1",
+    "x": -51.984054,
+    "y": -20.958811
+  },
+  {
+    "UP": "T1CY",
+    "FAZENDA": "J.A.I",
+    "AREA_HA": 184.103565,
+    "NÚCLEO": "MS1",
+    "x": -51.970341,
+    "y": -21.129701
+  },
+  {
+    "UP": "T1CZ",
+    "FAZENDA": "SÍTIO SILU",
+    "AREA_HA": 48.195533,
+    "NÚCLEO": "MS1",
+    "x": -51.89651,
+    "y": -20.81411
+  },
+  {
+    "UP": "T1DA",
+    "FAZENDA": "PALMITO II",
+    "AREA_HA": 310.445237,
+    "NÚCLEO": "MS1",
+    "x": -51.899797,
+    "y": -20.829244
+  },
+  {
+    "UP": "T1DC",
+    "FAZENDA": "SI180",
+    "AREA_HA": 123.189038,
+    "NÚCLEO": "MS1",
+    "x": -51.714029,
+    "y": -20.901289
+  },
+  {
+    "UP": "T1DD",
+    "FAZENDA": "SÃO SEBASTIÃO GB",
+    "AREA_HA": 170.99857,
+    "NÚCLEO": "MS1",
+    "x": -51.741158,
+    "y": -20.942431
+  },
+  {
+    "UP": "T1DE",
+    "FAZENDA": "RIACHO FUNDO (F-H145)",
+    "AREA_HA": 147.099528,
+    "NÚCLEO": "MS1",
+    "x": -51.959359,
+    "y": -21.023289
+  },
+  {
+    "UP": "T1DF",
+    "FAZENDA": "MATEBERI (PLANALTO VERDE)",
+    "AREA_HA": 1335.77803,
+    "NÚCLEO": "MS1",
+    "x": -51.821285,
+    "y": -21.024225
+  },
+  {
+    "UP": "T2A0",
+    "FAZENDA": "ALVORADA II  (F-H145 )",
+    "AREA_HA": 240.056125,
+    "NÚCLEO": "MS2",
+    "x": -52.053945,
+    "y": -21.315959
+  },
+  {
+    "UP": "T2A1",
+    "FAZENDA": "ALVORADA III  (F-H247 )",
+    "AREA_HA": 804.791237,
+    "NÚCLEO": "MS2",
+    "x": -52.138442,
+    "y": -21.307039
+  },
+  {
+    "UP": "T2A3",
+    "FAZENDA": "ALVORADA JARDIM II  (F-H146 )",
+    "AREA_HA": 409.401188,
+    "NÚCLEO": "MS2",
+    "x": -52.093285,
+    "y": -21.29284
+  },
+  {
+    "UP": "T2A4",
+    "FAZENDA": "BOM JARDIM  (F-H245 )",
+    "AREA_HA": 298.298714,
+    "NÚCLEO": "MS2",
+    "x": -52.1144,
+    "y": -21.280218
+  },
+  {
+    "UP": "T2A5",
+    "FAZENDA": "BOA ESPERANÇA II  (F-H223 )",
+    "AREA_HA": 8500.90159,
+    "NÚCLEO": "MS2",
+    "x": -52.322853,
+    "y": -21.279432
+  },
+  {
+    "UP": "T2A7",
+    "FAZENDA": "BOM JARDIM II  (F-H246 )",
+    "AREA_HA": 180.069546,
+    "NÚCLEO": "MS2",
+    "x": -52.122954,
+    "y": -21.276479
+  },
+  {
+    "UP": "T2A8",
+    "FAZENDA": "ATLÂNTIDA  (F-H093 )",
+    "AREA_HA": 2429.732422,
+    "NÚCLEO": "MS2",
+    "x": -52.226068,
+    "y": -21.25891
+  },
+  {
+    "UP": "T2A9",
+    "FAZENDA": "MONTE ALTO  (F-H287 )",
+    "AREA_HA": 2792.646063,
+    "NÚCLEO": "MS2",
+    "x": -52.759105,
+    "y": -21.237284
+  },
+  {
+    "UP": "T2AA",
+    "FAZENDA": "FIGUEIRA  (F-H296 )",
+    "AREA_HA": 866.297844,
+    "NÚCLEO": "MS2",
+    "x": -52.580947,
+    "y": -21.740581
+  },
+  {
+    "UP": "T2AB",
+    "FAZENDA": "SAO JOSE VI  (F-H263 )",
+    "AREA_HA": 3773.361459,
+    "NÚCLEO": "MS2",
+    "x": -52.672658,
+    "y": -21.706169
+  },
+  {
+    "UP": "T2AC",
+    "FAZENDA": "DIVISAO  (F-H275 )",
+    "AREA_HA": 444.31898,
+    "NÚCLEO": "MS2",
+    "x": -52.670956,
+    "y": -21.672934
+  },
+  {
+    "UP": "T2AD",
+    "FAZENDA": "SAO JOSE V  (F-H255 )",
+    "AREA_HA": 2510.987293,
+    "NÚCLEO": "MS2",
+    "x": -52.703443,
+    "y": -21.659927
+  },
+  {
+    "UP": "T2AE",
+    "FAZENDA": "CONQUISTA II  (F-H191 )",
+    "AREA_HA": 929.612685,
+    "NÚCLEO": "MS2",
+    "x": -52.368318,
+    "y": -21.638934
+  },
+  {
+    "UP": "T2AF",
+    "FAZENDA": "INDAIA  (F-H294 )",
+    "AREA_HA": 521.938147,
+    "NÚCLEO": "MS2",
+    "x": -52.779257,
+    "y": -21.573048
+  },
+  {
+    "UP": "T2AG",
+    "FAZENDA": "SANTA ROSA IV  (F-H242 )",
+    "AREA_HA": 10318.59137,
+    "NÚCLEO": "MS2",
+    "x": -52.198454,
+    "y": -21.404359
+  },
+  {
+    "UP": "T2AI",
+    "FAZENDA": "BARRA DO CEDRO  (F-H231 )",
+    "AREA_HA": 2831.27026,
+    "NÚCLEO": "MS2",
+    "x": -52.081266,
+    "y": -21.401736
+  },
+  {
+    "UP": "T2AJ",
+    "FAZENDA": "CANAVIEIRA  (F-H141 )",
+    "AREA_HA": 3016.741114,
+    "NÚCLEO": "MS2",
+    "x": -52.347257,
+    "y": -21.393936
+  },
+  {
+    "UP": "T2AK",
+    "FAZENDA": "SANTA LUZIA IV  (F-H227 )",
+    "AREA_HA": 1368.433897,
+    "NÚCLEO": "MS2",
+    "x": -52.114939,
+    "y": -21.382557
+  },
+  {
+    "UP": "T2AL",
+    "FAZENDA": "SÃO JOÃO IV  (F-H288 )",
+    "AREA_HA": 1198.578735,
+    "NÚCLEO": "MS2",
+    "x": -52.751697,
+    "y": -21.37514
+  },
+  {
+    "UP": "T2AM",
+    "FAZENDA": "MIRACEMA  (F-H237 )",
+    "AREA_HA": 1673.82923,
+    "NÚCLEO": "MS2",
+    "x": -52.301915,
+    "y": -21.372335
+  },
+  {
+    "UP": "T2AO",
+    "FAZENDA": "SANTA ROSA III  (F-H230 )",
+    "AREA_HA": 2734.384015,
+    "NÚCLEO": "MS2",
+    "x": -52.292892,
+    "y": -21.349651
+  },
+  {
+    "UP": "T2AP",
+    "FAZENDA": "ANTARES  (F-H224 )",
+    "AREA_HA": 11640.17676,
+    "NÚCLEO": "MS2",
+    "x": -52.406001,
+    "y": -21.347049
+  },
+  {
+    "UP": "T2AR",
+    "FAZENDA": "SANTA ROSA II  (F-H229 )",
+    "AREA_HA": 2002.767375,
+    "NÚCLEO": "MS2",
+    "x": -52.138685,
+    "y": -21.343182
+  },
+  {
+    "UP": "T2AS",
+    "FAZENDA": "RANCHO DO ROSÁRIO  (F-H203 )",
+    "AREA_HA": 748.105577,
+    "NÚCLEO": "MS2",
+    "x": -52.102444,
+    "y": -21.327624
+  },
+  {
+    "UP": "T2AT",
+    "FAZENDA": "FAVEIRO DO RIO VERDE III  (F-H260 )",
+    "AREA_HA": 219.760121,
+    "NÚCLEO": "MS2",
+    "x": -52.030535,
+    "y": -21.322963
+  },
+  {
+    "UP": "T2AU",
+    "FAZENDA": "CAMPO LIMPO  (F-H232 )",
+    "AREA_HA": 5489.412356,
+    "NÚCLEO": "MS2",
+    "x": -52.211495,
+    "y": -21.321796
+  },
+  {
+    "UP": "T2AV",
+    "FAZENDA": "ALVORADA DO JARDIM  (F-H144 )",
+    "AREA_HA": 374.641896,
+    "NÚCLEO": "MS2",
+    "x": -52.040527,
+    "y": -21.318683
+  },
+  {
+    "UP": "T2AW",
+    "FAZENDA": "SÃO CRISTOVÃO  (F-H211 )",
+    "AREA_HA": 220.781374,
+    "NÚCLEO": "MS2",
+    "x": -52.033616,
+    "y": -21.318681
+  },
+  {
+    "UP": "T2AX",
+    "FAZENDA": "SÃO SEBASTIÃO  (F-H149 )",
+    "AREA_HA": 254.405891,
+    "NÚCLEO": "MS2",
+    "x": -52.046863,
+    "y": -21.316241
+  },
+  {
+    "UP": "T2AY",
+    "FAZENDA": "SAO JORGE  (F-H252 )",
+    "AREA_HA": 450.748875,
+    "NÚCLEO": "MS2",
+    "x": -52.674555,
+    "y": -21.320088
+  },
+  {
+    "UP": "T2AZ",
+    "FAZENDA": "IPE  (F-H272 )",
+    "AREA_HA": 751.840338,
+    "NÚCLEO": "MS2",
+    "x": -52.117753,
+    "y": -21.315725
+  },
+  {
+    "UP": "T2BA",
+    "FAZENDA": "BRASILÂNDIA  (F-H080 )",
+    "AREA_HA": 676.942964,
+    "NÚCLEO": "MS2",
+    "x": -52.096952,
+    "y": -21.232037
+  },
+  {
+    "UP": "T2BB",
+    "FAZENDA": "COQUEIRINHO  (F-H286 )",
+    "AREA_HA": 1293.672901,
+    "NÚCLEO": "MS2",
+    "x": -52.188486,
+    "y": -21.231705
+  },
+  {
+    "UP": "T2BC",
+    "FAZENDA": "JANDAIA  (F-H041 )",
+    "AREA_HA": 582.376331,
+    "NÚCLEO": "MS2",
+    "x": -52.041394,
+    "y": -21.226356
+  },
+  {
+    "UP": "T2BD",
+    "FAZENDA": "NELORINHA  (F-H077 )",
+    "AREA_HA": 966.444293,
+    "NÚCLEO": "MS2",
+    "x": -52.257173,
+    "y": -21.219338
+  },
+  {
+    "UP": "T2BE",
+    "FAZENDA": "PORTAL  (F-H065 )",
+    "AREA_HA": 433.518036,
+    "NÚCLEO": "MS2",
+    "x": -52.031535,
+    "y": -21.214705
+  },
+  {
+    "UP": "T2BF",
+    "FAZENDA": "BRASILÂNDIA II  (F-H301 )",
+    "AREA_HA": 1081.109477,
+    "NÚCLEO": "MS2",
+    "x": -52.167863,
+    "y": -21.204755
+  },
+  {
+    "UP": "T2BG",
+    "FAZENDA": "JUALLEBRU II  (F-H197 )",
+    "AREA_HA": 436.44894,
+    "NÚCLEO": "MS2",
+    "x": -52.049869,
+    "y": -21.19446
+  },
+  {
+    "UP": "T2BH",
+    "FAZENDA": "SANTA LUZIA II  (F-H199 )",
+    "AREA_HA": 325.385366,
+    "NÚCLEO": "MS2",
+    "x": -52.08629,
+    "y": -21.186334
+  },
+  {
+    "UP": "T2BI",
+    "FAZENDA": "ANA NERY  (F-H174 )",
+    "AREA_HA": 1043.252337,
+    "NÚCLEO": "MS2",
+    "x": -52.04672,
+    "y": -21.179642
+  },
+  {
+    "UP": "T2BJ",
+    "FAZENDA": "ESTANCIA ANELISA  (F-H282 )",
+    "AREA_HA": 165.555462,
+    "NÚCLEO": "MS2",
+    "x": -52.111227,
+    "y": -21.178674
+  },
+  {
+    "UP": "T2BK",
+    "FAZENDA": "FORMOSO GLEBA A  (F-H243 )",
+    "AREA_HA": 474.470849,
+    "NÚCLEO": "MS2",
+    "x": -52.149172,
+    "y": -21.170512
+  },
+  {
+    "UP": "T2BL",
+    "FAZENDA": "SANTA LUZIA III  (F-H200 )",
+    "AREA_HA": 384.516081,
+    "NÚCLEO": "MS2",
+    "x": -52.101579,
+    "y": -21.169626
+  },
+  {
+    "UP": "T2BM",
+    "FAZENDA": "SÃO JOSÉ II  (F-H196 )",
+    "AREA_HA": 632.787788,
+    "NÚCLEO": "MS2",
+    "x": -52.064655,
+    "y": -21.154032
+  },
+  {
+    "UP": "T2BN",
+    "FAZENDA": "SANTO ANTONIO  (F-H172 )",
+    "AREA_HA": 488.095984,
+    "NÚCLEO": "MS2",
+    "x": -52.023245,
+    "y": -21.133807
+  },
+  {
+    "UP": "T2BO",
+    "FAZENDA": "SAO DOMINGOS  (F-H048 )",
+    "AREA_HA": 2069.67148,
+    "NÚCLEO": "MS2",
+    "x": -52.085952,
+    "y": -21.117713
+  },
+  {
+    "UP": "T2BP",
+    "FAZENDA": "SANTO ANTONIO II  (F-H171 )",
+    "AREA_HA": 585.746046,
+    "NÚCLEO": "MS2",
+    "x": -52.048443,
+    "y": -21.11184
+  },
+  {
+    "UP": "T2BQ",
+    "FAZENDA": "SANTA LUZIA VI",
+    "AREA_HA": 3141.791411,
+    "NÚCLEO": "MS2",
+    "x": -52.702598,
+    "y": -21.519018
+  },
+  {
+    "UP": "T2BR",
+    "FAZENDA": "SANTA MARIA IX",
+    "AREA_HA": 2279.249477,
+    "NÚCLEO": "MS2",
+    "x": -52.581632,
+    "y": -21.446522
+  },
+  {
+    "UP": "T2BS",
+    "FAZENDA": "POUSO ALTO I",
+    "AREA_HA": 1572.654979,
+    "NÚCLEO": "MS2",
+    "x": -52.709923,
+    "y": -21.389347
+  },
+  {
+    "UP": "T2BT",
+    "FAZENDA": "SANTA LUZIA VII",
+    "AREA_HA": 3951.160071,
+    "NÚCLEO": "MS2",
+    "x": -52.686824,
+    "y": -21.453663
+  },
+  {
+    "UP": "T2BU",
+    "FAZENDA": "TRÊS IRMÃOS",
+    "AREA_HA": 4697.305044,
+    "NÚCLEO": "MS2",
+    "x": -52.64737,
+    "y": -21.580678
+  },
+  {
+    "UP": "T2BV",
+    "FAZENDA": "BORDON",
+    "AREA_HA": 1905.9994,
+    "NÚCLEO": "MS2",
+    "x": -52.70322,
+    "y": -21.574426
+  },
+  {
+    "UP": "T2BW",
+    "FAZENDA": "NOSSA SENHORA APARECIDA VI",
+    "AREA_HA": 1028.452137,
+    "NÚCLEO": "MS2",
+    "x": -52.800073,
+    "y": -21.939284
+  },
+  {
+    "UP": "T2BX",
+    "FAZENDA": "CABECEIRA II",
+    "AREA_HA": 224.051338,
+    "NÚCLEO": "MS2",
+    "x": -52.556618,
+    "y": -21.803712
+  },
+  {
+    "UP": "T2BY",
+    "FAZENDA": "SÃO JOSÉ VII",
+    "AREA_HA": 3838.651296,
+    "NÚCLEO": "MS2",
+    "x": -52.269401,
+    "y": -21.300313
+  },
+  {
+    "UP": "T3AA",
+    "FAZENDA": "PARANOÁ  (F-H076 )",
+    "AREA_HA": 1987.779744,
+    "NÚCLEO": "MS3",
+    "x": -51.734391,
+    "y": -20.647345
+  },
+  {
+    "UP": "T3AB",
+    "FAZENDA": "SÃO FRANCISCO II  (F-H069 )",
+    "AREA_HA": 489.782116,
+    "NÚCLEO": "MS3",
+    "x": -51.6474,
+    "y": -20.625555
+  },
+  {
+    "UP": "T3AC",
+    "FAZENDA": "DOM THOMAS IV  (F-H082 )",
+    "AREA_HA": 187.268877,
+    "NÚCLEO": "MS3",
+    "x": -51.756772,
+    "y": -20.619605
+  },
+  {
+    "UP": "T3AE",
+    "FAZENDA": "PONTAL  (F-H009 )",
+    "AREA_HA": 1132.215043,
+    "NÚCLEO": "MS3",
+    "x": -51.702469,
+    "y": -20.602398
+  },
+  {
+    "UP": "T3AF",
+    "FAZENDA": "PONTEIO  (F-H067 )",
+    "AREA_HA": 1312.559782,
+    "NÚCLEO": "MS3",
+    "x": -51.73424,
+    "y": -20.541686
+  },
+  {
+    "UP": "T3AG",
+    "FAZENDA": "LAGOA  (F-H110 )",
+    "AREA_HA": 880.195443,
+    "NÚCLEO": "MS3",
+    "x": -51.705408,
+    "y": -20.5362
+  },
+  {
+    "UP": "T3AH",
+    "FAZENDA": "SANTO ANTONIO V  (F-H273 )",
+    "AREA_HA": 829.879076,
+    "NÚCLEO": "MS3",
+    "x": -51.812042,
+    "y": -20.517968
+  },
+  {
+    "UP": "T3AI",
+    "FAZENDA": "SANTA CLARA II  (F-H207 )",
+    "AREA_HA": 1597.317431,
+    "NÚCLEO": "MS3",
+    "x": -51.607563,
+    "y": -20.487353
+  },
+  {
+    "UP": "T3AJ",
+    "FAZENDA": "MATÃO  (F-H010 )",
+    "AREA_HA": 16832.80142,
+    "NÚCLEO": "MS3",
+    "x": -51.804601,
+    "y": -20.416047
+  },
+  {
+    "UP": "T3AM",
+    "FAZENDA": "PARQUE FLORESTAL ERVA VIII  (F-H239 )",
+    "AREA_HA": 2670.691742,
+    "NÚCLEO": "MS3",
+    "x": -51.69198,
+    "y": -20.392998
+  },
+  {
+    "UP": "T3AN",
+    "FAZENDA": "SÃO LOURENÇO  (F-H072 )",
+    "AREA_HA": 484.071661,
+    "NÚCLEO": "MS3",
+    "x": -51.952432,
+    "y": -20.38546
+  },
+  {
+    "UP": "T3AO",
+    "FAZENDA": "ESMERALDA  (F-H068 )",
+    "AREA_HA": 848.936421,
+    "NÚCLEO": "MS3",
+    "x": -51.888651,
+    "y": -20.381558
+  },
+  {
+    "UP": "T3AP",
+    "FAZENDA": "SANTA CRISTINA  (F-H095 )",
+    "AREA_HA": 1076.568677,
+    "NÚCLEO": "MS3",
+    "x": -51.936419,
+    "y": -20.370208
+  },
+  {
+    "UP": "T3AQ",
+    "FAZENDA": "SANTA MÔNICA  (F-H108 )",
+    "AREA_HA": 1108.880939,
+    "NÚCLEO": "MS3",
+    "x": -51.923621,
+    "y": -20.349563
+  },
+  {
+    "UP": "T3AR",
+    "FAZENDA": "FANTASIA  (F-H164 )",
+    "AREA_HA": 1986.776771,
+    "NÚCLEO": "MS3",
+    "x": -51.698117,
+    "y": -20.347084
+  },
+  {
+    "UP": "T3AS",
+    "FAZENDA": "SÃO FRANCISCO  (F-H023 )",
+    "AREA_HA": 911.440934,
+    "NÚCLEO": "MS3",
+    "x": -51.847444,
+    "y": -20.342172
+  },
+  {
+    "UP": "T3AT",
+    "FAZENDA": "SANTA MARIA III  (F-H081 )",
+    "AREA_HA": 1022.348993,
+    "NÚCLEO": "MS3",
+    "x": -51.913182,
+    "y": -20.325721
+  },
+  {
+    "UP": "T3AU",
+    "FAZENDA": "TRÊS IRMÃOS II  (F-H198 )",
+    "AREA_HA": 471.201618,
+    "NÚCLEO": "MS3",
+    "x": -51.704109,
+    "y": -20.286156
+  },
+  {
+    "UP": "T3AV",
+    "FAZENDA": "YACIMA  (F-H158 )",
+    "AREA_HA": 2177.934297,
+    "NÚCLEO": "MS3",
+    "x": -51.770625,
+    "y": -20.260042
+  },
+  {
+    "UP": "T3AW",
+    "FAZENDA": "BOA ESPERANÇA III  (F-H240 )",
+    "AREA_HA": 109.852799,
+    "NÚCLEO": "MS3",
+    "x": -51.131371,
+    "y": -20.060235
+  },
+  {
+    "UP": "T3AX",
+    "FAZENDA": "ESTRELA  (F-H281 )",
+    "AREA_HA": 2210.633889,
+    "NÚCLEO": "MS3",
+    "x": -51.745756,
+    "y": -20.003859
+  },
+  {
+    "UP": "T3AY",
+    "FAZENDA": "JOAMAR  (F-H292 )",
+    "AREA_HA": 1702.099043,
+    "NÚCLEO": "MS3",
+    "x": -51.781157,
+    "y": -19.987872
+  },
+  {
+    "UP": "T3BA",
+    "FAZENDA": "PARANOÁ II",
+    "AREA_HA": 254.778784,
+    "NÚCLEO": "MS3",
+    "x": -51.706994,
+    "y": -20.639407
+  },
+  {
+    "UP": "T3BB",
+    "FAZENDA": "SANTA ROSA",
+    "AREA_HA": 65.25425,
+    "NÚCLEO": "MS3",
+    "x": -51.846066,
+    "y": -19.76339
+  },
+  {
+    "UP": "T3BC",
+    "FAZENDA": "SANTA ANGÉLICA",
+    "AREA_HA": 229.690135,
+    "NÚCLEO": "MS3",
+    "x": -51.753728,
+    "y": -20.625294
+  },
+  {
+    "UP": "T3BD",
+    "FAZENDA": "JOAMAR II",
+    "AREA_HA": 168.640576,
+    "NÚCLEO": "MS3",
+    "x": -51.781492,
+    "y": -19.978191
+  },
+  {
+    "UP": "T3BE",
+    "FAZENDA": "ESTRELA E SANTO EXPEDITO",
+    "AREA_HA": 1865.123226,
+    "NÚCLEO": "MS3",
+    "x": -51.670646,
+    "y": -19.970978
+  },
+  {
+    "UP": "T3BF",
+    "FAZENDA": "NOSSA SENHORA APARECIDA VII",
+    "AREA_HA": 365.953003,
+    "NÚCLEO": "MS3",
+    "x": -51.884228,
+    "y": -19.969459
+  },
+  {
+    "UP": "T3BG",
+    "FAZENDA": "UNIÃO SÃO PEDRO",
+    "AREA_HA": 9507.690875,
+    "NÚCLEO": "MS3",
+    "x": -52.306349,
+    "y": -19.473005
+  },
+  {
+    "UP": "T3BH",
+    "FAZENDA": "CONQUISTA E NOVA CONQUISTA",
+    "AREA_HA": 2625.056296,
+    "NÚCLEO": "MS3",
+    "x": -51.844902,
+    "y": -19.950654
+  },
+  {
+    "UP": "T3BI",
+    "FAZENDA": "NOSSA SENHORA",
+    "AREA_HA": 2902.956729,
+    "NÚCLEO": "MS3",
+    "x": -52.079649,
+    "y": -19.483279
+  },
+  {
+    "UP": "T3BJ",
+    "FAZENDA": "RIO MANSO",
+    "AREA_HA": 1882.460127,
+    "NÚCLEO": "MS3",
+    "x": -52.174134,
+    "y": -19.261427
+  },
+  {
+    "UP": "T3BK",
+    "FAZENDA": "CARVALHO",
+    "AREA_HA": 1227.86159,
+    "NÚCLEO": "MS3",
+    "x": -52.111773,
+    "y": -19.336053
+  },
+  {
+    "UP": "T3BL",
+    "FAZENDA": "TRÊS MARIAS II",
+    "AREA_HA": 2996.744253,
+    "NÚCLEO": "MS3",
+    "x": -52.147533,
+    "y": -19.295252
+  },
+  {
+    "UP": "T3BM",
+    "FAZENDA": "JIII",
+    "AREA_HA": 1947.884455,
+    "NÚCLEO": "MS3",
+    "x": -52.030553,
+    "y": -19.254603
+  },
+  {
+    "UP": "T3BN",
+    "FAZENDA": "SÃO JUDAS TADEU III",
+    "AREA_HA": 732.461245,
+    "NÚCLEO": "MS3",
+    "x": -52.131072,
+    "y": -19.365938
+  },
+  {
+    "UP": "T3BO",
+    "FAZENDA": "V-11",
+    "AREA_HA": 1707.97362,
+    "NÚCLEO": "MS3",
+    "x": -51.963288,
+    "y": -19.120491
+  },
+  {
+    "UP": "T3BP",
+    "FAZENDA": "ALVORECER",
+    "AREA_HA": 868.647919,
+    "NÚCLEO": "MS3",
+    "x": -51.760336,
+    "y": -20.052857
+  },
+  {
+    "UP": "T3BQ",
+    "FAZENDA": "SANTA MERCEDES",
+    "AREA_HA": 585.306483,
+    "NÚCLEO": "MS3",
+    "x": -52.067541,
+    "y": -19.447651
+  },
+  {
+    "UP": "T3BR",
+    "FAZENDA": "SANTA HELENA II",
+    "AREA_HA": 3417.626206,
+    "NÚCLEO": "MS3",
+    "x": -51.989165,
+    "y": -19.145285
+  },
+  {
+    "UP": "T3BS",
+    "FAZENDA": "SÃO JOSÉ VIII",
+    "AREA_HA": 148.265551,
+    "NÚCLEO": "MS3",
+    "x": -52.084764,
+    "y": -19.196038
+  },
+  {
+    "UP": "T3BT",
+    "FAZENDA": "SÃO JOSÉ IX",
+    "AREA_HA": 157.537387,
+    "NÚCLEO": "MS3",
+    "x": -52.093708,
+    "y": -19.190498
+  },
+  {
+    "UP": "T3BU",
+    "FAZENDA": "DOIS CORAÇÕES",
+    "AREA_HA": 3.920751,
+    "NÚCLEO": "MS3",
+    "x": -51.852494,
+    "y": -19.764737
+  },
+  {
+    "UP": "T4AA",
+    "FAZENDA": "PILARES II  (F-H274 )",
+    "AREA_HA": 1337.841548,
+    "NÚCLEO": "MS4",
+    "x": -52.286036,
+    "y": -20.942429
+  },
+  {
+    "UP": "T4AB",
+    "FAZENDA": "PILARES III  (F-H293 )",
+    "AREA_HA": 726.251819,
+    "NÚCLEO": "MS4",
+    "x": -52.304703,
+    "y": -20.929729
+  },
+  {
+    "UP": "T4AC",
+    "FAZENDA": "PILARES  (F-H155 )",
+    "AREA_HA": 454.426359,
+    "NÚCLEO": "MS4",
+    "x": -52.317316,
+    "y": -20.91963
+  },
+  {
+    "UP": "T4AD",
+    "FAZENDA": "RIO VERDE A  (F-H007 )",
+    "AREA_HA": 19452.59418,
+    "NÚCLEO": "MS4",
+    "x": -52.233073,
+    "y": -20.920761
+  },
+  {
+    "UP": "T4AG",
+    "FAZENDA": "NOVA ESPERANÇA  (F-H070 )",
+    "AREA_HA": 1103.461677,
+    "NÚCLEO": "MS4",
+    "x": -52.073998,
+    "y": -20.906192
+  },
+  {
+    "UP": "T4AH",
+    "FAZENDA": "NOVOS TEMPOS  (F-H074 )",
+    "AREA_HA": 1107.649684,
+    "NÚCLEO": "MS4",
+    "x": -52.185428,
+    "y": -20.880191
+  },
+  {
+    "UP": "T4AI",
+    "FAZENDA": "BURITI ALEGRE  (F-H064 )",
+    "AREA_HA": 895.816323,
+    "NÚCLEO": "MS4",
+    "x": -52.066661,
+    "y": -20.863196
+  },
+  {
+    "UP": "T4AJ",
+    "FAZENDA": "SANTANA  (F-H092 )",
+    "AREA_HA": 378.207911,
+    "NÚCLEO": "MS4",
+    "x": -52.205067,
+    "y": -20.863144
+  },
+  {
+    "UP": "T4AK",
+    "FAZENDA": "MILLENIUM  (F-H201 )",
+    "AREA_HA": 4431.481196,
+    "NÚCLEO": "MS4",
+    "x": -52.300232,
+    "y": -20.860524
+  },
+  {
+    "UP": "T4AL",
+    "FAZENDA": "SÃO MARCOS  (F-H102 )",
+    "AREA_HA": 5970.202231,
+    "NÚCLEO": "MS4",
+    "x": -52.399349,
+    "y": -20.835395
+  },
+  {
+    "UP": "T4AM",
+    "FAZENDA": "TRÊS IRMÃOS  (F-H086 )",
+    "AREA_HA": 256.360248,
+    "NÚCLEO": "MS4",
+    "x": -52.090906,
+    "y": -20.801006
+  },
+  {
+    "UP": "T4AN",
+    "FAZENDA": "SANTA MATHILDE  (F-H290 )",
+    "AREA_HA": 449.098837,
+    "NÚCLEO": "MS4",
+    "x": -52.23874,
+    "y": -20.800192
+  },
+  {
+    "UP": "T4AO",
+    "FAZENDA": "SAO JUDAS TADEU  (F-H302 )",
+    "AREA_HA": 172.264622,
+    "NÚCLEO": "MS4",
+    "x": -52.084383,
+    "y": -20.793948
+  },
+  {
+    "UP": "T4AP",
+    "FAZENDA": "VIÇOSA  (F-H075 )",
+    "AREA_HA": 931.719521,
+    "NÚCLEO": "MS4",
+    "x": -52.16663,
+    "y": -20.789648
+  },
+  {
+    "UP": "T4AQ",
+    "FAZENDA": "BURITI II  (F-H087 )",
+    "AREA_HA": 467.530539,
+    "NÚCLEO": "MS4",
+    "x": -52.158173,
+    "y": -20.777944
+  },
+  {
+    "UP": "T4AR",
+    "FAZENDA": "COLORADO II  (F-H300 )",
+    "AREA_HA": 967.612761,
+    "NÚCLEO": "MS4",
+    "x": -52.400391,
+    "y": -20.775558
+  },
+  {
+    "UP": "T4AS",
+    "FAZENDA": "TRÊS MARIAS  (F-H078 )",
+    "AREA_HA": 863.813849,
+    "NÚCLEO": "MS4",
+    "x": -52.209004,
+    "y": -20.762255
+  },
+  {
+    "UP": "T4AT",
+    "FAZENDA": "GUARAÇAI  (F-H073 )",
+    "AREA_HA": 268.490815,
+    "NÚCLEO": "MS4",
+    "x": -52.18695,
+    "y": -20.756974
+  },
+  {
+    "UP": "T4AU",
+    "FAZENDA": "TALISMÃ DO SUL II  (F-H168 )",
+    "AREA_HA": 556.682045,
+    "NÚCLEO": "MS4",
+    "x": -52.264864,
+    "y": -20.730596
+  },
+  {
+    "UP": "T4AV",
+    "FAZENDA": "TALISMÃ DO SUL  (F-H167 )",
+    "AREA_HA": 726.144403,
+    "NÚCLEO": "MS4",
+    "x": -52.309538,
+    "y": -20.714727
+  },
+  {
+    "UP": "T4AW",
+    "FAZENDA": "NOSSA SENHORA APARECIDA DO BURITIZAL II",
+    "AREA_HA": 505.825617,
+    "NÚCLEO": "MS4",
+    "x": -52.224761,
+    "y": -20.742412
+  },
+  {
+    "UP": "T4AX",
+    "FAZENDA": "COLORADO III",
+    "AREA_HA": 1511.516542,
+    "NÚCLEO": "MS4",
+    "x": -52.390719,
+    "y": -20.797813
+  },
+  {
+    "UP": "T4AZ",
+    "FAZENDA": "BOA VISTA I",
+    "AREA_HA": 2415.876651,
+    "NÚCLEO": "MS4",
+    "x": -52.266592,
+    "y": -20.697919
+  },
+  {
+    "UP": "T4BA",
+    "FAZENDA": "TIMBURI",
+    "AREA_HA": 690.829792,
+    "NÚCLEO": "MS4",
+    "x": -52.209423,
+    "y": -20.84722
+  },
+  {
+    "UP": "T4BB",
+    "FAZENDA": "CALHETA",
+    "AREA_HA": 617.778764,
+    "NÚCLEO": "MS4",
+    "x": -52.209327,
+    "y": -20.833638
+  },
+  {
+    "UP": "T4BC",
+    "FAZENDA": "TIO MUNICO",
+    "AREA_HA": 2056.47034,
+    "NÚCLEO": "MS4",
+    "x": -52.096607,
+    "y": -20.930091
+  },
+  {
+    "UP": "T4BD",
+    "FAZENDA": "ALVORADA IV",
+    "AREA_HA": 1109.99436,
+    "NÚCLEO": "MS4",
+    "x": -52.064114,
+    "y": -20.884748
+  },
+  {
+    "UP": "T4BE",
+    "FAZENDA": "SÃO FRANCISCO IV",
+    "AREA_HA": 476.088831,
+    "NÚCLEO": "MS4",
+    "x": -52.118136,
+    "y": -20.850352
+  },
+  {
+    "UP": "T4BF",
+    "FAZENDA": "SANTA CLARA IV",
+    "AREA_HA": 335.624779,
+    "NÚCLEO": "MS4",
+    "x": -52.101073,
+    "y": -20.86818
+  },
+  {
+    "UP": "T4BG",
+    "FAZENDA": "TUPAHUÊ",
+    "AREA_HA": 2638.477387,
+    "NÚCLEO": "MS4",
+    "x": -52.124005,
+    "y": -20.81953
+  },
+  {
+    "UP": "T4BH",
+    "FAZENDA": "TUPAHUÊ II",
+    "AREA_HA": 1226.075439,
+    "NÚCLEO": "MS4",
+    "x": -52.317351,
+    "y": -20.783494
+  },
+  {
+    "UP": "T4BI",
+    "FAZENDA": "TIO MUNICO II",
+    "AREA_HA": 740.243364,
+    "NÚCLEO": "MS4",
+    "x": -52.109683,
+    "y": -20.947482
+  },
+  {
+    "UP": "T5AA",
+    "FAZENDA": "VERTENTE  (F-H217 )",
+    "AREA_HA": 2826.284368,
+    "NÚCLEO": "MS5",
+    "x": -52.528296,
+    "y": -20.634304
+  },
+  {
+    "UP": "T5AB",
+    "FAZENDA": "ARIRANHA  (F-H125 )",
+    "AREA_HA": 2088.909112,
+    "NÚCLEO": "MS5",
+    "x": -52.488177,
+    "y": -20.619385
+  },
+  {
+    "UP": "T5AC",
+    "FAZENDA": "SÃO JOSE DO ESPIGÃO  (F-H194 )",
+    "AREA_HA": 1522.619496,
+    "NÚCLEO": "MS5",
+    "x": -52.656889,
+    "y": -20.562748
+  },
+  {
+    "UP": "T5AD",
+    "FAZENDA": "TRANSCORAL  (F-H204 )",
+    "AREA_HA": 350.711807,
+    "NÚCLEO": "MS5",
+    "x": -52.534103,
+    "y": -20.546525
+  },
+  {
+    "UP": "T5AE",
+    "FAZENDA": "JO PORA  (F-H114 )",
+    "AREA_HA": 345.726072,
+    "NÚCLEO": "MS5",
+    "x": -52.662979,
+    "y": -20.514797
+  },
+  {
+    "UP": "T5AG",
+    "FAZENDA": "LÚ PORÃ  (F-H142 )",
+    "AREA_HA": 1178.79334,
+    "NÚCLEO": "MS5",
+    "x": -52.595519,
+    "y": -20.500869
+  },
+  {
+    "UP": "T5AH",
+    "FAZENDA": "SÃO JOÃO  (F-H115 )",
+    "AREA_HA": 360.009845,
+    "NÚCLEO": "MS5",
+    "x": -52.648975,
+    "y": -20.497875
+  },
+  {
+    "UP": "T5AI",
+    "FAZENDA": "SANTO ANDRÉ  (F-H106 )",
+    "AREA_HA": 767.295464,
+    "NÚCLEO": "MS5",
+    "x": -52.629694,
+    "y": -20.497245
+  },
+  {
+    "UP": "T5AJ",
+    "FAZENDA": "SANTA MARIA V  (F-H133 )",
+    "AREA_HA": 778.927727,
+    "NÚCLEO": "MS5",
+    "x": -52.66656,
+    "y": -20.484442
+  },
+  {
+    "UP": "T5AL",
+    "FAZENDA": "COLORADO  (F-H116 )",
+    "AREA_HA": 1851.96596,
+    "NÚCLEO": "MS5",
+    "x": -52.651579,
+    "y": -20.435973
+  },
+  {
+    "UP": "T5AM",
+    "FAZENDA": "SANTA INES GLEBA C  (F-H270 )",
+    "AREA_HA": 1981.266254,
+    "NÚCLEO": "MS5",
+    "x": -52.603288,
+    "y": -20.299444
+  },
+  {
+    "UP": "T5AN",
+    "FAZENDA": "SANTA INES  (F-H269 )",
+    "AREA_HA": 1017.674432,
+    "NÚCLEO": "MS5",
+    "x": -52.570365,
+    "y": -20.269368
+  },
+  {
+    "UP": "T5AO",
+    "FAZENDA": "NAGAI  (F-H221 )",
+    "AREA_HA": 324.475275,
+    "NÚCLEO": "MS5",
+    "x": -52.159523,
+    "y": -20.236279
+  },
+  {
+    "UP": "T5AQ",
+    "FAZENDA": "SANTA ADÉLIA",
+    "AREA_HA": 487.982237,
+    "NÚCLEO": "MS5",
+    "x": -52.267095,
+    "y": -20.205381
+  },
+  {
+    "UP": "T5AR",
+    "FAZENDA": "3PA",
+    "AREA_HA": 1294.852503,
+    "NÚCLEO": "MS5",
+    "x": -52.851386,
+    "y": -20.412185
+  },
+  {
+    "UP": "T5AS",
+    "FAZENDA": "PEJU",
+    "AREA_HA": 255.49398,
+    "NÚCLEO": "MS5",
+    "x": -52.830231,
+    "y": -20.446315
+  },
+  {
+    "UP": "T5AT",
+    "FAZENDA": "SÃO JOÃO VALE DO POMBO",
+    "AREA_HA": 632.796796,
+    "NÚCLEO": "MS5",
+    "x": -52.616568,
+    "y": -20.275078
+  },
+  {
+    "UP": "T5AU",
+    "FAZENDA": "POMBINHO EURO",
+    "AREA_HA": 331.93175,
+    "NÚCLEO": "MS5",
+    "x": -52.485212,
+    "y": -20.523232
+  },
+  {
+    "UP": "T5AV",
+    "FAZENDA": "MARCA B2",
+    "AREA_HA": 198.794099,
+    "NÚCLEO": "MS5",
+    "x": -52.207786,
+    "y": -20.217602
+  },
+  {
+    "UP": "T5AX",
+    "FAZENDA": "SANTA RITA DE CÁSSIA II",
+    "AREA_HA": 1856.174633,
+    "NÚCLEO": "MS5",
+    "x": -52.391496,
+    "y": -19.555252
+  },
+  {
+    "UP": "T5AY",
+    "FAZENDA": "ARIRANHA II",
+    "AREA_HA": 141.662251,
+    "NÚCLEO": "MS5",
+    "x": -52.498643,
+    "y": -20.590185
+  },
+  {
+    "UP": "T5AZ",
+    "FAZENDA": "NOVO ORIENTE",
+    "AREA_HA": 1190.279718,
+    "NÚCLEO": "MS5",
+    "x": -52.810494,
+    "y": -20.365579
+  },
+  {
+    "UP": "T5BA",
+    "FAZENDA": "SANTA MARIA",
+    "AREA_HA": 533.478891,
+    "NÚCLEO": "MS5",
+    "x": -52.64806,
+    "y": -19.847566
+  },
+  {
+    "UP": "T5BB",
+    "FAZENDA": "ITATIAIA",
+    "AREA_HA": 1118.267058,
+    "NÚCLEO": "MS5",
+    "x": -52.2586,
+    "y": -20.232537
+  },
+  {
+    "UP": "T5BC",
+    "FAZENDA": "RIO POMBO GLEBA A",
+    "AREA_HA": 164.070798,
+    "NÚCLEO": "MS5",
+    "x": -52.486995,
+    "y": -20.558287
+  },
+  {
+    "UP": "T5BD",
+    "FAZENDA": "RETIRO DOS BOIS",
+    "AREA_HA": 527.236718,
+    "NÚCLEO": "MS5",
+    "x": -52.705998,
+    "y": -20.613534
+  },
+  {
+    "UP": "T5BE",
+    "FAZENDA": "ALVORADA VI",
+    "AREA_HA": 505.344058,
+    "NÚCLEO": "MS5",
+    "x": -52.499802,
+    "y": -20.540691
+  },
+  {
+    "UP": "T5BF",
+    "FAZENDA": "ALVORADA DO POMBO",
+    "AREA_HA": 1692.462212,
+    "NÚCLEO": "MS5",
+    "x": -52.52381,
+    "y": -20.511494
+  },
+  {
+    "UP": "T5BH",
+    "FAZENDA": "BARRA DO BURITI",
+    "AREA_HA": 964.429853,
+    "NÚCLEO": "MS5",
+    "x": -52.631326,
+    "y": -20.007776
+  },
+  {
+    "UP": "T5BI",
+    "FAZENDA": "CIBERLÂNDIA",
+    "AREA_HA": 482.736941,
+    "NÚCLEO": "MS5",
+    "x": -52.668564,
+    "y": -20.050271
+  },
+  {
+    "UP": "T5BJ",
+    "FAZENDA": "MORUMBI",
+    "AREA_HA": 1195.280015,
+    "NÚCLEO": "MS5",
+    "x": -52.686993,
+    "y": -20.047589
+  },
+  {
+    "UP": "T5BK",
+    "FAZENDA": "SANTA MARIA XII",
+    "AREA_HA": 709.672194,
+    "NÚCLEO": "MS5",
+    "x": -52.67348,
+    "y": -20.066657
+  },
+  {
+    "UP": "T5BM",
+    "FAZENDA": "SÃO JOSÉ DO ESPIGÃO II",
+    "AREA_HA": 993.209247,
+    "NÚCLEO": "MS5",
+    "x": -52.611697,
+    "y": -20.533104
+  },
+  {
+    "UP": "T5BN",
+    "FAZENDA": "Ifiii (Jolafine)",
+    "AREA_HA": 422.386952,
+    "NÚCLEO": "MS5",
+    "x": -52.637572,
+    "y": -20.057106
+  },
+  {
+    "UP": "T6A0",
+    "FAZENDA": "ARCO IRIS  (F-H113 )",
+    "AREA_HA": 434.100534,
+    "NÚCLEO": "MS6",
+    "x": -52.00946,
+    "y": -20.678067
+  },
+  {
+    "UP": "T6A1",
+    "FAZENDA": "TRIANGULO DO VALE  (F-H268 )",
+    "AREA_HA": 99.93188,
+    "NÚCLEO": "MS6",
+    "x": -52.16138,
+    "y": -20.675853
+  },
+  {
+    "UP": "T6A2",
+    "FAZENDA": "VALE VERDE  (F-H162 )",
+    "AREA_HA": 687.594717,
+    "NÚCLEO": "MS6",
+    "x": -52.287753,
+    "y": -20.674349
+  },
+  {
+    "UP": "T6A3",
+    "FAZENDA": "CHAPADÃO  (F-H132 )",
+    "AREA_HA": 468.733615,
+    "NÚCLEO": "MS6",
+    "x": -52.134997,
+    "y": -20.665053
+  },
+  {
+    "UP": "T6A4",
+    "FAZENDA": "MANDAGUARI  (F-H271 )",
+    "AREA_HA": 279.232122,
+    "NÚCLEO": "MS6",
+    "x": -51.943454,
+    "y": -20.663076
+  },
+  {
+    "UP": "T6A5",
+    "FAZENDA": "ARAÇATUBA  (F-H205 )",
+    "AREA_HA": 1506.6691,
+    "NÚCLEO": "MS6",
+    "x": -51.97297,
+    "y": -20.661361
+  },
+  {
+    "UP": "T6A6",
+    "FAZENDA": "VALE VERDE II  (F-H304 )",
+    "AREA_HA": 144.756789,
+    "NÚCLEO": "MS6",
+    "x": -52.298932,
+    "y": -20.659454
+  },
+  {
+    "UP": "T6A7",
+    "FAZENDA": "DA MATA  (F-H264 )",
+    "AREA_HA": 605.740823,
+    "NÚCLEO": "MS6",
+    "x": -52.085476,
+    "y": -20.652615
+  },
+  {
+    "UP": "T6A8",
+    "FAZENDA": "SANTA CECILIA II  (F-H295 )",
+    "AREA_HA": 506.416716,
+    "NÚCLEO": "MS6",
+    "x": -52.406623,
+    "y": -20.645656
+  },
+  {
+    "UP": "T6A9",
+    "FAZENDA": "GODINO  (F-H226 )",
+    "AREA_HA": 428.548108,
+    "NÚCLEO": "MS6",
+    "x": -51.934274,
+    "y": -20.636505
+  },
+  {
+    "UP": "T6AA",
+    "FAZENDA": "GRANADA  (F-H190 )",
+    "AREA_HA": 4629.514006,
+    "NÚCLEO": "MS6",
+    "x": -51.915196,
+    "y": -20.891031
+  },
+  {
+    "UP": "T6AB",
+    "FAZENDA": "RODEIO  (F-H189 )",
+    "AREA_HA": 8289.473091,
+    "NÚCLEO": "MS6",
+    "x": -51.820577,
+    "y": -20.846682
+  },
+  {
+    "UP": "T6AD",
+    "FAZENDA": "NOSSA SENHORA DE LOURDES II  (F-H220 )",
+    "AREA_HA": 1177.972431,
+    "NÚCLEO": "MS6",
+    "x": -51.994601,
+    "y": -20.787626
+  },
+  {
+    "UP": "T6AE",
+    "FAZENDA": "PARAISO II  (F-H160 )",
+    "AREA_HA": 478.241154,
+    "NÚCLEO": "MS6",
+    "x": -51.921328,
+    "y": -20.759029
+  },
+  {
+    "UP": "T6AF",
+    "FAZENDA": "LAGOA IV  (F-H111 )",
+    "AREA_HA": 375.93401,
+    "NÚCLEO": "MS6",
+    "x": -52.125698,
+    "y": -20.757823
+  },
+  {
+    "UP": "T6AG",
+    "FAZENDA": "NOSSA SENHORA APARECIDA IV  (F-H228 )",
+    "AREA_HA": 205.962892,
+    "NÚCLEO": "MS6",
+    "x": -52.07323,
+    "y": -20.756294
+  },
+  {
+    "UP": "T6AH",
+    "FAZENDA": "ARAPUÁ  (F-H062 )",
+    "AREA_HA": 337.876962,
+    "NÚCLEO": "MS6",
+    "x": -52.011335,
+    "y": -20.747295
+  },
+  {
+    "UP": "T6AI",
+    "FAZENDA": "ÁGUA LIMPA  (F-H148 )",
+    "AREA_HA": 4133.881536,
+    "NÚCLEO": "MS6",
+    "x": -52.55031,
+    "y": -20.745698
+  },
+  {
+    "UP": "T6AJ",
+    "FAZENDA": "SITIO SÃO JOSÉ  (F-H128 )",
+    "AREA_HA": 95.116507,
+    "NÚCLEO": "MS6",
+    "x": -52.048939,
+    "y": -20.744209
+  },
+  {
+    "UP": "T6AK",
+    "FAZENDA": "SÃO VICENTE  (F-H202 )",
+    "AREA_HA": 108.321437,
+    "NÚCLEO": "MS6",
+    "x": -51.914083,
+    "y": -20.734407
+  },
+  {
+    "UP": "T6AL",
+    "FAZENDA": "ITAPOÃ  (F-H289 )",
+    "AREA_HA": 287.468235,
+    "NÚCLEO": "MS6",
+    "x": -52.059489,
+    "y": -20.726956
+  },
+  {
+    "UP": "T6AM",
+    "FAZENDA": "NOVO MUNDO  (F-H159 )",
+    "AREA_HA": 786.296191,
+    "NÚCLEO": "MS6",
+    "x": -51.850819,
+    "y": -20.725091
+  },
+  {
+    "UP": "T6AN",
+    "FAZENDA": "RANCHO COROTE  (F-H127 )",
+    "AREA_HA": 297.929411,
+    "NÚCLEO": "MS6",
+    "x": -51.827003,
+    "y": -20.713743
+  },
+  {
+    "UP": "T6AO",
+    "FAZENDA": "SÃO LUCAS  (F-H283 )",
+    "AREA_HA": 1415.099545,
+    "NÚCLEO": "MS6",
+    "x": -51.80927,
+    "y": -20.713219
+  },
+  {
+    "UP": "T6AP",
+    "FAZENDA": "ABASTO  (F-H126 )",
+    "AREA_HA": 6286.11635,
+    "NÚCLEO": "MS6",
+    "x": -52.453924,
+    "y": -20.71258
+  },
+  {
+    "UP": "T6AQ",
+    "FAZENDA": "ESTÂNCIA MARCELO  (F-H137 )",
+    "AREA_HA": 484.73902,
+    "NÚCLEO": "MS6",
+    "x": -52.020941,
+    "y": -20.71235
+  },
+  {
+    "UP": "T6AR",
+    "FAZENDA": "NOVA ERA II  (F-H169 )",
+    "AREA_HA": 345.897807,
+    "NÚCLEO": "MS6",
+    "x": -52.053459,
+    "y": -20.712245
+  },
+  {
+    "UP": "T6AS",
+    "FAZENDA": "SÃO FRANCISCO III  (F-H097 )",
+    "AREA_HA": 632.659715,
+    "NÚCLEO": "MS6",
+    "x": -51.9195,
+    "y": -20.710046
+  },
+  {
+    "UP": "T6AT",
+    "FAZENDA": "CURUCACA  (F-H053 )",
+    "AREA_HA": 4941.183076,
+    "NÚCLEO": "MS6",
+    "x": -52.130985,
+    "y": -20.70717
+  },
+  {
+    "UP": "T6AU",
+    "FAZENDA": "SANTA MARINA  (F-H107 )",
+    "AREA_HA": 347.750625,
+    "NÚCLEO": "MS6",
+    "x": -51.861804,
+    "y": -20.692072
+  },
+  {
+    "UP": "T6AV",
+    "FAZENDA": "INICIAL  (F-H094 )",
+    "AREA_HA": 136.054543,
+    "NÚCLEO": "MS6",
+    "x": -52.006974,
+    "y": -20.691653
+  },
+  {
+    "UP": "T6AW",
+    "FAZENDA": "SÃO DOMINGOS II  (F-H173 )",
+    "AREA_HA": 268.039381,
+    "NÚCLEO": "MS6",
+    "x": -51.960607,
+    "y": -20.689647
+  },
+  {
+    "UP": "T6AX",
+    "FAZENDA": "SANTA ADELIA  (F-H157 )",
+    "AREA_HA": 1821.442562,
+    "NÚCLEO": "MS6",
+    "x": -52.038562,
+    "y": -20.690004
+  },
+  {
+    "UP": "T6AY",
+    "FAZENDA": "NOSSA SENHORA DA APARECIDA DO BURITIZAL  (F-H071 )",
+    "AREA_HA": 1024.658612,
+    "NÚCLEO": "MS6",
+    "x": -52.196126,
+    "y": -20.686424
+  },
+  {
+    "UP": "T6AZ",
+    "FAZENDA": "GAIOTTO  (F-H280 )",
+    "AREA_HA": 616.283389,
+    "NÚCLEO": "MS6",
+    "x": -52.293109,
+    "y": -20.683628
+  },
+  {
+    "UP": "T6B0",
+    "FAZENDA": "FLORESTA  (F-H130 )",
+    "AREA_HA": 504.390528,
+    "NÚCLEO": "MS6",
+    "x": -52.265552,
+    "y": -20.468762
+  },
+  {
+    "UP": "T6B1",
+    "FAZENDA": "GUARÁ  (F-H124 )",
+    "AREA_HA": 709.860943,
+    "NÚCLEO": "MS6",
+    "x": -52.048252,
+    "y": -20.467528
+  },
+  {
+    "UP": "T6B2",
+    "FAZENDA": "SÃO JOÃO II  (F-H122 )",
+    "AREA_HA": 454.833934,
+    "NÚCLEO": "MS6",
+    "x": -52.03473,
+    "y": -20.461611
+  },
+  {
+    "UP": "T6B3",
+    "FAZENDA": "AGUA LIMPA II  (F-H180 )",
+    "AREA_HA": 464.767151,
+    "NÚCLEO": "MS6",
+    "x": -52.040906,
+    "y": -20.447681
+  },
+  {
+    "UP": "T6B4",
+    "FAZENDA": "ARAÇA  (F-H123 )",
+    "AREA_HA": 133.553483,
+    "NÚCLEO": "MS6",
+    "x": -52.185567,
+    "y": -20.435709
+  },
+  {
+    "UP": "T6B5",
+    "FAZENDA": "SÃO JOSÉ III  (F-H212 )",
+    "AREA_HA": 187.973927,
+    "NÚCLEO": "MS6",
+    "x": -52.147547,
+    "y": -20.433763
+  },
+  {
+    "UP": "T6B6",
+    "FAZENDA": "AGUA BRANCA  (F-H112 )",
+    "AREA_HA": 1981.677077,
+    "NÚCLEO": "MS6",
+    "x": -52.206133,
+    "y": -20.425171
+  },
+  {
+    "UP": "T6B7",
+    "FAZENDA": "PERDIZES  (F-H165 )",
+    "AREA_HA": 2192.454304,
+    "NÚCLEO": "MS6",
+    "x": -52.403605,
+    "y": -20.4129
+  },
+  {
+    "UP": "T6B8",
+    "FAZENDA": "MATINHA DO BRIOSO  (F-H291 )",
+    "AREA_HA": 192.266667,
+    "NÚCLEO": "MS6",
+    "x": -52.147419,
+    "y": -20.326613
+  },
+  {
+    "UP": "T6B9",
+    "FAZENDA": "PONTAL DO BRIOSO  (F-H276 )",
+    "AREA_HA": 316.873447,
+    "NÚCLEO": "MS6",
+    "x": -52.16753,
+    "y": -20.315984
+  },
+  {
+    "UP": "T6BA",
+    "FAZENDA": "SANTA RITA DE CÁSSIA  (F-H254 )",
+    "AREA_HA": 2204.401606,
+    "NÚCLEO": "MS6",
+    "x": -52.234281,
+    "y": -20.634598
+  },
+  {
+    "UP": "T6BB",
+    "FAZENDA": "SANTA LUZIA V  (F-H278 )",
+    "AREA_HA": 199.455734,
+    "NÚCLEO": "MS6",
+    "x": -51.893551,
+    "y": -20.630005
+  },
+  {
+    "UP": "T6BC",
+    "FAZENDA": "SANTA CECILIA  (F-H265 )",
+    "AREA_HA": 770.833342,
+    "NÚCLEO": "MS6",
+    "x": -52.411616,
+    "y": -20.627461
+  },
+  {
+    "UP": "T6BD",
+    "FAZENDA": "CERRO AZUL  (F-H166 )",
+    "AREA_HA": 572.997953,
+    "NÚCLEO": "MS6",
+    "x": -52.303446,
+    "y": -20.605493
+  },
+  {
+    "UP": "T6BE",
+    "FAZENDA": "UNIVERSAL  (F-H184 )",
+    "AREA_HA": 552.934789,
+    "NÚCLEO": "MS6",
+    "x": -51.991413,
+    "y": -20.603801
+  },
+  {
+    "UP": "T6BF",
+    "FAZENDA": "IRACEMA II  (F-H193 )",
+    "AREA_HA": 705.879463,
+    "NÚCLEO": "MS6",
+    "x": -52.439056,
+    "y": -20.603885
+  },
+  {
+    "UP": "T6BG",
+    "FAZENDA": "FLOR DA SERRA  (F-H008 )",
+    "AREA_HA": 1699.295726,
+    "NÚCLEO": "MS6",
+    "x": -52.31369,
+    "y": -20.597503
+  },
+  {
+    "UP": "T6BH",
+    "FAZENDA": "OURO BELO  (F-H089 )",
+    "AREA_HA": 865.693524,
+    "NÚCLEO": "MS6",
+    "x": -52.286163,
+    "y": -20.596518
+  },
+  {
+    "UP": "T6BI",
+    "FAZENDA": "DUAS LAGOAS  (F-H266 )",
+    "AREA_HA": 851.983486,
+    "NÚCLEO": "MS6",
+    "x": -51.920339,
+    "y": -20.592798
+  },
+  {
+    "UP": "T6BJ",
+    "FAZENDA": "RIO BRANCO  (F-H181 )",
+    "AREA_HA": 964.25434,
+    "NÚCLEO": "MS6",
+    "x": -52.39078,
+    "y": -20.589629
+  },
+  {
+    "UP": "T6BK",
+    "FAZENDA": "BENTEVI  (F-H277 )",
+    "AREA_HA": 1439.208254,
+    "NÚCLEO": "MS6",
+    "x": -52.371154,
+    "y": -20.588506
+  },
+  {
+    "UP": "T6BL",
+    "FAZENDA": "LAGO AZUL II  (F-H235 )",
+    "AREA_HA": 515.857339,
+    "NÚCLEO": "MS6",
+    "x": -51.886063,
+    "y": -20.586843
+  },
+  {
+    "UP": "T6BM",
+    "FAZENDA": "CHUVA DE PRATA  (F-H279 )",
+    "AREA_HA": 1468.111765,
+    "NÚCLEO": "MS6",
+    "x": -52.25149,
+    "y": -20.577538
+  },
+  {
+    "UP": "T6BN",
+    "FAZENDA": "CHUVA DE PRATA II  (F-H298 )",
+    "AREA_HA": 262.304053,
+    "NÚCLEO": "MS6",
+    "x": -52.26943,
+    "y": -20.569945
+  },
+  {
+    "UP": "T6BO",
+    "FAZENDA": "CONQUISTA  (F-H085 )",
+    "AREA_HA": 183.828355,
+    "NÚCLEO": "MS6",
+    "x": -52.141766,
+    "y": -20.548688
+  },
+  {
+    "UP": "T6BP",
+    "FAZENDA": "NOSSA SENHORA APARECIDA II  (F-H175 )",
+    "AREA_HA": 449.430441,
+    "NÚCLEO": "MS6",
+    "x": -52.101866,
+    "y": -20.524376
+  },
+  {
+    "UP": "T6BQ",
+    "FAZENDA": "PAULINA  (F-H084 )",
+    "AREA_HA": 175.476866,
+    "NÚCLEO": "MS6",
+    "x": -52.115553,
+    "y": -20.522798
+  },
+  {
+    "UP": "T6BR",
+    "FAZENDA": "GUANABARA  (F-H083 )",
+    "AREA_HA": 695.669662,
+    "NÚCLEO": "MS6",
+    "x": -52.129394,
+    "y": -20.521111
+  },
+  {
+    "UP": "T6BS",
+    "FAZENDA": "SÃO BENTO DO BURITY  (F-H222 )",
+    "AREA_HA": 1398.675504,
+    "NÚCLEO": "MS6",
+    "x": -52.051745,
+    "y": -20.518977
+  },
+  {
+    "UP": "T6BT",
+    "FAZENDA": "SÃO JOSÉ  (F-H131 )",
+    "AREA_HA": 155.04466,
+    "NÚCLEO": "MS6",
+    "x": -52.19983,
+    "y": -20.509288
+  },
+  {
+    "UP": "T6BU",
+    "FAZENDA": "SANTA IZABEL  (F-H147 )",
+    "AREA_HA": 243.989099,
+    "NÚCLEO": "MS6",
+    "x": -52.207988,
+    "y": -20.505592
+  },
+  {
+    "UP": "T6BV",
+    "FAZENDA": "NOVA ERA  (F-H117 )",
+    "AREA_HA": 2032.749418,
+    "NÚCLEO": "MS6",
+    "x": -52.118342,
+    "y": -20.48771
+  },
+  {
+    "UP": "T6BW",
+    "FAZENDA": "CAPELINHA  (F-H134 )",
+    "AREA_HA": 709.002998,
+    "NÚCLEO": "MS6",
+    "x": -52.157566,
+    "y": -20.48167
+  },
+  {
+    "UP": "T6BX",
+    "FAZENDA": "TABOCA  (F-H129 )",
+    "AREA_HA": 658.263999,
+    "NÚCLEO": "MS6",
+    "x": -52.212307,
+    "y": -20.479972
+  },
+  {
+    "UP": "T6BY",
+    "FAZENDA": "CASA GRANDE  (F-H251 )",
+    "AREA_HA": 646.793844,
+    "NÚCLEO": "MS6",
+    "x": -52.089867,
+    "y": -20.480573
+  },
+  {
+    "UP": "T6BZ",
+    "FAZENDA": "VISTA ALEGRE  (F-H121 )",
+    "AREA_HA": 5762.674781,
+    "NÚCLEO": "MS6",
+    "x": -52.239806,
+    "y": -20.472431
+  },
+  {
+    "UP": "T6CC",
+    "FAZENDA": "VISTA ALEGRE III",
+    "AREA_HA": 177.113817,
+    "NÚCLEO": "MS6",
+    "x": -51.998007,
+    "y": -20.659735
+  },
+  {
+    "UP": "T6CD",
+    "FAZENDA": "SANTA LUCIA",
+    "AREA_HA": 2167.774735,
+    "NÚCLEO": "MS6",
+    "x": -51.806839,
+    "y": -20.674882
+  },
+  {
+    "UP": "T6CE",
+    "FAZENDA": "SANTA TEREZINHA II",
+    "AREA_HA": 284.772285,
+    "NÚCLEO": "MS6",
+    "x": -52.029393,
+    "y": -20.725052
+  },
+  {
+    "UP": "T6CF",
+    "FAZENDA": "IRACEMA I",
+    "AREA_HA": 454.335608,
+    "NÚCLEO": "MS6",
+    "x": -52.451707,
+    "y": -20.595005
+  },
+  {
+    "UP": "T6CG",
+    "FAZENDA": "SUCURIU",
+    "AREA_HA": 2664.595539,
+    "NÚCLEO": "MS6",
+    "x": -51.998393,
+    "y": -20.536464
+  },
+  {
+    "UP": "T6CH",
+    "FAZENDA": "DOMINGOS MUNGO",
+    "AREA_HA": 1304.11948,
+    "NÚCLEO": "MS6",
+    "x": -52.069918,
+    "y": -20.412194
+  },
+  {
+    "UP": "T6CI",
+    "FAZENDA": "PINDORAMA",
+    "AREA_HA": 6764.740912,
+    "NÚCLEO": "MS6",
+    "x": -52.159995,
+    "y": -20.540881
+  },
+  {
+    "UP": "T6CL",
+    "FAZENDA": "VALE DOURADO",
+    "AREA_HA": 744.844818,
+    "NÚCLEO": "MS6",
+    "x": -52.123372,
+    "y": -20.410751
+  },
+  {
+    "UP": "T6CM",
+    "FAZENDA": "RECANTO DOS CARVALHOS",
+    "AREA_HA": 211.14428,
+    "NÚCLEO": "MS6",
+    "x": -51.907322,
+    "y": -20.665875
+  },
+  {
+    "UP": "T6CN",
+    "FAZENDA": "NOSSA SENHORA APARECIDA I",
+    "AREA_HA": 240.954271,
+    "NÚCLEO": "MS6",
+    "x": -52.096582,
+    "y": -20.381134
+  },
+  {
+    "UP": "T6CO",
+    "FAZENDA": "DA MATA IV",
+    "AREA_HA": 259.682621,
+    "NÚCLEO": "MS6",
+    "x": -52.0549,
+    "y": -20.719993
+  },
+  {
+    "UP": "T6CP",
+    "FAZENDA": "ESPERANÇA",
+    "AREA_HA": 875.270709,
+    "NÚCLEO": "MS6",
+    "x": -52.418126,
+    "y": -20.767054
+  },
+  {
+    "UP": "T6CQ",
+    "FAZENDA": "GUARÁ II",
+    "AREA_HA": 256.484183,
+    "NÚCLEO": "MS6",
+    "x": -52.052805,
+    "y": -20.406229
+  },
+  {
+    "UP": "T6CR",
+    "FAZENDA": "SÃO LOURENÇO II",
+    "AREA_HA": 1237.64856,
+    "NÚCLEO": "MS6",
+    "x": -51.968709,
+    "y": -20.578949
+  },
+  {
+    "UP": "T6CS",
+    "FAZENDA": "MARIANA",
+    "AREA_HA": 433.951744,
+    "NÚCLEO": "MS6",
+    "x": -52.312953,
+    "y": -20.662302
+  },
+  {
+    "UP": "T6CT",
+    "FAZENDA": "SÃO LOURENÇO III",
+    "AREA_HA": 618.854652,
+    "NÚCLEO": "MS6",
+    "x": -51.953265,
+    "y": -20.550584
+  },
+  {
+    "UP": "T6CU",
+    "FAZENDA": "RANCHO ALEGRE II",
+    "AREA_HA": 82.615065,
+    "NÚCLEO": "MS6",
+    "x": -51.982095,
+    "y": -20.816891
+  },
+  {
+    "UP": "T6CV",
+    "FAZENDA": "LUA CHEIA",
+    "AREA_HA": 367.202615,
+    "NÚCLEO": "MS6",
+    "x": -51.96767,
+    "y": -20.543639
+  },
+  {
+    "UP": "T6CW",
+    "FAZENDA": "BANDEIRANTES",
+    "AREA_HA": 337.993923,
+    "NÚCLEO": "MS6",
+    "x": -51.987243,
+    "y": -20.692173
+  },
+  {
+    "UP": "T6CX",
+    "FAZENDA": "MATA VERDE",
+    "AREA_HA": 242.498474,
+    "NÚCLEO": "MS6",
+    "x": -52.108154,
+    "y": -20.379321
+  },
+  {
+    "UP": "T6CY",
+    "FAZENDA": "DOIS IRMÃOS",
+    "AREA_HA": 530.585539,
+    "NÚCLEO": "MS6",
+    "x": -52.294134,
+    "y": -20.293004
+  },
+  {
+    "UP": "T6CZ",
+    "FAZENDA": "BRIOSO",
+    "AREA_HA": 1682.560807,
+    "NÚCLEO": "MS6",
+    "x": -52.275377,
+    "y": -20.285205
+  },
+  {
+    "UP": "T6DA",
+    "FAZENDA": "SANTA MARIA DO BRIOSO",
+    "AREA_HA": 2437.230601,
+    "NÚCLEO": "MS6",
+    "x": -52.237237,
+    "y": -20.310056
+  },
+  {
+    "UP": "T6DB",
+    "FAZENDA": "SANTA EMÍLIA",
+    "AREA_HA": 329.464585,
+    "NÚCLEO": "MS6",
+    "x": -51.930293,
+    "y": -20.69492
+  },
+  {
+    "UP": "T6DC",
+    "FAZENDA": "VÔ JAMIL",
+    "AREA_HA": 824.538855,
+    "NÚCLEO": "MS6",
+    "x": -51.775638,
+    "y": -20.770303
+  },
+  {
+    "UP": "T6DD",
+    "FAZENDA": "BONANÇA",
+    "AREA_HA": 937.937892,
+    "NÚCLEO": "MS6",
+    "x": -52.431282,
+    "y": -20.746778
+  },
+  {
+    "UP": "T6DE",
+    "FAZENDA": "VERTENTE II",
+    "AREA_HA": 388.061639,
+    "NÚCLEO": "MS6",
+    "x": -52.566568,
+    "y": -20.695505
+  },
+  {
+    "UP": "T6DF",
+    "FAZENDA": "CAR1006",
+    "AREA_HA": 258.462595,
+    "NÚCLEO": "MS6",
+    "x": -51.970777,
+    "y": -20.795683
+  },
+  {
+    "UP": "T6DG",
+    "FAZENDA": "GAIOTTO II",
+    "AREA_HA": 90.906062,
+    "NÚCLEO": "MS6",
+    "x": -52.278132,
+    "y": -20.681154
+  },
+  {
+    "UP": "T6DH",
+    "FAZENDA": "MANÁ E MANÁ II",
+    "AREA_HA": 194.664914,
+    "NÚCLEO": "MS6",
+    "x": -52.070572,
+    "y": -20.664005
+  },
+  {
+    "UP": "T6DI",
+    "FAZENDA": "ÁGUA LIMPA BONANÇA",
+    "AREA_HA": 168.712513,
+    "NÚCLEO": "MS6",
+    "x": -52.515287,
+    "y": -20.752815
+  },
+  {
+    "UP": "T6DJ",
+    "FAZENDA": "CAR855 (FAZENDA SANTA FÉ)",
+    "AREA_HA": 59.973095,
+    "NÚCLEO": "MS6",
+    "x": -52.093949,
+    "y": -20.716532
+  },
+  {
+    "UP": "T6DK",
+    "FAZENDA": "FAZENDA SÃO FRANCISCO",
+    "AREA_HA": 72.821603,
+    "NÚCLEO": "MS6",
+    "x": -52.093927,
+    "y": -20.720976
+  },
+  {
+    "UP": "T6DL",
+    "FAZENDA": "STO ANTONIO I E II E STA BARBARA",
+    "AREA_HA": 278.930465,
+    "NÚCLEO": "MS6",
+    "x": -52.086758,
+    "y": -20.697636
+  },
+  {
+    "UP": "T6DM",
+    "FAZENDA": "TIPTOE",
+    "AREA_HA": 1084.15342,
+    "NÚCLEO": "MS6",
+    "x": -52.017722,
+    "y": -20.499882
+  },
+  {
+    "UP": "T6DN",
+    "FAZENDA": "PARAISO II",
+    "AREA_HA": 184.108556,
+    "NÚCLEO": "MS6",
+    "x": -51.913901,
+    "y": -20.692614
+  },
+  {
+    "UP": "T7AJ",
+    "FAZENDA": "ESTÂNCIA PAULÃO",
+    "AREA_HA": 241.42264,
+    "NÚCLEO": "MS7",
+    "x": -52.909342,
+    "y": -20.359814
+  },
+  {
+    "UP": "T7AK",
+    "FAZENDA": "SOLON",
+    "AREA_HA": 710.277181,
+    "NÚCLEO": "MS7",
+    "x": -52.957052,
+    "y": -20.31017
+  },
+  {
+    "UP": "T7AL",
+    "FAZENDA": "SANTA MARINA II",
+    "AREA_HA": 587.155989,
+    "NÚCLEO": "MS7",
+    "x": -52.937617,
+    "y": -20.296787
+  },
+  {
+    "UP": "T7AM",
+    "FAZENDA": "SANTA TEREZINHA III",
+    "AREA_HA": 1123.344397,
+    "NÚCLEO": "MS7",
+    "x": -52.98922,
+    "y": -20.274328
+  },
+  {
+    "UP": "T8A0",
+    "FAZENDA": "CAPELA II  (F-H177 )",
+    "AREA_HA": 1894.527519,
+    "NÚCLEO": "MS8",
+    "x": -52.541808,
+    "y": -20.815264
+  },
+  {
+    "UP": "T8A1",
+    "FAZENDA": "NOSSA SENHORA APARECIDA V  (F-H234 )",
+    "AREA_HA": 241.298283,
+    "NÚCLEO": "MS8",
+    "x": -52.571,
+    "y": -20.812331
+  },
+  {
+    "UP": "T8A2",
+    "FAZENDA": "SAO PEDRO  (F-H261 )",
+    "AREA_HA": 429.617515,
+    "NÚCLEO": "MS8",
+    "x": -52.624114,
+    "y": -20.800399
+  },
+  {
+    "UP": "T8A3",
+    "FAZENDA": "SAO LUIZ IV  (F-H257 )",
+    "AREA_HA": 409.342191,
+    "NÚCLEO": "MS8",
+    "x": -52.61186,
+    "y": -20.79787
+  },
+  {
+    "UP": "T8A4",
+    "FAZENDA": "SÃO JOSÉ IV  (F-H250 )",
+    "AREA_HA": 1653.546369,
+    "NÚCLEO": "MS8",
+    "x": -52.652079,
+    "y": -20.78783
+  },
+  {
+    "UP": "T8AA",
+    "FAZENDA": "SANTO ANTONIO IV  (F-H267 )",
+    "AREA_HA": 2319.792075,
+    "NÚCLEO": "MS8",
+    "x": -52.616897,
+    "y": -21.196764
+  },
+  {
+    "UP": "T8AB",
+    "FAZENDA": "VISTA ALEGRE II  (F-H299 )",
+    "AREA_HA": 5956.957076,
+    "NÚCLEO": "MS8",
+    "x": -52.520295,
+    "y": -21.201274
+  },
+  {
+    "UP": "T8AC",
+    "FAZENDA": "SÃO VICENTE II  (F-H256 )",
+    "AREA_HA": 688.148326,
+    "NÚCLEO": "MS8",
+    "x": -52.376151,
+    "y": -21.143461
+  },
+  {
+    "UP": "T8AD",
+    "FAZENDA": "SANTO ANTONIO III  (F-H214 )",
+    "AREA_HA": 598.783196,
+    "NÚCLEO": "MS8",
+    "x": -52.390439,
+    "y": -21.140101
+  },
+  {
+    "UP": "T8AE",
+    "FAZENDA": "GUARA-SUIA  (F-H014 )",
+    "AREA_HA": 4257.141019,
+    "NÚCLEO": "MS8",
+    "x": -52.217568,
+    "y": -21.126045
+  },
+  {
+    "UP": "T8AF",
+    "FAZENDA": "BARRA MANSA  (F-H248 )",
+    "AREA_HA": 371.96615,
+    "NÚCLEO": "MS8",
+    "x": -52.353698,
+    "y": -21.114998
+  },
+  {
+    "UP": "T8AG",
+    "FAZENDA": "QUATRO IRMÃOS  (F-H096 )",
+    "AREA_HA": 2419.868544,
+    "NÚCLEO": "MS8",
+    "x": -52.294968,
+    "y": -21.107607
+  },
+  {
+    "UP": "T8AH",
+    "FAZENDA": "AROEIRA  (F-H258 )",
+    "AREA_HA": 3458.168858,
+    "NÚCLEO": "MS8",
+    "x": -52.519848,
+    "y": -21.099697
+  },
+  {
+    "UP": "T8AI",
+    "FAZENDA": "TERERE  (F-H262 )",
+    "AREA_HA": 2249.704994,
+    "NÚCLEO": "MS8",
+    "x": -52.217786,
+    "y": -21.082459
+  },
+  {
+    "UP": "T8AJ",
+    "FAZENDA": "BRASILEIRA  (F-H013 )",
+    "AREA_HA": 12125.60183,
+    "NÚCLEO": "MS8",
+    "x": -52.210716,
+    "y": -21.014413
+  },
+  {
+    "UP": "T8AL",
+    "FAZENDA": "VALE DO GERIVÁ  (F-H103 )",
+    "AREA_HA": 2114.296277,
+    "NÚCLEO": "MS8",
+    "x": -52.317756,
+    "y": -21.026739
+  },
+  {
+    "UP": "T8AM",
+    "FAZENDA": "DUAS MARIAS  (F-H101 )",
+    "AREA_HA": 17853.53187,
+    "NÚCLEO": "MS8",
+    "x": -52.37966,
+    "y": -21.026162
+  },
+  {
+    "UP": "T8AP",
+    "FAZENDA": "GAMELEIRA  (F-H209 )",
+    "AREA_HA": 1214.561799,
+    "NÚCLEO": "MS8",
+    "x": -52.464621,
+    "y": -21.023302
+  },
+  {
+    "UP": "T8AQ",
+    "FAZENDA": "BOM JESUS  (F-H120 )",
+    "AREA_HA": 1415.413728,
+    "NÚCLEO": "MS8",
+    "x": -52.29538,
+    "y": -20.998778
+  },
+  {
+    "UP": "T8AR",
+    "FAZENDA": "PARAISO  (F-H104 )",
+    "AREA_HA": 1180.274393,
+    "NÚCLEO": "MS8",
+    "x": -52.280053,
+    "y": -20.980002
+  },
+  {
+    "UP": "T8AS",
+    "FAZENDA": "CRISTO REDENTOR  (F-H188 )",
+    "AREA_HA": 1089.818035,
+    "NÚCLEO": "MS8",
+    "x": -52.316352,
+    "y": -20.968728
+  },
+  {
+    "UP": "T8AT",
+    "FAZENDA": "RIO VERDE B  (F-H07B )",
+    "AREA_HA": 17628.03245,
+    "NÚCLEO": "MS8",
+    "x": -52.445245,
+    "y": -20.898305
+  },
+  {
+    "UP": "T8AW",
+    "FAZENDA": "CAROLINA  (F-H213 )",
+    "AREA_HA": 1506.133886,
+    "NÚCLEO": "MS8",
+    "x": -52.576271,
+    "y": -20.857502
+  },
+  {
+    "UP": "T8AX",
+    "FAZENDA": "CAPELA  (F-H176 )",
+    "AREA_HA": 1020.91785,
+    "NÚCLEO": "MS8",
+    "x": -52.52567,
+    "y": -20.849724
+  },
+  {
+    "UP": "T8AY",
+    "FAZENDA": "CAPELA V  (F-H219 )",
+    "AREA_HA": 695.762105,
+    "NÚCLEO": "MS8",
+    "x": -52.575528,
+    "y": -20.830367
+  },
+  {
+    "UP": "T8AZ",
+    "FAZENDA": "CAPELA IV  (F-H178 )",
+    "AREA_HA": 970.591336,
+    "NÚCLEO": "MS8",
+    "x": -52.511037,
+    "y": -20.821059
+  },
+  {
+    "UP": "T8B0",
+    "FAZENDA": "BARREIRO 02",
+    "AREA_HA": 944.895152,
+    "NÚCLEO": "MS8",
+    "x": -52.556403,
+    "y": -20.940463
+  },
+  {
+    "UP": "T8BA",
+    "FAZENDA": "SÃO JOSÉ",
+    "AREA_HA": 181.005369,
+    "NÚCLEO": "MS8",
+    "x": -52.359374,
+    "y": -20.926527
+  },
+  {
+    "UP": "T8BB",
+    "FAZENDA": "JATIUCA",
+    "AREA_HA": 3941.331287,
+    "NÚCLEO": "MS8",
+    "x": -52.31287,
+    "y": -21.189718
+  },
+  {
+    "UP": "T8BC",
+    "FAZENDA": "VALE DOURADO II",
+    "AREA_HA": 854.855517,
+    "NÚCLEO": "MS8",
+    "x": -52.443236,
+    "y": -21.17071
+  },
+  {
+    "UP": "T8BD",
+    "FAZENDA": "PECUÁRIA FRD",
+    "AREA_HA": 914.783237,
+    "NÚCLEO": "MS8",
+    "x": -52.566442,
+    "y": -20.903738
+  },
+  {
+    "UP": "T8BE",
+    "FAZENDA": "PALOMA",
+    "AREA_HA": 272.244145,
+    "NÚCLEO": "MS8",
+    "x": -52.590077,
+    "y": -20.941994
+  },
+  {
+    "UP": "T8BF",
+    "FAZENDA": "PANTERA",
+    "AREA_HA": 1394.141729,
+    "NÚCLEO": "MS8",
+    "x": -52.653486,
+    "y": -20.875592
+  },
+  {
+    "UP": "T8BG",
+    "FAZENDA": "SAVANA",
+    "AREA_HA": 548.271947,
+    "NÚCLEO": "MS8",
+    "x": -52.577654,
+    "y": -20.935798
+  },
+  {
+    "UP": "T8BH",
+    "FAZENDA": "JUNIOR E SANTA MARIA",
+    "AREA_HA": 2085.698996,
+    "NÚCLEO": "MS8",
+    "x": -52.576762,
+    "y": -20.78587
+  },
+  {
+    "UP": "T8BI",
+    "FAZENDA": "TROPICAL",
+    "AREA_HA": 3324.163905,
+    "NÚCLEO": "MS8",
+    "x": -52.521944,
+    "y": -20.963321
+  },
+  {
+    "UP": "T8BJ",
+    "FAZENDA": "CARACCOL II",
+    "AREA_HA": 978.023081,
+    "NÚCLEO": "MS8",
+    "x": -52.695537,
+    "y": -20.728615
+  },
+  {
+    "UP": "T8BK",
+    "FAZENDA": "SPUMAR",
+    "AREA_HA": 367.413361,
+    "NÚCLEO": "MS8",
+    "x": -52.462356,
+    "y": -21.044902
+  },
+  {
+    "UP": "T8BL",
+    "FAZENDA": "SANTA EDWIRGES",
+    "AREA_HA": 861.370299,
+    "NÚCLEO": "MS8",
+    "x": -52.672178,
+    "y": -20.717174
+  },
+  {
+    "UP": "T8BM",
+    "FAZENDA": "PASSO FUNDO",
+    "AREA_HA": 927.141503,
+    "NÚCLEO": "MS8",
+    "x": -52.848971,
+    "y": -20.806484
+  },
+  {
+    "UP": "T8BN",
+    "FAZENDA": "IMPERATRIZ",
+    "AREA_HA": 549.650736,
+    "NÚCLEO": "MS8",
+    "x": -52.689865,
+    "y": -20.990485
+  },
+  {
+    "UP": "T8BO",
+    "FAZENDA": "NOVO MUNDO II",
+    "AREA_HA": 331.361335,
+    "NÚCLEO": "MS8",
+    "x": -52.655106,
+    "y": -20.739087
+  },
+  {
+    "UP": "T8BP",
+    "FAZENDA": "YPÊ",
+    "AREA_HA": 655.878358,
+    "NÚCLEO": "MS8",
+    "x": -52.682881,
+    "y": -20.749547
+  },
+  {
+    "UP": "T8BQ",
+    "FAZENDA": "YPÊ II",
+    "AREA_HA": 129.323061,
+    "NÚCLEO": "MS8",
+    "x": -52.657476,
+    "y": -20.765993
+  },
+  {
+    "UP": "T8BR",
+    "FAZENDA": "SÃO JOÃO VI",
+    "AREA_HA": 320.699551,
+    "NÚCLEO": "MS8",
+    "x": -52.63969,
+    "y": -20.738646
+  },
+  {
+    "UP": "T8BS",
+    "FAZENDA": "PONTAL II",
+    "AREA_HA": 1068.764258,
+    "NÚCLEO": "MS8",
+    "x": -52.595196,
+    "y": -20.8262
+  },
+  {
+    "UP": "T8BT",
+    "FAZENDA": "AQUARIUS",
+    "AREA_HA": 500.798859,
+    "NÚCLEO": "MS8",
+    "x": -52.687789,
+    "y": -20.863639
+  },
+  {
+    "UP": "T8BU",
+    "FAZENDA": "CEREJEIRAS",
+    "AREA_HA": 653.179502,
+    "NÚCLEO": "MS8",
+    "x": -52.691593,
+    "y": -20.758588
+  },
+  {
+    "UP": "T8BV",
+    "FAZENDA": "CONQUISTA III",
+    "AREA_HA": 734.270481,
+    "NÚCLEO": "MS8",
+    "x": -52.825783,
+    "y": -20.784534
+  },
+  {
+    "UP": "T8BW",
+    "FAZENDA": "PONTAL DO BARREIRINHO",
+    "AREA_HA": 599.291543,
+    "NÚCLEO": "MS8",
+    "x": -52.870085,
+    "y": -20.747103
+  },
+  {
+    "UP": "T8BX",
+    "FAZENDA": "LÍRIO DO VALE",
+    "AREA_HA": 4769.201348,
+    "NÚCLEO": "MS8",
+    "x": -52.934891,
+    "y": -20.78876
+  },
+  {
+    "UP": "T8BY",
+    "FAZENDA": "NOSSA SENHORA APARECIDA",
+    "AREA_HA": 608.326306,
+    "NÚCLEO": "MS8",
+    "x": -52.597846,
+    "y": -20.762058
+  },
+  {
+    "UP": "T8BZ",
+    "FAZENDA": "FAZENDA NOVA BARREIRO",
+    "AREA_HA": 209.116087,
+    "NÚCLEO": "MS8",
+    "x": -52.601433,
+    "y": -20.996651
+  }
+]
