@@ -1,0 +1,2666 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.548162, -20.347363] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SAGRADA FAMILIA (I)",
+        "AREA_HA": 72.484299,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 25,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.697964, -20.472653] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CHACARA INVEJADO (I)",
+        "AREA_HA": 191.556034,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 27,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.697311, -20.479734] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1AB",
+        "FAZENDA": "CHACARA INVEJADO (I)",
+        "SEVERIDADE": "4 - BAIXA",
+        "DEMANDA_CAMINHOES": 1,
+        "DEMANDA_BRIGADISTAS": 6,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "circle",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.557801, -20.343833] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "KLEBER (I)",
+        "AREA_HA": 282.150942,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 28,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.763437, -20.100274] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ACAPU (I)",
+        "AREA_HA": 345.245698,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.839955, -20.347236] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ESPINGARDA - MATEIRA (I)",
+        "AREA_HA": 636.906022,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 18,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.216439, -20.397572] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BOM JARDIM (I)",
+        "AREA_HA": 689.636318,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.531191, -20.333386] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ESPINGARDA II (I)",
+        "AREA_HA": 902.915206,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.676919, -20.190839] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LEOPOLDINA (I)",
+        "AREA_HA": 1751.972828,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 11,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.687327, -20.207084] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1AH",
+        "FAZENDA": "LEOPOLDINA (I)",
+        "SEVERIDADE": "3 - MÉDIA",
+        "DEMANDA_CAMINHOES": 3,
+        "DEMANDA_BRIGADISTAS": 15,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "caution",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.532169, -20.17497] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA CLARA (I)",
+        "AREA_HA": 2250.899848,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 17,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.719754, -20.114111] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "IPYTÁ (I)",
+        "AREA_HA": 2321.859669,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.746911, -20.135378] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "IPUÃ (I)",
+        "AREA_HA": 2414.215212,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 16,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.687967, -20.155111] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SÃO MIGUEL (I)",
+        "AREA_HA": 2442.605033,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.683498, -20.158326] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1AL",
+        "FAZENDA": "SÃO MIGUEL (I)",
+        "SEVERIDADE": "2 - ALTA",
+        "DEMANDA_CAMINHOES": 5,
+        "DEMANDA_BRIGADISTAS": 25,
+        "DEMANDA_AVIOES": 1,
+        "marker-color": "#ff0000",
+        "marker-symbol": "fire",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.674848, -20.229998] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LCD (I)",
+        "AREA_HA": 2574.161792,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 25,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.629708, -20.184955] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SÃO CARLOS (I)",
+        "AREA_HA": 4088.483114,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.655118, -20.388595] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ESPINGARDA - MAMPEI (I)",
+        "AREA_HA": 5293.210404,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 23,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.567089, -20.442891] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BOI PRETO (I)",
+        "AREA_HA": 17460.57606,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.578, -20.455] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "FAZENDA": "BOI PRETO (I)",
+        "SEVERIDADE": "1 - CRÍTICA",
+        "DEMANDA_CAMINHOES": 8,
+        "DEMANDA_BRIGADISTAS": 45,
+        "DEMANDA_AVIOES": 2,
+        "marker-color": "#ff0000",
+        "marker-symbol": "danger",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.573179, -20.040791] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "GUARANI (I)",
+        "AREA_HA": 2756.213646,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 26,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.644462, -20.057486] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "GRANOL -  MODELO I (I)",
+        "AREA_HA": 2616.615422,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 23,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.395751, -20.165526] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "RETIRO BELO HORIZONTE (I)",
+        "AREA_HA": 1256.332701,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 29,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.565128, -20.27931] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "AURORA (I)",
+        "AREA_HA": 845.419369,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 21,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.553941, -20.312304] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "RAINHA DA PAZ (I)",
+        "AREA_HA": 2005.619908,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 25,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.521304, -20.379295] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LAGEADO (I)",
+        "AREA_HA": 1148.749816,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 16,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.543056, -20.392712] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BOM PASTOR (I)",
+        "AREA_HA": 125.882307,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.223759, -20.428441] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LAGOA COMPRIDA (I)",
+        "AREA_HA": 1075.2468,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.55698, -20.167133] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CAMPO LIMPO (I)",
+        "AREA_HA": 1931.160946,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 19,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.698512, -20.492593] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CHACRINHAS BONANZA (I)",
+        "AREA_HA": 48.18207,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.650606, -19.950601] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "PENA ROJA (I)",
+        "AREA_HA": 6471.689525,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 11,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.573343, -20.008953] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LALUVI (I)",
+        "AREA_HA": 633.563508,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 19,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.482994, -20.147998] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ARARAS",
+        "AREA_HA": 1419.406038,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 28,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.682403, -20.103683] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BELA VISTA",
+        "AREA_HA": 1387.710485,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.221157, -20.383411] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTO ANTONIO",
+        "AREA_HA": 677.579857,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.16867, -20.388843] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SAO PEDRO",
+        "AREA_HA": 777.16774,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 13,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.705748, -20.519448] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "RECANTO PASSARA",
+        "AREA_HA": 136.585105,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 25,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.702868, -20.091671] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "FORTUNA",
+        "AREA_HA": 735.609018,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 11,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.7218, -20.0882] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1BL",
+        "FAZENDA": "FORTUNA",
+        "SEVERIDADE": "3 - MÉDIA",
+        "DEMANDA_CAMINHOES": 3,
+        "DEMANDA_BRIGADISTAS": 12,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "caution",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.803863, -20.50918] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "EMA  (F-H099 )",
+        "AREA_HA": 2606.849475,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 29,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.8008, -20.5136] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1BM",
+        "FAZENDA": "EMA  (F-H099 )",
+        "SEVERIDADE": "2 - ALTA",
+        "DEMANDA_CAMINHOES": 5,
+        "DEMANDA_BRIGADISTAS": 25,
+        "DEMANDA_AVIOES": 1,
+        "marker-color": "#ff0000",
+        "marker-symbol": "fire",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.769995, -20.457761] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "MAJOR VICENTE  (F-H135 )",
+        "AREA_HA": 1037.294296,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.680705, -20.142623] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ANA ROSA  (F-H011 )",
+        "AREA_HA": 1810.502302,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 28,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.077231, -20.422817] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "FORMOSO  (F-H098 )",
+        "AREA_HA": 3287.907204,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.983778, -20.417678] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA CLARA  (F-H136 )",
+        "AREA_HA": 1537.283363,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 12,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.175342, -20.187358] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "FORMOSA  (F-H156 )",
+        "AREA_HA": 21902.65171,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.594424, -20.559333] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "VITÓRIA",
+        "AREA_HA": 353.552085,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 19,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.947675, -20.44532] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "RANCHO FUNDO",
+        "AREA_HA": 1310.930107,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 21,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.670279, -20.073562] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTINA",
+        "AREA_HA": 1892.310349,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 22,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.815882, -19.99622] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTO ANTÔNIO",
+        "AREA_HA": 2209.168917,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 23,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.8351, -20.0124] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1CC",
+        "FAZENDA": "SANTO ANTÔNIO",
+        "SEVERIDADE": "2 - ALTA",
+        "DEMANDA_CAMINHOES": 5,
+        "DEMANDA_BRIGADISTAS": 20,
+        "DEMANDA_AVIOES": 1,
+        "marker-color": "#ff0000",
+        "marker-symbol": "fire",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.426346, -19.990593] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SÃO SEBASTIÃO",
+        "AREA_HA": 1492.062198,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 26,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.705359, -20.062258] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "VÓ CECÍLIA",
+        "AREA_HA": 340.144076,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 17,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.367043, -19.99099] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "OSWALDO CRUZ",
+        "AREA_HA": 1267.40347,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 19,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.721038, -20.527839] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "RECANTO DOS PÁSSAROS",
+        "AREA_HA": 150.722596,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 11,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.500284, -20.119187] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CHAVE DE OURO",
+        "AREA_HA": 2824.994272,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 18,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.732499, -20.397359] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SETE MARIAS",
+        "AREA_HA": 1944.849069,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 13,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.520768, -20.525427] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTO ANTONIO VI",
+        "AREA_HA": 1358.484661,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 27,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.5156, -20.5103] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1CK",
+        "FAZENDA": "SANTO ANTONIO VI",
+        "SEVERIDADE": "3 - MÉDIA",
+        "DEMANDA_CAMINHOES": 2,
+        "DEMANDA_BRIGADISTAS": 10,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "caution",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.598999, -20.514192] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SOL NASCENTE",
+        "AREA_HA": 850.509429,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 13,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.918036, -19.744811] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ONÇA PINTADA",
+        "AREA_HA": 4038.22658,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.908, -19.7325] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1CM",
+        "FAZENDA": "ONÇA PINTADA",
+        "SEVERIDADE": "2 - ALTA",
+        "DEMANDA_CAMINHOES": 6,
+        "DEMANDA_BRIGADISTAS": 28,
+        "DEMANDA_AVIOES": 1,
+        "marker-color": "#ff0000",
+        "marker-symbol": "fire",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.858274, -20.162776] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA LUCIA II",
+        "AREA_HA": 608.723899,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 12,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.8617, -20.1678] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1CN",
+        "FAZENDA": "SANTA LUCIA II",
+        "SEVERIDADE": "3 - MÉDIA",
+        "DEMANDA_CAMINHOES": 3,
+        "DEMANDA_BRIGADISTAS": 12,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "caution",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.846192, -20.190316] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "NATIVA",
+        "AREA_HA": 425.27811,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.527787, -19.93116] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "MONTANA",
+        "AREA_HA": 6472.472098,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 26,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.5205, -19.9215] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "FAZENDA": "MONTANA",
+        "SEVERIDADE": "2 - ALTA",
+        "DEMANDA_CAMINHOES": 6,
+        "DEMANDA_BRIGADISTAS": 30,
+        "DEMANDA_AVIOES": 1,
+        "marker-color": "#ff0000",
+        "marker-symbol": "fire",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.750112, -20.457527] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "VÓ MADALENA",
+        "AREA_HA": 230.953941,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 18,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.696787, -20.262685] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "TRÊS MARRECAS",
+        "AREA_HA": 972.820691,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 26,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.819058, -20.067283] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "TOCA DA ONÇA",
+        "AREA_HA": 435.65622,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 29,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.863555, -19.864788] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LIMÃO",
+        "AREA_HA": 1086.756354,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 22,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.432369, -19.897351] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "RANCHO FUNDO III",
+        "AREA_HA": 405.105023,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 28,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.510499, -20.509722] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "2R",
+        "AREA_HA": 84.017391,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 13,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.547357, -20.548348] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA ROSA VI",
+        "AREA_HA": 841.277745,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 18,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.845814, -19.892976] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BARREIRO",
+        "AREA_HA": 1788.569748,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 21,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.622196, -20.030297] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ARROZ QUEIMADO",
+        "AREA_HA": 659.494419,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 16,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.534658, -20.26122] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BURITI IV",
+        "AREA_HA": 1039.955719,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 23,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.246782, -20.360153] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LAGEADO II",
+        "AREA_HA": 957.841475,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 29,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.421847, -20.34187] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BONANZA",
+        "AREA_HA": 3649.172438,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 24,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.600942, -20.375913] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ALTO MANTENA",
+        "AREA_HA": 940.100899,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.704653, -20.508762] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SÍTIO SANTO ANTÔNIO II",
+        "AREA_HA": 64.026127,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 21,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.7115, -20.5018] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1DF",
+        "FAZENDA": "SÍTIO SANTO ANTÔNIO II",
+        "SEVERIDADE": "4 - BAIXA",
+        "DEMANDA_CAMINHOES": 1,
+        "DEMANDA_BRIGADISTAS": 4,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "circle",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.803335, -20.105654] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "MARACATU",
+        "AREA_HA": 2404.458989,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 25,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.331043, -20.149464] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LAJEADO II",
+        "AREA_HA": 2353.328724,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 16,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.76598, -19.995176] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA REGINA",
+        "AREA_HA": 1469.584071,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 19,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.535004, -19.99679] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "JAIC I",
+        "AREA_HA": 876.311815,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 16,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.602563, -19.964858] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA MARIA X",
+        "AREA_HA": 1071.082573,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.015764, -20.770418] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA MARTA",
+        "AREA_HA": 484.104886,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 20,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.735177, -20.462562] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SÃO JUDAS TADEU II",
+        "AREA_HA": 741.049463,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 27,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.392932, -20.086867] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CABECEIRA COMPRIDA-NOSSA SRA FATIMA",
+        "AREA_HA": 4746.242117,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 21,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.878926, -20.149682] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "OLIVEIRA - IFI",
+        "AREA_HA": 1238.710378,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 19,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.854313, -20.213601] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "JACARÉ",
+        "AREA_HA": 774.772414,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 21,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.730426, -20.519448] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SÍTIO LILASES",
+        "AREA_HA": 77.346048,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 15,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.747, -20.5114] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1DR",
+        "FAZENDA": "SÍTIO LILASES",
+        "SEVERIDADE": "4 - BAIXA",
+        "DEMANDA_CAMINHOES": 1,
+        "DEMANDA_BRIGADISTAS": 5,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "circle",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.86364, -20.523138] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BARRA DO LOBO E FERREIROS",
+        "AREA_HA": 1012.058872,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 18,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.384014, -20.436123] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "VÓ NADIR",
+        "AREA_HA": 2252.975964,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 11,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.792464, -19.938615] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "DOIS IRMÃOS II",
+        "AREA_HA": 502.07445,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.892039, -20.22885] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA CLARA III",
+        "AREA_HA": 382.548112,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 28,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.631354, -19.672709] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LA AGUADA",
+        "AREA_HA": 2409.95348,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 25,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.706945, -19.810173] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "TODOS OS SANTOS",
+        "AREA_HA": 2512.685072,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.258793, -20.312371] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BOA AGUADA",
+        "AREA_HA": 5457.197342,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 29,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.8601, -20.503094] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BARRADO LOBO E FERREIROS II",
+        "AREA_HA": 1012.046155,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 16,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.84, -20.4929] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1DZ",
+        "FAZENDA": "BARRADO LOBO E FERREIROS II",
+        "SEVERIDADE": "3 - MÉDIA",
+        "DEMANDA_CAMINHOES": 3,
+        "DEMANDA_BRIGADISTAS": 14,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "caution",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.079994, -20.35851] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LARANJAL",
+        "AREA_HA": 828.561926,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 28,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.550339, -20.084094] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "TUCANO",
+        "AREA_HA": 3774.954475,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 21,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.701268, -20.489654] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "INVEJANDO",
+        "AREA_HA": 12.715409,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 16,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.984356, -20.127483] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ARATACA",
+        "AREA_HA": 2469.998897,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 19,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.537995, -20.524871] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "2R GLEBA 03",
+        "AREA_HA": 96.810303,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 28,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.598999, -20.014851] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "FLÓRIDA",
+        "AREA_HA": 1583.231832,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 12,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.495154, -20.514007] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "2R GLEBA 01",
+        "AREA_HA": 153.125244,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 22,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.094171, -20.383416] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LARANJAL II",
+        "AREA_HA": 1785.659708,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 29,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.377795, -19.618289] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SÃO JOÃO V",
+        "AREA_HA": 6506.928674,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 17,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.700406, -20.500834] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "NIRVANA",
+        "AREA_HA": 25.050351,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 18,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.352712, -20.060056] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "FUTURA GLEBA  A",
+        "AREA_HA": 618.202918,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.522762, -20.052089] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ARARAS II",
+        "AREA_HA": 232.215719,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 22,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.60295, -19.803517] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SERENATA",
+        "AREA_HA": 1496.136732,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 26,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.385316, -19.931742] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA ANA",
+        "AREA_HA": 1000.794102,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.830578, -19.73174] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CÓRREGO DO BRAÇO",
+        "AREA_HA": 2158.223303,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 15,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.831747, -20.299521] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA ROSA DO ALEGRIA",
+        "AREA_HA": 755.24251,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 21,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.8126, -20.2972] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1EP",
+        "FAZENDA": "SANTA ROSA DO ALEGRIA",
+        "SEVERIDADE": "3 - MÉDIA",
+        "DEMANDA_CAMINHOES": 3,
+        "DEMANDA_BRIGADISTAS": 12,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "caution",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.57807, -20.11276] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "TARUMÃ II",
+        "AREA_HA": 1287.26547,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 25,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.227073, -20.100984] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SABATACHE",
+        "AREA_HA": 3914.7553,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 20,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.207068, -20.449138] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "LAGOA COMPRIDA II",
+        "AREA_HA": 922.98285,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.131656, -20.38232] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "JATAÍ",
+        "AREA_HA": 678.472942,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 12,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.570509, -20.14282] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "NELORE",
+        "AREA_HA": 2723.059578,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 29,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.474134, -19.999895] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SOL NASCENTE II",
+        "AREA_HA": 111.070691,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 27,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.521812, -20.033884] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "GUAVIRA II",
+        "AREA_HA": 105.152141,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 18,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.884376, -20.129506] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SERIEMA II",
+        "AREA_HA": 312.094891,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 23,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.8925, -20.1096] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1EX",
+        "FAZENDA": "SERIEMA II",
+        "SEVERIDADE": "4 - BAIXA",
+        "DEMANDA_CAMINHOES": 1,
+        "DEMANDA_BRIGADISTAS": 5,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "circle",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.623152, -20.496524] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "RIO PARDO",
+        "AREA_HA": 115.292142,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 12,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.666765, -19.827288] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CLODASIL",
+        "AREA_HA": 6353.267533,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 20,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.707004, -20.498865] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "COLÔNIA BARRINHA GERAL",
+        "AREA_HA": 81.679977,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 19,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.6889, -20.4832] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1GB",
+        "FAZENDA": "COLÔNIA BARRINHA GERAL",
+        "SEVERIDADE": "4 - BAIXA",
+        "DEMANDA_CAMINHOES": 1,
+        "DEMANDA_BRIGADISTAS": 4,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "circle",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.87585, -20.254931] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "RECREIO",
+        "AREA_HA": 3289.679561,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 17,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.522076, -20.03994] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ESPIRITO SANTO",
+        "AREA_HA": 107.356235,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 13,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.719753, -20.424498] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CAR29",
+        "AREA_HA": 205.623275,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 17,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.7256, -20.4211] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1GE",
+        "FAZENDA": "CAR29",
+        "SEVERIDADE": "4 - BAIXA",
+        "DEMANDA_CAMINHOES": 1,
+        "DEMANDA_BRIGADISTAS": 5,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "circle",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.740871, -20.293308] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ÁGUA VERDE",
+        "AREA_HA": 315.357805,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.739002, -19.839214] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "TODOS OS SANTOS II",
+        "AREA_HA": 772.314836,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 13,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.128531, -20.45461] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "PRIMAVERA IV",
+        "AREA_HA": 610.759126,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 26,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.1373, -20.4581] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1GH",
+        "FAZENDA": "PRIMAVERA IV",
+        "SEVERIDADE": "3 - MÉDIA",
+        "DEMANDA_CAMINHOES": 3,
+        "DEMANDA_BRIGADISTAS": 14,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "caution",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.567004, -20.546117] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "VARGEÃO",
+        "AREA_HA": 598.487021,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 25,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.689823, -20.367115] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CÓRREGO DO BUGRE",
+        "AREA_HA": 1013.129285,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 22,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.737857, -20.082897] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "VÓ CECÍLIA II",
+        "AREA_HA": 796.536327,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 12,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.344786, -20.033087] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "GOAÇU",
+        "AREA_HA": 2970.567535,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 15,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.891557, -20.305446] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "JARDIM",
+        "AREA_HA": 291.200821,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 28,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.870336, -20.286437] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "RIATA",
+        "AREA_HA": 423.475675,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.8657, -20.2897] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1GO",
+        "FAZENDA": "RIATA",
+        "SEVERIDADE": "4 - BAIXA",
+        "DEMANDA_CAMINHOES": 1,
+        "DEMANDA_BRIGADISTAS": 5,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "circle",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.861155, -20.319355] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA ROSA VII",
+        "AREA_HA": 1537.672857,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 27,
+        "DISP_AVIOES": 1,
+        "marker-color": "#007cbf",
+        "marker-symbol": "airport",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.511479, -20.07658] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "IRMÃO DA ESTRADA",
+        "AREA_HA": 136.786913,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 22,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.509083, -20.033692] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SD PECUÁRIA",
+        "AREA_HA": 236.67445,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.518033, -20.061442] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ARARAS III",
+        "AREA_HA": 347.955269,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.499686, -20.056789] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "MARIANA II",
+        "AREA_HA": 280.249064,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 24,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.506384, -20.047702] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ARARAS IV",
+        "AREA_HA": 116.731409,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 20,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.495274, -20.040422] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ARARAS V",
+        "AREA_HA": 156.754796,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 26,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.4817, -20.0416] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1GV",
+        "FAZENDA": "ARARAS V",
+        "SEVERIDADE": "4 - BAIXA",
+        "DEMANDA_CAMINHOES": 1,
+        "DEMANDA_BRIGADISTAS": 5,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "circle",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.619598, -20.323471] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "COQUEIRO",
+        "AREA_HA": 1454.997969,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.407356, -20.384567] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "JARDIM II",
+        "AREA_HA": 507.882016,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 25,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.599063, -20.169772] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "FAXINAL",
+        "AREA_HA": 4665.583875,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 15,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.415726, -20.180263] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTO ONOFRE",
+        "AREA_HA": 1055.268275,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 26,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.471569, -20.395027] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SANTA TEREZA II",
+        "AREA_HA": 712.15706,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.4517, -20.3928] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1JA",
+        "FAZENDA": "SANTA TEREZA II",
+        "SEVERIDADE": "3 - MÉDIA",
+        "DEMANDA_CAMINHOES": 3,
+        "DEMANDA_BRIGADISTAS": 14,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "caution",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.79757, -20.145109] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "BOM SUCESSO II",
+        "AREA_HA": 1606.745212,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 14,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.7872, -20.1499] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "UP_ORIGEM": "C1JB",
+        "FAZENDA": "BOM SUCESSO II",
+        "SEVERIDADE": "3 - MÉDIA",
+        "DEMANDA_CAMINHOES": 3,
+        "DEMANDA_BRIGADISTAS": 15,
+        "DEMANDA_AVIOES": 0,
+        "marker-color": "#ff0000",
+        "marker-symbol": "caution",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.501143, -20.078128] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "SÃO JORGE II",
+        "AREA_HA": 442.950826,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 23,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.722633, -20.361333] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CÓRREGO DO BUGRE II",
+        "AREA_HA": 1585.004452,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 23,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.870946, -20.183346] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "GUARANI II",
+        "AREA_HA": 2312.286613,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 28,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.945091, -20.137227] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "EUROPA",
+        "AREA_HA": 3329.468381,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 22,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.896222, -20.119303] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "NOSSA SENHORA APARECIDA IX",
+        "AREA_HA": 779.376669,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 10,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-52.757666, -20.528034] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "UNIÃO II",
+        "AREA_HA": 4702.752541,
+        "DISP_CAMINHOES": 2,
+        "DISP_BRIGADISTAS": 17,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.144551, -20.474615] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CONQUISTA IV",
+        "AREA_HA": 961.545717,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 11,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.45356, -20.147571] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "CABECEIRA FUNDA",
+        "AREA_HA": 2168.506691,
+        "DISP_CAMINHOES": 5,
+        "DISP_BRIGADISTAS": 17,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.966254, -20.062524] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ITACURU",
+        "AREA_HA": 2654.126131,
+        "DISP_CAMINHOES": 4,
+        "DISP_BRIGADISTAS": 11,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.439947, -20.046804] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "VERDE MAR II",
+        "AREA_HA": 9604.574407,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 12,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.4391, -20.0327] },
+      "properties": {
+        "TIPO": "ALERTA: Foco de Incêndio",
+        "FAZENDA": "VERDE MAR II",
+        "SEVERIDADE": "2 - ALTA",
+        "DEMANDA_CAMINHOES": 5,
+        "DEMANDA_BRIGADISTAS": 28,
+        "DEMANDA_AVIOES": 1,
+        "marker-color": "#ff0000",
+        "marker-symbol": "fire",
+        "marker-size": "large"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-53.916878, -20.067916] },
+      "properties": {
+        "TIPO": "Base Logística (UP)",
+        "NOME": "ITAPORÃ",
+        "AREA_HA": 4845.603304,
+        "DISP_CAMINHOES": 3,
+        "DISP_BRIGADISTAS": 21,
+        "DISP_AVIOES": 0,
+        "marker-color": "#007cbf",
+        "marker-symbol": "warehouse",
+        "marker-size": "medium"
+      }
+    }
+  ]
+}
