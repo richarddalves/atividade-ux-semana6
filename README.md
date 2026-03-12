@@ -1,0 +1,1 @@
+# Grado de alocação de recursos
