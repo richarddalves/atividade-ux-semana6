@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grafo de Alocação com Mapa de Fundo</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        #map-container {
+            width: 100vw;
+            height: 100vh;
+            background-color: #121212;
+        }
+        .leaflet-overlay-pane svg {
+            pointer-events: none;
+        }
+        .leaflet-overlay-pane g * {
+            pointer-events: auto;
+        }
+        .tooltip {
+            position: absolute;
+            text-align: left;
+            padding: 12px;
+            font-size: 13px;
+            background: rgba(30, 30, 30, 0.95);
+            color: #fff;
+            border: 1px solid #444;
+            border-radius: 8px;
+            pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            z-index: 1000;
+        }
+        .tooltip strong { color: #00bfff; }
+        .fire-node, .base-node { cursor: pointer; }
+        .link-allocation {
+            stroke-dasharray: 5, 5;
+            animation: dash 20s linear infinite;
+        }
+        @keyframes dash {
+            to { stroke-dashoffset: -1000; }
+        }
+        #painel {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(0,0,0,0.85);
+            padding: 15px;
+            border-radius: 8px;
+            border: 1px solid #333;
+            z-index: 1000;
+            color: white;
+        }
+        h2 { margin: 0 0 10px 0; font-size: 18px; color: #ffeb3b;}
+        .legenda { font-size: 14px; margin-bottom: 5px; display: flex; align-items: center;}
+        .leg-cor { width: 12px; height: 12px; border-radius: 50%; display: inline-block; margin-right: 8px; }
+    </style>
+</head>
+<body>
+
+    <div id="map-container"></div>
+    
+    <div id="painel">
+        <h2>Painel de Alocação Ativa</h2>
+        <div class="legenda"><span class="leg-cor" style="background:#007cbf;"></span> Base Logística (Oferta)</div>
+        <div class="legenda"><span class="leg-cor" style="background:#ff3333;"></span> Foco de Incêndio (Demanda)</div>
+        <div class="legenda"><span style="color:#00ffcc; font-weight:bold; margin-right:8px;">---</span> Recurso Alocado</div>
+    </div>
+
+    <div id="tooltip" class="tooltip"></div>
+
+<script>
+    // Inicializar o Leaflet
+    const map = L.map('map-container').setView([-20.2, -53.5], 7);
+
+    // Adicionar os "Tiles" (O mapa de fundo)
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+        maxZoom: 20
+    }).addTo(map);
+
+    // Preparar o D3 para desenhar em cima do Leaflet
+    L.svg().addTo(map);
+    const overlay = d3.select(map.getPanes().overlayPane);
+    const svg = overlay.select("svg");
+    const g = svg.select("g").attr("class", "leaflet-zoom-hide");
+    const tooltip = d3.select("#tooltip");
+
+    function projectPoint(lat, lng) {
+        return map.latLngToLayerPoint(new L.LatLng(lat, lng));
+    }
+
+    // Carregar os dados do geo.json
+    d3.json("geo.json").then(function(geoData) {
+        
+        let bases = [];
+        let fires = [];
+
+        geoData.features.forEach((feature, index) => {
+            let lon = feature.geometry.coordinates[0];
+            let lat = feature.geometry.coordinates[1];
+            
+            let node = {
+                id: index,
+                lat: lat,
+                lng: lon,
+                ...feature.properties
+            };
+            
+            if (node.TIPO.includes("Base")) {
+                node.caminhoesAtuais = node.DISP_CAMINHOES || 0;
+                node.brigadistasAtuais = node.DISP_BRIGADISTAS || 0;
+                bases.push(node);
+            } else if (node.TIPO.includes("ALERTA")) {
+                node.pesoSeveridade = parseInt(node.SEVERIDADE.split(" ")[0]); 
+                fires.push(node);
+            }
+        });
+
+        fires.sort((a, b) => a.pesoSeveridade - b.pesoSeveridade);
+
+        let links = [];
+
+        fires.forEach(fire => {
+            let camNecessarios = fire.DEMANDA_CAMINHOES || 0;
+            let brigNecessarios = fire.DEMANDA_BRIGADISTAS || 0;
+            let fireLatLng = L.latLng(fire.lat, fire.lng);
+
+            let basesOrdenadas = [...bases].sort((a, b) => {
+                return map.distance(fireLatLng, L.latLng(a.lat, a.lng)) - map.distance(fireLatLng, L.latLng(b.lat, b.lng));
+            });
+
+            basesOrdenadas.forEach(base => {
+                if (camNecessarios === 0 && brigNecessarios === 0) return;
+
+                let camAlocados = 0;
+                let brigAlocados = 0;
+
+                if (camNecessarios > 0 && base.caminhoesAtuais > 0) {
+                    let alocavel = Math.min(camNecessarios, base.caminhoesAtuais);
+                    base.caminhoesAtuais -= alocavel;
+                    camNecessarios -= alocavel;
+                    camAlocados = alocavel;
+                }
+
+                if (brigNecessarios > 0 && base.brigadistasAtuais > 0) {
+                    let alocavel = Math.min(brigNecessarios, base.brigadistasAtuais);
+                    base.brigadistasAtuais -= alocavel;
+                    brigNecessarios -= alocavel;
+                    brigAlocados = alocavel;
+                }
+
+                if (camAlocados > 0 || brigAlocados > 0) {
+                    links.push({ source: base, target: fire, cam: camAlocados, brig: brigAlocados });
+                }
+            });
+
+            fire.camPendentes = camNecessarios;
+            fire.brigPendentes = brigNecessarios;
+        });
+
+        // Criar os elementos visuais no D3
+        const linkElements = g.selectAll(".link")
+            .data(links)
+            .enter()
+            .append("line")
+            .attr("class", "link-allocation")
+            .attr("stroke", "#00ffcc")
+            .attr("stroke-width", d => Math.max(1, d.cam * 1.5))
+            .attr("stroke-opacity", 0.6)
+            .on("mouseover", function(event, d) {
+                tooltip.style("opacity", 1)
+                       .html(`<strong>Envio de Recursos:</strong><br/>De: ${d.source.NOME}<br/>Para: ${d.target.FAZENDA}<br/><br/>🚚 Caminhões: ${d.cam}<br/>👨‍🚒 Brigadistas: ${d.brig}`);
+                d3.select(this).attr("stroke", "#ffffff").attr("stroke-width", 4);
+            })
+            .on("mousemove", event => tooltip.style("left", (event.pageX + 15) + "px").style("top", (event.pageY + 15) + "px"))
+            .on("mouseout", function(event, d) {
+                tooltip.style("opacity", 0);
+                d3.select(this).attr("stroke", "#00ffcc").attr("stroke-width", Math.max(1, d.cam * 1.5));
+            });
+
+        const baseElements = g.selectAll(".base")
+            .data(bases)
+            .enter()
+            .append("circle")
+            .attr("class", "base-node")
+            .attr("r", 7)
+            .attr("fill", "#007cbf")
+            .attr("stroke", "#ffffff")
+            .attr("stroke-width", 1.5)
+            .on("mouseover", function(event, d) {
+                tooltip.style("opacity", 1)
+                       .html(`<strong>${d.NOME}</strong><br/>Tipo: Base Logística<br/><br/><strong>Capacidade Ociosa Restante:</strong><br/>🚚 Caminhões: ${d.caminhoesAtuais} / ${d.DISP_CAMINHOES}<br/>👨‍🚒 Brigadistas: ${d.brigadistasAtuais} / ${d.DISP_BRIGADISTAS}`);
+                d3.select(this).attr("r", 10).attr("fill", "#33adff");
+            })
+            .on("mousemove", event => tooltip.style("left", (event.pageX + 15) + "px").style("top", (event.pageY - 20) + "px"))
+            .on("mouseout", function() {
+                tooltip.style("opacity", 0);
+                d3.select(this).attr("r", 7).attr("fill", "#007cbf");
+            });
+
+        const fireElements = g.selectAll(".fire")
+            .data(fires)
+            .enter()
+            .append("circle")
+            .attr("class", "fire-node")
+            .attr("r", d => d.pesoSeveridade === 1 ? 12 : (d.pesoSeveridade === 2 ? 9 : 6))
+            .attr("fill", d => d.pesoSeveridade === 1 ? "#ff0000" : "#ff6600")
+            .attr("stroke", "#fff")
+            .attr("stroke-width", 1)
+            .on("mouseover", function(event, d) {
+                let status = (d.camPendentes === 0 && d.brigPendentes === 0) 
+                             ? "<span style='color:#00ff00'>100% Atendido</span>" 
+                             : "<span style='color:#ff3333'>Déficit de Recursos!</span>";
+
+                tooltip.style("opacity", 1)
+                       .html(`<strong>⚠️ Foco: ${d.FAZENDA}</strong><br/>Severidade: ${d.SEVERIDADE}<br/><br/><strong>Status Operacional:</strong> ${status}<br/>🚚 Demanda Caminhões: ${d.DEMANDA_CAMINHOES} (Falta: ${d.camPendentes})<br/>👨‍🚒 Demanda Brig.: ${d.DEMANDA_BRIGADISTAS} (Falta: ${d.brigPendentes})`);
+                d3.select(this).attr("stroke-width", 3);
+            })
+            .on("mousemove", event => tooltip.style("left", (event.pageX + 15) + "px").style("top", (event.pageY - 20) + "px"))
+            .on("mouseout", function() {
+                tooltip.style("opacity", 0);
+                d3.select(this).attr("stroke-width", 1);
+            });
+
+        // Atualizar posições quando o usuário der Zoom ou Arrastar o mapa
+        function updatePositions() {
+            baseElements.attr("cx", d => projectPoint(d.lat, d.lng).x)
+                        .attr("cy", d => projectPoint(d.lat, d.lng).y);
+            
+            fireElements.attr("cx", d => projectPoint(d.lat, d.lng).x)
+                        .attr("cy", d => projectPoint(d.lat, d.lng).y);
+
+            linkElements.attr("x1", d => projectPoint(d.source.lat, d.source.lng).x)
+                        .attr("y1", d => projectPoint(d.source.lat, d.source.lng).y)
+                        .attr("x2", d => projectPoint(d.target.lat, d.target.lng).x)
+                        .attr("y2", d => projectPoint(d.target.lat, d.target.lng).y);
+        }
+
+        updatePositions();
+        map.on("zoomend", updatePositions);
+        map.on("moveend", updatePositions);
+
+    }).catch(function(error) {
+        console.error("Erro ao carregar o arquivo geo.json.", error);
+    });
+</script>
+</body>
+</html>
